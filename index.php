@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ru">
 <?php include 'head.php';?>
   <main>
     <div class="main-slider">
