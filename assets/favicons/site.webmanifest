@@ -1,19 +1,23 @@
 {
-    "name": "",
-    "short_name": "",
-    "icons": [
+    "name" : "КазВторРесурс",
+    "short_name" : "КазВторРесурс",
+    "icons" : [
         {
-            "src": "android-chrome-192x192.png",
-            "sizes": "192x192",
-            "type": "image/png"
+            "src": "https://kzsr.kz/assets/favicons/android-chrome-192x192.png",
+            "sizes": "192x192"
         },
         {
-            "src": "android-chrome-512x512.png",
-            "sizes": "512x512",
-            "type": "image/png"
-        }
-    ],
-    "theme_color": "#ffffff",
-    "background_color": "#ffffff",
-    "display": "standalone"
+            "src": "https://kzsr.kz/assets/favicons/android-chrome-512x512.png",
+            "sizes": "512x512"
+        }],
+    "theme_color" : "#b4ef8f",
+    "background_color" : "#b4ef8f",
+    "display" : "standalone",
+    "start_url" : "https://kzsr.kz/",
+    "url" : "https://kzsr.kz/",
+    "lang" : "",
+    "screenshots" : [],
+    "description" : "Лидер на рынке вторичного сырья",
+    "orientation" : "",
+    "generated" : ""
 }

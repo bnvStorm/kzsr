@@ -25,12 +25,12 @@
   </script>
   <noscript><div><img src="https://mc.yandex.ru/watch/62237095" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
   <!-- /Yandex.Metrika counter -->
-
+  <script src="assets/js/sw.js"></script>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1" name="viewport">
   <meta content="Arquito - 3D Architecture &amp; Interior HTML Template" name="description">
-  <meta content="Paul, Logan Cee, Mikhail Ojereliev" name="author">
   <title>КазВторРесурс</title>
+
   <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Teko:300,400" rel="stylesheet">
   <!--CSS-->
   <link href="assets/css/icofont.min.css" rel="stylesheet">
@@ -56,7 +56,7 @@
   <link href="assets/favicons/favicon.ico" rel="shortcut icon">
   <meta content="#da532c" name="msapplication-TileColor">
   <meta content="favicons/browserconfig.xml" name="msapplication-config">
-  <meta content="#ffffff" name="theme-color">
+  <meta content="#b4ef8f" name="theme-color">
   <link rel="stylesheet" href="assets/css/site.addons.css">
  
 </head>
