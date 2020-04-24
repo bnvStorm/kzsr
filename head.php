@@ -1,35 +1,71 @@
 <head>
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-164363587-1"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
 
-    gtag('config', 'UA-164363587-1');
-  </script>
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-
-  <!-- Yandex.Metrika counter -->
-  <script type="text/javascript" >
-   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
-   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
-   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
-
-   ym(62237095, "init", {
-        clickmap:true,
-        trackLinks:true,
-        accurateTrackBounce:true,
-        webvisor:true
-   });
-  </script>
-  <noscript><div><img src="https://mc.yandex.ru/watch/62237095" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
-  <!-- /Yandex.Metrika counter -->
-  <script src="assets/js/sw.js"></script>
+  <!-- base -->
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1" name="viewport">
-  <meta content="Arquito - 3D Architecture &amp; Interior HTML Template" name="description">
+  <!-- base -->
+  <!-- SEO -->
   <title>КазВторРесурс</title>
+  <meta name="description" content="Лидер на рынке вторичного сырья в Казахстане.">
+  <meta name="robots" content="index,follow">
+  <!-- SEO -->
+
+
+  <!-- PWA -->
+  <link href="assets/favicons/site.webmanifest" rel="manifest">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="application-name" content="КазВторРесурс">
+  <meta name="apple-mobile-web-app-title" content="КазВторРесурс">
+  <meta name="msapplication-navbutton-color" content="#b4ef8f">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="msapplication-starturl" content="/">
+  <meta content="#b4ef8f" name="theme-color">
+  <meta content="#da532c" name="msapplication-TileColor">
+  <link color="#5bbad5" href="assets/favicons/safari-pinned-tab.svg" rel="mask-icon">
+  <script src="assets/js/sw.js"></script>
+  <!-- PWA -->
+
+  <!-- icons -->
+  <link href="assets/favicons/apple-touch-icon.png" rel="apple-touch-icon" sizes="180x180">
+  <link href="assets/favicons/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png">
+  <link href="assets/favicons/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png">
+  <link href="assets/favicons/favicon.ico" rel="shortcut icon">
+  <meta content="favicons/browserconfig.xml" name="msapplication-config">
+  <!-- icons -->
+
+  <!-- social -->
+
+  <!-- social -->
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-164363587-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-164363587-1');
+    </script>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+
+    <!-- Yandex.Metrika counter -->
+    <script type="text/javascript" >
+     (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+     m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+     (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+     ym(62237095, "init", {
+          clickmap:true,
+          trackLinks:true,
+          accurateTrackBounce:true,
+          webvisor:true
+     });
+    </script>
+    <noscript><div><img src="https://mc.yandex.ru/watch/62237095" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+    <!-- /Yandex.Metrika counter -->
+  
+
 
   <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Teko:300,400" rel="stylesheet">
   <!--CSS-->
@@ -47,16 +83,6 @@
   <!--Theme CSS-->
   <link href="assets/css/theme.css" rel="stylesheet">
   <link href="assets/css/responsive.css" rel="stylesheet">
-  <!--Favicons-->
-  <link href="assets/favicons/apple-touch-icon.png" rel="apple-touch-icon" sizes="180x180">
-  <link href="assets/favicons/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png">
-  <link href="assets/favicons/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png">
-  <link href="assets/favicons/site.webmanifest" rel="manifest">
-  <link color="#5bbad5" href="assets/favicons/safari-pinned-tab.svg" rel="mask-icon">
-  <link href="assets/favicons/favicon.ico" rel="shortcut icon">
-  <meta content="#da532c" name="msapplication-TileColor">
-  <meta content="favicons/browserconfig.xml" name="msapplication-config">
-  <meta content="#b4ef8f" name="theme-color">
   <link rel="stylesheet" href="assets/css/site.addons.css">
  
 </head>
