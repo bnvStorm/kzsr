@@ -3,7 +3,6 @@
   <!-- base -->
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1" name="viewport">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <!-- base -->
   <!-- SEO -->
   <title>КазВторРесурс</title>
