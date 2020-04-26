@@ -146,19 +146,19 @@
           <div class="menu-panel__menu-item">
             <a class="menu-panel__menu-link collapsed collapsed" data-toggle="collapse" href="#submenu4">Диалог</a>
           </div>
-          <div class="menu-panel__menu-item">
+<!--           <div class="menu-panel__menu-item">
             <a class="menu-panel__menu-link collapsed collapsed" data-toggle="collapse" href="#submenu4">Контакты</a>
-          </div>
+          </div> -->
         </div>
         <div class="menu-panel__footer">
-          <div class="socials menu-panel__socials">
+<!--           <div class="socials menu-panel__socials">
             <a class="socials__social icofont-instagram" href="#">
               <div class="visually-hidden">instagram</div>
             </a>
             <a class="socials__social icofont-facebook" href="#">
               <div class="visually-hidden">facebook</div>
             </a>
-          </div>
+          </div> -->
           <div class="menu-panel__bottom">
             <div class="menu-panel__copyright">© 2020
               <strong>КазВторРесурс</strong>
