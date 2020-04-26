@@ -4,7 +4,7 @@
         <a class="logo" href="/">КазВторРесурс</a>
       </div>
       <div class="row">
-        <div class="footer-default__column col-12 col-sm-6 col-md-3 add_col">
+<!--         <div class="footer-default__column col-12 col-sm-6 col-md-3 add_col">
           <div class="footer-default__group-title">Адрес</div>
           <p>Казахстан</p>
         
@@ -15,29 +15,29 @@
           <p>
             <a href="mailto:infor@arquito.com">in@kzsr.kz</a>
           </p>
-          <p>+77051112233</p>
-        </div>
-        <div class="footer-default__column col-12 col-sm-6 col-md-3 menu_col">
+          <p><a href="tel:+77051112233">+77051112233</a></p>
+        </div> -->
+<!--         <div class="footer-default__column col-12 col-sm-6 col-md-3 menu_col">
           <div class="footer-default__group-title">Меню</div>
           <ul class="footer-default__list">
             <li class="footer-default__list-item">
-              <a class="footer-default__list-link" href="#">Мы</a>
+              <a class="footer-default__list-link" href="!#">Мы</a>
             </li>
             <li class="footer-default__list-item">
-              <a class="footer-default__list-link" href="#">Новости</a>
+              <a class="footer-default__list-link" href="!#">Новости</a>
             </li>
             <li class="footer-default__list-item">
-              <a class="footer-default__list-link" href="#">Витрина</a>
+              <a class="footer-default__list-link" href="!#">Витрина</a>
             </li>
             <li class="footer-default__list-item">
-              <a class="footer-default__list-link" href="#">Диалог</a>
+              <a class="footer-default__list-link" href="!#">Диалог</a>
             </li>
             <li class="footer-default__list-item">
-              <a class="footer-default__list-link" href="#">Контакты</a>
+              <a class="footer-default__list-link" href="!#">Контакты</a>
             </li>
           </ul>
-        </div>
-        <div class="footer-default__column col-12 col-sm-6 col-md-3 part_col">
+        </div> -->
+<!--         <div class="footer-default__column col-12 col-sm-6 col-md-3 part_col">
           <div class="footer-default__group-title">Наши партнеры</div>
           <ul class="footer-default__list">
             <li class="footer-default__list-item">
@@ -68,8 +68,8 @@
              </div>
             </li>
           </ul>
-        </div>
-        <div class="footer-default__column col-12 col-sm-6 col-md-3 social_col">
+        </div> -->
+<!--         <div class="footer-default__column col-12 col-sm-6 col-md-3 social_col">
           <div class="socials footer-default__socials">
             <a class="socials__social icofont-facebook" href="#">
               <div class="visually-hidden">facebook</div>
@@ -78,7 +78,7 @@
               <div class="visually-hidden">instagram</div>
             </a>
           </div>
-        </div>
+        </div> -->
       </div>
       <div class="footer-default__bottom">
         <div class="footer-default__copyright">© 2020
@@ -98,6 +98,7 @@
 <script src="assets/js/jquery.viewport.min.js"></script>
 <script src="assets/js/jQuerySimpleCounter.min.js"></script>
 <script src="assets/js/jquery.magnific-popup.min.js"></script>
+
 <script src="assets/js/isotope.pkgd.min.js"></script>
 <script src="assets/js/animsition.min.js"></script>
 <script src="assets/js/bootstrap.bundle.min.js"></script>
@@ -125,9 +126,16 @@
 <script src="assets/js/revolution/extensions/revolution.extension.parallax.min.js"></script>
 <script src="assets/js/revolution/extensions/revolution.extension.slideanims.min.js"></script>
 <script src="assets/js/revolution/extensions/revolution.extension.video.min.js"></script>
+  <!--Google Maps JS-->
+<script src="https://maps.google.com/maps/api/js?key=AIzaSyCwVuYiM-83l2IdjpT9uC0lg4jBm8-w4j8&amp;amp;ver=1"></script>
+<script src="assets/js/gmap.js"></script>
 <script src="assets/js/site.addons.js"></script>
 <!--Theme JS-->
+
 <script src="assets/js/theme.js"></script>
+
+<script src="assets/css/popup/poup.js"></script>
+<script src="assets/css/popup/popup.css"></script>
 <script>
         (function(w,d,u){
                 var s=d.createElement('script');s.async=true;s.src=u+'?'+(Date.now()/60000|0);

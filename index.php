@@ -139,17 +139,17 @@
       <div class="main-slider__footer">
         <div class="container-fluid">
           <div class="main-slider__footer-inner">
-            <div class="main-slider__socials">
+<!--             <div class="main-slider__socials">
               <a class="main-slider__social-link icofont-instagram" href="#">
                 <div class="visually-hidden">instagram</div>
               </a>
               <a class="main-slider__social-link icofont-facebook" href="#">
                 <div class="visually-hidden">facebook</div>
               </a>
-              <!-- <a class="main-slider__social-link icofont-behance" href="#">
+               <a class="main-slider__social-link icofont-behance" href="#">
                 <div class="visually-hidden">vk</div>
-              </a> -->
-            </div>
+              </a> 
+            </div> -->
             <!-- <div class="main-slider__locales">
               <a class="main-slider__locale link link link_active" href="#">En</a>
               <a class="main-slider__locale link" href="#">Fr</a>
@@ -286,7 +286,7 @@
               <div class="specialization-block__item-title">Операции на рынке вторичного сырья</div>
               <!-- <div class="specialization-block__item-text">Переработка отходов ...
               </div> -->
-              <a class="specialization-block__item-link link" href="#">Смотреть</a> 
+              <!-- <a class="specialization-block__item-link link" href="#">Смотреть</a>  -->
             </div>
           </div>
           <div class="col-12 col-lg-4">
@@ -296,7 +296,7 @@
               <div class="specialization-block__item-title">Работаем во всех регионах Казахстана</div>
               <!-- <div class="specialization-block__item-text">Переработка отходов ...
               </div>-->
-              <a class="specialization-block__item-link link" href="#">Смотреть</a> 
+              <!-- <a class="specialization-block__item-link link" href="#">Смотреть</a>  -->
             </div>
           </div>
           <div class="col-12 col-lg-4">
@@ -306,7 +306,7 @@
               <div class="specialization-block__item-title">Собственная сеть логистики</div>
               <!-- <div class="specialization-block__item-text">Переработка отходов....
               </div> -->
-              <a class="specialization-block__item-link link" href="#">Смотреть</a>
+              <!-- <a class="specialization-block__item-link link" href="#">Смотреть</a> -->
             </div>
           </div>
         </div>
@@ -464,7 +464,63 @@
         </div>
       </div> -->
     </div>
+        <div class="contact-block">
+      <div class="contact-block__map map" data-lat="-37.816248" data-lng="144.965981" id="map"></div>
+      <div class="container">
+        <div class="row">
+          <div class="col-12 col-lg-5">
+            <div class="heading-smallest heading-smallest heading-smallest_has-offset heading-smallest heading-smallest_size_small">Адрес</div>
+            <div class="contact-block__place">Казахстан
+              <span class="contact-block__place-marker">Караганда</span>
+            </div>
+            <div class="contact-block__text">
+              <p>ул. Механическая 1/1
+        
+              </p>
+              <p>
+                <a href="tel:+77051112233">+7 705 1112233</a>
+              </p>
+              <p>
+                <a href="mailto:infor@arquito.com">in@kzsr.kz</a>
+              </p>
+            </div>
+      <!--       <a class="contact-block__link" href="#">Map Direction
+              <span class="contact-block__link-icon icon-chevron-right"></span>
+            </a> -->
+          </div>
+          <div class="col-12 col-lg-7">
+            <div class="heading-smallest heading-smallest heading-smallest_has-offset heading-smallest heading-smallest_size_small">Напишите нам</div>
+            <form class="contact-block__form">
+              <div class="row">
+                <div class="col-12 col-sm-6">
+                  <input class="contact-block__input-text" placeholder="Имя" type="text"/>
+                </div>
+                <div class="col-12 col-sm-6">
+                  <input class="contact-block__input-text" placeholder="Компания" type="text"/>
+                </div>
+                <div class="col-12">
+                  <textarea class="contact-block__input-textarea" placeholder="Напишите тут ваше сообщение"></textarea>
+                  <button class="contact-block__submit">Отправить
+                    <span class="contact-block__submit-icon icofont-caret-right"></span>
+                  </button>
+                </div>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
   </main>
+<!--   <div class="b-container">
+    Sample Text
+    <a href="javascript:PopUpShow()">Show popup</a>
+</div>
+<div class="b-popup" id="popup1">
+    <div class="b-popup-content">
+        Text in Popup
+    <a href="javascript:PopUpHide()">Hide popup</a>
+    </div>
+</div> -->
 <?php include 'foot.php';?>
 </body>
 </html>

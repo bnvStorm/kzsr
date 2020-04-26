@@ -15,7 +15,9 @@
     "display" : "standalone",
     "start_url" : "https://kzsr.kz/",
     "url" : "https://kzsr.kz/",
-    "lang" : "ru",
+    "lang" : "",
     "screenshots" : [],
-    "description" : "Лидер на рынке вторичного сырья"
+    "description" : "Лидер на рынке вторичного сырья",
+    "orientation" : "",
+    "generated" : ""
 }
