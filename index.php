@@ -403,6 +403,45 @@
                 <img alt="" class="reviews-block__quote" data-src="../assets/img/search.png"/>
               </div>
             </div>
+                        <div class="reviews-block__slide swiper-slide">
+              <div class="reviews-block__text">«Несколько лет сотрудничаем с компанией «КазВторРесурс». Совместная плодотворная работы привела к росту выпускаемой нами продукции. Отличная логистика компании не допускает срывов в сроках поставки закупленных объемов к нам на предприятие. Рекомендую этих ребят: пунктуальные, обязательные, исполнительные!»</div>
+              <div class="reviews-block__person">
+                <div class="reviews-block__person-image">
+                  <img alt="" data-src="../assets/img/search.png"/>
+                </div>
+                <div class="reviews-block__person-data">
+                  <div class="reviews-block__person-name">Иван Иванович</div>
+                  <div class="reviews-block__person-role">Человек</div>
+                </div>
+                <img alt="" class="reviews-block__quote" data-src="../assets/img/search.png"/>
+              </div>
+            </div>
+                        <div class="reviews-block__slide swiper-slide">
+              <div class="reviews-block__text">«Несколько лет сотрудничаем с компанией «КазВторРесурс». Совместная плодотворная работы привела к росту выпускаемой нами продукции. Отличная логистика компании не допускает срывов в сроках поставки закупленных объемов к нам на предприятие. Рекомендую этих ребят: пунктуальные, обязательные, исполнительные!»</div>
+              <div class="reviews-block__person">
+                <div class="reviews-block__person-image">
+                  <img alt="" data-src="../assets/img/search.png"/>
+                </div>
+                <div class="reviews-block__person-data">
+                  <div class="reviews-block__person-name">Иван Иванович</div>
+                  <div class="reviews-block__person-role">Человек</div>
+                </div>
+                <img alt="" class="reviews-block__quote" data-src="../assets/img/search.png"/>
+              </div>
+            </div>
+                        <div class="reviews-block__slide swiper-slide">
+              <div class="reviews-block__text">«Несколько лет сотрудничаем с компанией «КазВторРесурс». Совместная плодотворная работы привела к росту выпускаемой нами продукции. Отличная логистика компании не допускает срывов в сроках поставки закупленных объемов к нам на предприятие. Рекомендую этих ребят: пунктуальные, обязательные, исполнительные!»</div>
+              <div class="reviews-block__person">
+                <div class="reviews-block__person-image">
+                  <img alt="" data-src="../assets/img/search.png"/>
+                </div>
+                <div class="reviews-block__person-data">
+                  <div class="reviews-block__person-name">Иван Иванович</div>
+                  <div class="reviews-block__person-role">Человек</div>
+                </div>
+                <img alt="" class="reviews-block__quote" data-src="../assets/img/search.png"/>
+              </div>
+            </div>
             <!-- <div class="reviews-block__slide swiper-slide">
               <div class="reviews-block__text">I don’t know what else to say, this is something that you haven’t seen before. Unique design, lightweight, and outstanding support.</div>
               <div class="reviews-block__person">

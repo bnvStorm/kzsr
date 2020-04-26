@@ -1,10 +1,16 @@
 <!DOCTYPE html>
 <html lang="ru">
 <?php include 'head.php';?>
+<style>
+  main {
+    background: url('assets/img/header.jpg');
+    background-size: contain;
+  }
+</style>
   <main>
     <div class="heading-default heading-default heading-default_context_default">
       <div class="container">
-        <div class="heading-default__title">Новости о компании</div>
+        <div class="heading-default__title">Новости</div>
         <ul class="heading-default__breadcrumbs">
           <li class="heading-default__breadcrumb-item">
             <a class="heading-default__breadcrumb-link" href="/">Главная</a>
