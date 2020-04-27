@@ -24,7 +24,7 @@
                    data-scaleend="100"
                    data-scalestart="110"
                    src="assets/img/1.jpg"/>
-              <!-- <div class="rs-background-video-layer"
+              <div class="rs-background-video-layer"
                    data-aspectratio="4:3"
                    data-autoplay="true"
                    data-autoplayonlyfirsttime="false"
@@ -35,8 +35,8 @@
                    data-videoheight="100%"
                    data-videoloop="loop"
                    data-videowidth="100%"
-                   data-vimeoid="404000840"
-                   data-volume="mute"></div> -->
+                   data-vimeoid="412326292"
+                   data-volume="mute"></div>
               <div class="main-slide main-slide main-slide_size_large">
                 <div class="main-slide__container container">
                   <div class="main-slide__slide-inner">

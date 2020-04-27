@@ -9,58 +9,24 @@
       <div class="faded-block main-slide__container container">
         <div class="main-slide__slide-inner">
           <div class="main-slide__subtitle-wrapper">
-            <div class="main-slide__subtitle">SAY HALLO!</div>
+            <div class="main-slide__subtitle">Приветствуем!</div>
           </div>
           <div class="main-slide__title-wrapper">
-            <div class="main-slide__title">Professional &
+            <div class="main-slide__title">Вопросы &
               <br>
-              Friendly
+              Ответы
             </div>
           </div>
           <div class="main-slide__text-wrapper">
-            <div class="main-slide__text">Always happy, enthusiastic and creative, is something to talk about Arquito's Team</div>
+            <div class="main-slide__text">Ответы на самые часто задаваеммые вопросы!</div>
           </div>
         </div>
       </div>
     </div>
-    <div class="counter-block">
-      <div class="container">
-        <div class="row">
-          <div class="col-12 col-xs-6 col-lg-5 col-xl-4">
-            <div class="counter-block__card">
-              <div class="counter-block__card-title">our
-                <br/>
-                history
-              </div>
-              <div class="counter-block__card-value js-counter" data-counter-value="25">25</div>
-              <div class="counter-block__card-description">years
-                <br/>
-                experience
-              </div>
-            </div>
-          </div>
-          <div class="col-12 col-xs-6 col-lg-5 col-xl-4 offset-lg-1 offset-xl-2">
-            <div class="counter-block__title heading-smallest">our achievements</div>
-            <div class="counter-block__item">
-              <div class="counter-block__item-value js-counter" data-counter-value="12000">12,000</div>
-              <div class="counter-block__item-text">Partners worldwide, as well as architects, developers and investors.</div>
-            </div>
-            <div class="counter-block__item">
-              <div class="counter-block__item-value js-counter" data-counter-value="4620">4,620</div>
-              <div class="counter-block__item-text">Employees & Staffs worldwide at present.</div>
-            </div>
-            <div class="counter-block__item">
-              <div class="counter-block__item-value js-counter" data-counter-value="2750">2,750</div>
-              <div class="counter-block__item-text">Project completed and delivery on worldwide with more 60 countries</div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="container">
+<!--     <div class="container">
       <div class="heading-smallest heading-smallest heading-smallest_has-offset heading-smallest heading-smallest_size_default">Our specialization</div>
-    </div>
-    <div class="cards">
+    </div> -->
+  <!--   <div class="cards">
       <div class="container-fluid">
         <div class="row">
           <div class="cards__item col-12 col-md-6 col-xl-3">
@@ -89,12 +55,12 @@
           </div>
         </div>
       </div>
-    </div>
+    </div> -->
     <div class="collapse-block">
       <div class="container">
         <div class="row">
           <div class="col-12 col-lg-5">
-            <div class="heading-smallest heading-smallest heading-smallest_has-offset heading-smallest heading-smallest_size_default">Our Progress</div>
+            <div class="heading-smallest heading-smallest heading-smallest_has-offset heading-smallest heading-smallest_size_default">Все вопросы</div>
             <div class="collapse-list">
               <div class="collapse-list__collapse">
                 <a class="collapse-list__collapse-head collapsed" data-toggle="collapse" href="#collapse1">1. Concept
@@ -137,12 +103,6 @@
                 </div>
               </div>
             </div>
-          </div>
-          <div class="col-12 col-lg-6 offset-lg-1">
-            <a class="video-block popup-video" href="https://vimeo.com/34741214" target="_blank">
-              <img alt="" src="img/home-studio-video-image.jpg"/>
-              <span class="video-block__play"></span>
-            </a>
           </div>
         </div>
       </div>
@@ -296,7 +256,7 @@
     <div class="team-block team-block team-block_separated">
       <div class="container">
         <div class="team-block__body">
-          <div class="heading-smallest heading-smallest heading-smallest_has-offset heading-smallest heading-smallest_size_default">Meet our team</div>
+          <div class="heading-smallest heading-smallest heading-smallest_has-offset heading-smallest heading-smallest_size_default">Спросите специалиста</div>
           <div class="team-block__slider-wrapper">
             <button class="team-block__control team-block__control_prev icon-chevron-left" type="button">
               <span class="visually-hidden">prev</span>
@@ -310,7 +270,7 @@
                   <div class="team-block__image-wrapper">
                     <img alt="" src="img/team-1.jpg"/>
                     <div class="team-block__hover">
-                      <div class="socials">
+<!--                       <div class="socials">
                         <a class="socials__social icofont-twitter" href="#">
                           <div class="visually-hidden">twitter</div>
                         </a>
@@ -320,17 +280,17 @@
                         <a class="socials__social icofont-google-plus" href="#">
                           <div class="visually-hidden">google plus</div>
                         </a>
-                      </div>
+                      </div> -->
                     </div>
                   </div>
-                  <div class="team-block__person-name">Alex Fergurson</div>
-                  <div class="team-block__person-role">CEO Founder</div>
+                  <div class="team-block__person-name">Оксана РЕХМАН</div>
+                  <div class="team-block__person-role">Менеджер по разработке коммерческих предложений</div>
                 </div>
                 <div class="team-block__slide swiper-slide">
                   <div class="team-block__image-wrapper">
                     <img alt="" src="img/team-2.jpg"/>
                     <div class="team-block__hover">
-                      <div class="socials">
+          <!--             <div class="socials">
                         <a class="socials__social icofont-twitter" href="#">
                           <div class="visually-hidden">twitter</div>
                         </a>
@@ -340,17 +300,17 @@
                         <a class="socials__social icofont-google-plus" href="#">
                           <div class="visually-hidden">google plus</div>
                         </a>
-                      </div>
+                      </div> -->
                     </div>
                   </div>
-                  <div class="team-block__person-name">Laura Jefferson</div>
-                  <div class="team-block__person-role">CO Founder</div>
+                  <div class="team-block__person-name">Карина МАСТАЕВА</div>
+                  <div class="team-block__person-role">Менеджер по закупкам</div>
                 </div>
                 <div class="team-block__slide swiper-slide">
                   <div class="team-block__image-wrapper">
                     <img alt="" src="img/team-3.jpg"/>
                     <div class="team-block__hover">
-                      <div class="socials">
+              <!--         <div class="socials">
                         <a class="socials__social icofont-twitter" href="#">
                           <div class="visually-hidden">twitter</div>
                         </a>
@@ -360,13 +320,13 @@
                         <a class="socials__social icofont-google-plus" href="#">
                           <div class="visually-hidden">google plus</div>
                         </a>
-                      </div>
+                      </div> -->
                     </div>
                   </div>
-                  <div class="team-block__person-name">Kylian Mbappe</div>
-                  <div class="team-block__person-role">Project Management</div>
+                  <div class="team-block__person-name">Дина ГРИЦОВА</div>
+                  <div class="team-block__person-role">Офис-менеджер</div>
                 </div>
-                <div class="team-block__slide swiper-slide">
+          <!--       <div class="team-block__slide swiper-slide">
                   <div class="team-block__image-wrapper">
                     <img alt="" src="img/team-4.jpg"/>
                     <div class="team-block__hover">
@@ -425,12 +385,12 @@
                   </div>
                   <div class="team-block__person-name">Kylian Mbappe</div>
                   <div class="team-block__person-role">Project Management</div>
-                </div>
+                </div> -->
               </div>
             </div>
           </div>
-          <div class="team-block__text">Become a member in Arquito’s Team! Send your CV to our email:
-            <a href="mailto:career@arquito.com">career@arquito.com</a>
+          <div class="team-block__text">Остались вопросы?Напишите их нам на почту:
+            <a href="mailto:in@kzsr.kz">in@kzsr.kz</a>
           </div>
         </div>
       </div>

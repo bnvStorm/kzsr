@@ -99,14 +99,24 @@ main{
 .header__menu-button{
   color:#000;
 }
+.contact-block{
+  padding-top: 200px;
+}
 .contact-block__map{
-  margin-top: 200px;
+  margin-top: 20px;
 }
 .cards__item{
   background: rgba(0, 0, 0, 0.7);;
 }
 .header__menu-button-inner,.header__menu-button-inner:before,.header__menu-button-inner:after{
   background: #000;
+}
+.col-lg-5{
+      flex: 0 0 100%;
+    max-width: 100%;
+}
+.container{
+  max-width: 860px;
 }
   @media(max-width:480px){
     .main-slide__subtitle-wrapper{
