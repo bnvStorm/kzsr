@@ -102,6 +102,9 @@ main{
 .contact-block__map{
   margin-top: 200px;
 }
+.cards__item{
+  background: rgba(0, 0, 0, 0.7);;
+}
 .header__menu-button-inner,.header__menu-button-inner:before,.header__menu-button-inner:after{
   background: #000;
 }
