@@ -33,12 +33,12 @@
         <div class="articles-grid masonry__grid">
           <div class="articles-grid__item masonry__item">
             <div class="article-item" data-filters="Inspiration">
-              <a class="article-item__image-wrapper" href="#">
+              <a class="article-item__image-wrapper" href="news-single-post.php">
                 <img alt="" src="assets/img/001.jpg"/>
               </a>
-              <a class="article-item__item-title" href="#">Пример новости</a>
+              <a class="article-item__item-title" href="news-single-post.php">Пример новости</a>
               <div class="article-item__item-footer">
-                <a class="article-item__category" href="#">Категория</a>
+                <a class="article-item__category">Категория</a>
                 <div class="article-item__date">1 янв 2020</div>
               </div>
             </div>
@@ -46,12 +46,12 @@
           
           <div class="articles-grid__item masonry__item">
             <div class="article-item" data-filters="Inspiration">
-              <a class="article-item__image-wrapper" href="#">
+              <a class="article-item__image-wrapper" href="news-single-post.php">
                 <img alt="" src="assets/img/001.jpg"/>
               </a>
-              <a class="article-item__item-title" href="#">Пример новости</a>
+              <a class="article-item__item-title" href="news-single-post.php">Пример новости</a>
               <div class="article-item__item-footer">
-                <a class="article-item__category" href="#">Категория</a>
+                <a class="article-item__category">Категория</a>
                 <div class="article-item__date">1 янв 2020</div>
               </div>
             </div>

@@ -125,7 +125,7 @@
         </div> -->
         <div class="menu-panel__menu">
           <div class="menu-panel__menu-item">
-            <a class="menu-panel__menu-link menu-panel__menu-link menu-panel__menu-link_active" data-toggle="collapse" href="/">Мы</a>
+            <a class="menu-panel__menu-link menu-panel__menu-link menu-panel__menu-link_active" data-toggle="collapse" href="/">Главная</a>
             <!-- <div class="menu-panel__menu-list collapse" id="submenu1">
               <div class="menu-panel__bottom-submenu">
                 <div class="menu-panel__submenu-item">
@@ -137,18 +137,21 @@
               </div>
             </div> -->
           </div>
+                    <div class="menu-panel__menu-item">
+            <a class="menu-panel__menu-link collapsed" data-toggle="collapse" href="about.php">Мы</a>
+          </div>
           <div class="menu-panel__menu-item">
             <a class="menu-panel__menu-link collapsed" data-toggle="collapse" href="news-grid.php">Новости</a>
           </div>
           <div class="menu-panel__menu-item">
             <a class="menu-panel__menu-link collapsed collapsed" data-toggle="collapse" href="showcase.php">Витрина</a>
           </div>
-          <!-- <div class="menu-panel__menu-item">
-            <a class="menu-panel__menu-link collapsed collapsed" data-toggle="collapse" href="#submenu4">Диалог</a>
-          </div> -->
-<!--           <div class="menu-panel__menu-item">
-            <a class="menu-panel__menu-link collapsed collapsed" data-toggle="collapse" href="#submenu4">Контакты</a>
-          </div> -->
+          <div class="menu-panel__menu-item">
+            <a class="menu-panel__menu-link collapsed collapsed" data-toggle="collapse" href="dialog.php">Диалог</a>
+          </div>
+          <div class="menu-panel__menu-item">
+            <a class="menu-panel__menu-link collapsed collapsed" data-toggle="collapse" href="contact.php">Контакты</a>
+          </div>
         </div>
         <div class="menu-panel__footer">
 <!--           <div class="socials menu-panel__socials">

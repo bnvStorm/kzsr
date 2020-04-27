@@ -4,7 +4,7 @@
         <a class="logo" href="/">КазВторРесурс</a>
       </div>
       <div class="row">
-<!--         <div class="footer-default__column col-12 col-sm-6 col-md-3 add_col">
+        <div class="footer-default__column col-12 col-sm-6 col-md-3 add_col">
           <div class="footer-default__group-title">Адрес</div>
           <p>Казахстан</p>
         
@@ -16,27 +16,27 @@
             <a href="mailto:infor@arquito.com">in@kzsr.kz</a>
           </p>
           <p><a href="tel:+77051112233">+77051112233</a></p>
-        </div> -->
-<!--         <div class="footer-default__column col-12 col-sm-6 col-md-3 menu_col">
+        </div>
+        <div class="footer-default__column col-12 col-sm-6 col-md-3 menu_col">
           <div class="footer-default__group-title">Меню</div>
           <ul class="footer-default__list">
             <li class="footer-default__list-item">
-              <a class="footer-default__list-link" href="!#">Мы</a>
+              <a class="footer-default__list-link" href="about.php">Мы</a>
             </li>
             <li class="footer-default__list-item">
-              <a class="footer-default__list-link" href="!#">Новости</a>
+              <a class="footer-default__list-link" href="news-grid.php">Новости</a>
             </li>
             <li class="footer-default__list-item">
-              <a class="footer-default__list-link" href="!#">Витрина</a>
+              <a class="footer-default__list-link" href="showcase.php">Витрина</a>
             </li>
             <li class="footer-default__list-item">
-              <a class="footer-default__list-link" href="!#">Диалог</a>
+              <a class="footer-default__list-link" href="dialog.php">Диалог</a>
             </li>
             <li class="footer-default__list-item">
-              <a class="footer-default__list-link" href="!#">Контакты</a>
+              <a class="footer-default__list-link" href="contact.php">Контакты</a>
             </li>
           </ul>
-        </div> -->
+        </div>
 <!--         <div class="footer-default__column col-12 col-sm-6 col-md-3 part_col">
           <div class="footer-default__group-title">Наши партнеры</div>
           <ul class="footer-default__list">
