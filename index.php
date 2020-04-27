@@ -504,7 +504,8 @@
       </div> -->
     </div>
         <div class="contact-block">
-      <div class="contact-block__map map" data-lat="-37.816248" data-lng="144.965981" id="map"></div>
+      <!-- <div class="contact-block__map map" data-lat="-37.816248" data-lng="144.965981" id="map"></div> -->
+      <iframe src="https://yandex.ru/map-widget/v1/?um=constructor%3A1db0a9f0e64dc90c19bbe9dfcc00824213e89d727bd3fed91870770ddb6dcd9f&amp;source=constructor" width="100%" height="479" frameborder="0"></iframe>
       <div class="container">
         <div class="row">
           <div class="col-12 col-lg-5">
@@ -513,7 +514,7 @@
               <span class="contact-block__place-marker">Караганда</span>
             </div>
             <div class="contact-block__text">
-              <p>ул. Механическая 1/1
+              <p>ул. Механическая, 1/1
         
               </p>
               <p>

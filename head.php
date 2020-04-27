@@ -143,9 +143,9 @@
           <div class="menu-panel__menu-item">
             <a class="menu-panel__menu-link collapsed collapsed" data-toggle="collapse" href="showcase.php">Витрина</a>
           </div>
-          <div class="menu-panel__menu-item">
+          <!-- <div class="menu-panel__menu-item">
             <a class="menu-panel__menu-link collapsed collapsed" data-toggle="collapse" href="#submenu4">Диалог</a>
-          </div>
+          </div> -->
 <!--           <div class="menu-panel__menu-item">
             <a class="menu-panel__menu-link collapsed collapsed" data-toggle="collapse" href="#submenu4">Контакты</a>
           </div> -->
