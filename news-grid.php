@@ -8,7 +8,7 @@
   }
 </style>
   <main>
-    <div class="heading-default heading-default heading-default_context_default">
+    <div class="heading-default heading-default heading-default_context_default heading-news">
       <div class="container">
         <div class="heading-default__title">Новости</div>
         <ul class="heading-default__breadcrumbs">
@@ -20,7 +20,7 @@
       </div>
     </div>
     <div class="masonry articles-list-wrapper">
-      <div class="container">
+      <div class="container container__news">
         <!-- <div class="articles-list-wrapper__head">
           <div class="articles-list-wrapper__filter">
             <button class="masonry__secondary-filter-button masonry__secondary-filter-button_active" data-filter="*" type="button">All</button>
@@ -30,32 +30,82 @@
             <button class="masonry__secondary-filter-button" data-filter="Discover" type="button">Discover</button>
           </div>
         </div> -->
-        <div class="articles-grid masonry__grid">
-          <div class="articles-grid__item masonry__item">
+        <div class="articles-grid masonry__grid ">
+          <div class="articles-grid__item masonry__item news_big">
             <div class="article-item" data-filters="Inspiration">
               <a class="article-item__image-wrapper" href="news-single-post.php">
                 <img alt="" src="assets/img/001.jpg"/>
               </a>
-              <a class="article-item__item-title" href="news-single-post.php">Пример новости</a>
+              <div class="news_anounce">
+                        <a class="article-item__item-title" href="news-single-post.php">Пример новости</a>
               <div class="article-item__item-footer">
                 <a class="article-item__category">Категория</a>
                 <div class="article-item__date">1 янв 2020</div>
               </div>
+              </div>
+      
             </div>
           </div>
-          
-          <div class="articles-grid__item masonry__item">
+          <div class="articles-grid__item masonry__item news_min">
             <div class="article-item" data-filters="Inspiration">
               <a class="article-item__image-wrapper" href="news-single-post.php">
                 <img alt="" src="assets/img/001.jpg"/>
               </a>
-              <a class="article-item__item-title" href="news-single-post.php">Пример новости</a>
+              <div class="news_anounce">
+                        <a class="article-item__item-title" href="news-single-post.php">Пример новости</a>
               <div class="article-item__item-footer">
                 <a class="article-item__category">Категория</a>
                 <div class="article-item__date">1 янв 2020</div>
               </div>
+              </div>
+      
             </div>
           </div>
+                    <div class="articles-grid__item masonry__item news_min">
+            <div class="article-item" data-filters="Inspiration">
+              <a class="article-item__image-wrapper" href="news-single-post.php">
+                <img alt="" src="assets/img/001.jpg"/>
+              </a>
+              <div class="news_anounce">
+                        <a class="article-item__item-title" href="news-single-post.php">Пример новости</a>
+              <div class="article-item__item-footer">
+                <a class="article-item__category">Категория</a>
+                <div class="article-item__date">1 янв 2020</div>
+              </div>
+              </div>
+      
+            </div>
+          </div>
+                    <div class="articles-grid__item masonry__item news_big">
+            <div class="article-item" data-filters="Inspiration">
+              <a class="article-item__image-wrapper" href="news-single-post.php">
+                <img alt="" src="assets/img/001.jpg"/>
+              </a>
+              <div class="news_anounce">
+                        <a class="article-item__item-title" href="news-single-post.php">Пример новости</a>
+              <div class="article-item__item-footer">
+                <a class="article-item__category">Категория</a>
+                <div class="article-item__date">1 янв 2020</div>
+              </div>
+              </div>
+      
+            </div>
+          </div>
+                           <!--  <div class="articles-grid__item masonry__item news_r">
+            <div class="article-item" data-filters="Inspiration">
+              <a class="article-item__image-wrapper" href="news-single-post.php">
+                <img alt="" src="assets/img/001.jpg"/>
+              </a>
+              <div class="news_anounce">
+                        <a class="article-item__item-title" href="news-single-post.php">Пример новости</a>
+              <div class="article-item__item-footer">
+                <a class="article-item__category">Категория</a>
+                <div class="article-item__date">1 янв 2020</div>
+              </div>
+              </div>
+      
+            </div>
+          </div> -->
         </div>
         <!-- <div class="articles-list-wrapper__loader">..loading...</div> -->
       </div>
