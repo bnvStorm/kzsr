@@ -36,7 +36,18 @@
   <!-- icons -->
 
   <!-- social -->
-
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://kzsr.kz/">
+<meta property="og:title" content="КазВторРесурс">
+<meta property="og:description" content="Лидер на рынке вторичного сырья в Казахстане">
+<meta property="og:image" content="">
+<!-- Twitter -->
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:url" content="https://kzsr.kz/">
+<meta property="twitter:title" content="КазВторРесурс">
+<meta property="twitter:description" content="Лидер на рынке вторичного сырья в Казахстане">
+<meta property="twitter:image" content="">
   <!-- social -->
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
