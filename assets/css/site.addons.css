@@ -112,49 +112,49 @@ main{
   background: #000;
 }
 .col-lg-5{
-      flex: 0 0 100%;
-    max-width: 100%;
+/*      flex: 0 0 100%;
+    max-width: 100%;*/
 }
 .container{
-  max-width: 860px;
+  /*max-width: 860px;*/
 }
 /*NEWS*/
 .container__news{
-  max-width: 860px;
+  /*max-width: 860px;*/
 }
-.article-item__image-wrapper{
+.container__news .article-item__image-wrapper{
   margin-bottom: 0;
 }
-.article-item__image-wrapper img{}
-.articles-grid__item{
+
+.container__news .articles-grid__item{
   padding: 10px;
 }
-.news_anounce{
+.container__news .news_anounce{
   padding: 10px;
   padding-top: 25px;
   background: #f24a00;
   color:#fff;
 }
-.article-item__item-title{
+.container__news .article-item__item-title{
   color:#fff;
 }
-.article-item__item-title:hover{
+.container__news .article-item__item-title:hover{
 color:#000;
 }
-.article-item__date{
+.container__news .article-item__date{
   color:#fff;
 }
 .news_big{
   box-sizing: border-box;
   width: 100%;
   max-width: 530px;
-    margin-bottom: 10px;
+  margin-bottom: 10px;
 }
 .news_min{
   box-sizing: border-box;
   width: 100%;
   max-width: 270px;
-    margin-bottom: 10px;
+  margin-bottom: 10px;
 }
 .news_r{
   width: 40%;
@@ -172,11 +172,31 @@ color:#000;
 .news_min img{
   min-height: 230px;
 }
-.news_min{
 
-}
 /*NEWS*/
+/*SHOWCASE*/
+.container__showcase{
+  margin-top: 60px;
+}
+/*SHOWCASE*/
 /*MEDIA*/
+@media (max-width: 1024px) {
+  .news_big{
+  box-sizing: border-box;
+  width: 100%;
+  max-width: 50%;
+  margin-bottom: 10px;
+}
+.news_min{
+  box-sizing: border-box;
+  width: 100%;
+  max-width: 50%;
+  margin-bottom: 10px;
+}
+.news_r{
+  width: 100%;
+}
+}
   @media(max-width:480px){
     .main-slide__subtitle-wrapper{
       margin-bottom: 10px;
@@ -213,4 +233,28 @@ color:#000;
     .no-mobile{
       padding-bottom: 0 !important;
     }
+    .container__news .articles-grid__item{
+padding: 0 35px;
+    }
+      .news_big{
+    
+  box-sizing: border-box;
+  width: 100%;
+  max-width: 100%;
+  
+  margin-bottom: 10px;
+}
+.news_min{
+  box-sizing: border-box;
+  width: 100%;
+  max-width: 100%;
+
+  margin-bottom: 10px;
+}
+.news_min img,.news_big img{
+  min-height: 230px;
+}
+.news_r{
+  width: 100%;
+}
   }

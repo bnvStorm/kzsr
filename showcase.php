@@ -14,7 +14,7 @@
       <div class="grid-block__image" style="background-image: url('assets/img/1.jpg')"></div>
       <div class="grid-block__image" style="background-image: url('assets/img/1.jpg')"></div>
       <div class="grid-block__image" style="background-image: url('assets/img/1.jpg')"></div>
-      <div class="grid-block__content container-fluid">
+      <div class="grid-block__content container-fluid container__showcase">
         <div class="row">
           <div class="grid-block__column col-12 col-sm-6 col-lg-4 col-xl-3">
             <a class="grid-block__item grid-block__item_active" href="#">

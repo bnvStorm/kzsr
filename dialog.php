@@ -59,49 +59,56 @@
     <div class="collapse-block">
       <div class="container">
         <div class="row">
-          <div class="col-12 col-lg-5">
+          <div class="col-12 col-lg-12">
             <div class="heading-smallest heading-smallest heading-smallest_has-offset heading-smallest heading-smallest_size_default">Все вопросы</div>
             <div class="collapse-list">
               <div class="collapse-list__collapse">
-                <a class="collapse-list__collapse-head collapsed" data-toggle="collapse" href="#collapse1">1. Concept
+                <a class="collapse-list__collapse-head collapsed" data-toggle="collapse" href="#collapse1">1. Вопрос
                   <span class="collapse-list__collapse-head-icon icon-chevron-up"></span>
                 </a>
                 <div class="collapse-list__collapse-text collapse" id="collapse1">
-                  <div class="collapse-list__collapse-text-inner">Light. God in she’d thing Night itself. There signs him divided tree heaven over also that open seasons doesn’tliving isn’t god.
-                    Abundantly together life heaven.
+                  <div class="collapse-list__collapse-text-inner">Далеко-далеко за словесными горами в стране, гласных и согласных живут рыбные тексты. Даль приставка родного щеке одна о возвращайся всемогущая, ведущими рукопись раз, алфавит переулка скатился, предложения ipsum вскоре заманивший. Вскоре, предупредила.
                   </div>
                 </div>
               </div>
-              <div class="collapse-list__collapse">
-                <a class="collapse-list__collapse-head collapsed" data-toggle="collapse" href="#collapse2">2. design & development
+                  <div class="collapse-list__collapse">
+                <a class="collapse-list__collapse-head collapsed" data-toggle="collapse" href="#collapse1">1. Вопрос
                   <span class="collapse-list__collapse-head-icon icon-chevron-up"></span>
                 </a>
-                <div class="collapse-list__collapse-text collapse" id="collapse2">
-                  <div class="collapse-list__collapse-text-inner">Light. God in she’d thing Night itself. There signs him divided tree heaven over also that open seasons doesn’tliving isn’t god.
-                    Abundantly together life heaven.
+                <div class="collapse-list__collapse-text collapse" id="collapse1">
+                  <div class="collapse-list__collapse-text-inner">Далеко-далеко за словесными горами в стране, гласных и согласных живут рыбные тексты. Даль приставка родного щеке одна о возвращайся всемогущая, ведущими рукопись раз, алфавит переулка скатился, предложения ipsum вскоре заманивший. Вскоре, предупредила.
                   </div>
                 </div>
               </div>
-              <div class="collapse-list__collapse">
-                <a class="collapse-list__collapse-head collapsed" data-toggle="collapse" href="#collapse3">3. Execution
+                            <div class="collapse-list__collapse">
+                <a class="collapse-list__collapse-head collapsed" data-toggle="collapse" href="#collapse1">1. Вопрос
                   <span class="collapse-list__collapse-head-icon icon-chevron-up"></span>
                 </a>
-                <div class="collapse-list__collapse-text collapse" id="collapse3">
-                  <div class="collapse-list__collapse-text-inner">Light. God in she’d thing Night itself. There signs him divided tree heaven over also that open seasons doesn’tliving isn’t god.
-                    Abundantly together life heaven.
+                <div class="collapse-list__collapse-text collapse" id="collapse1">
+                  <div class="collapse-list__collapse-text-inner">Далеко-далеко за словесными горами в стране, гласных и согласных живут рыбные тексты. Даль приставка родного щеке одна о возвращайся всемогущая, ведущими рукопись раз, алфавит переулка скатился, предложения ipsum вскоре заманивший. Вскоре, предупредила.
                   </div>
                 </div>
               </div>
-              <div class="collapse-list__collapse">
-                <a class="collapse-list__collapse-head collapsed" data-toggle="collapse" href="#collapse4">4. handover
+                            <div class="collapse-list__collapse">
+                <a class="collapse-list__collapse-head collapsed" data-toggle="collapse" href="#collapse1">1. Вопрос
                   <span class="collapse-list__collapse-head-icon icon-chevron-up"></span>
                 </a>
-                <div class="collapse-list__collapse-text collapse" id="collapse4">
-                  <div class="collapse-list__collapse-text-inner">Light. God in she’d thing Night itself. There signs him divided tree heaven over also that open seasons doesn’tliving isn’t god.
-                    Abundantly together life heaven.
+                <div class="collapse-list__collapse-text collapse" id="collapse1">
+                  <div class="collapse-list__collapse-text-inner">Далеко-далеко за словесными горами в стране, гласных и согласных живут рыбные тексты. Даль приставка родного щеке одна о возвращайся всемогущая, ведущими рукопись раз, алфавит переулка скатился, предложения ipsum вскоре заманивший. Вскоре, предупредила.
                   </div>
                 </div>
               </div>
+                            <div class="collapse-list__collapse">
+                <a class="collapse-list__collapse-head collapsed" data-toggle="collapse" href="#collapse1">1. Вопрос
+                  <span class="collapse-list__collapse-head-icon icon-chevron-up"></span>
+                </a>
+                <div class="collapse-list__collapse-text collapse" id="collapse1">
+                  <div class="collapse-list__collapse-text-inner">Далеко-далеко за словесными горами в стране, гласных и согласных живут рыбные тексты. Даль приставка родного щеке одна о возвращайся всемогущая, ведущими рукопись раз, алфавит переулка скатился, предложения ipsum вскоре заманивший. Вскоре, предупредила.
+                  </div>
+                </div>
+              </div>
+          
+    
             </div>
           </div>
         </div>
@@ -111,7 +118,7 @@
       <div class="reviews-block__main container">
         <div class="row">
           <div class="col-10 col-md-11">
-            <div class="reviews-block__title">Testimonials</div>
+            <div class="reviews-block__title">Текст</div>
           </div>
           <div class="col-2 col-md-1">
             <div class="reviews-block__controls">
@@ -127,40 +134,40 @@
         <div class="reviews-block__slider swiper-container">
           <div class="swiper-wrapper">
             <div class="reviews-block__slide swiper-slide">
-              <div class="reviews-block__text">Originally, creative and with an innate understanding of their customer’s need. The team at Arquito are always a pleasure to work with.</div>
+              <div class="reviews-block__text">Далеко-далеко за словесными горами в стране, гласных и согласных живут рыбные тексты. Он о, lorem рыбного возвращайся переписали свою, путь решила предупредила продолжил, продолжил однажды! Там ведущими языкового до одна приставка текста.</div>
               <div class="reviews-block__person">
                 <div class="reviews-block__person-image">
                   <img alt="" src="img/review-image-1.jpg"/>
                 </div>
                 <div class="reviews-block__person-data">
-                  <div class="reviews-block__person-name">Edison Cavani</div>
-                  <div class="reviews-block__person-role">Football Player at PSG</div>
+                  <div class="reviews-block__person-name">Имя</div>
+                  <div class="reviews-block__person-role">Должность</div>
                 </div>
                 <img alt="" class="reviews-block__quote" src="assets/img/quote.png"/>
               </div>
             </div>
-            <div class="reviews-block__slide swiper-slide">
-              <div class="reviews-block__text">I don’t know what else to say, this is something that you haven’t seen before. Unique design, lightweight, and outstanding support.</div>
+             <div class="reviews-block__slide swiper-slide">
+              <div class="reviews-block__text">Далеко-далеко за словесными горами в стране, гласных и согласных живут рыбные тексты. Он о, lorem рыбного возвращайся переписали свою, путь решила предупредила продолжил, продолжил однажды! Там ведущими языкового до одна приставка текста.</div>
               <div class="reviews-block__person">
                 <div class="reviews-block__person-image">
-                  <img alt="" src="img/review-image-2.jpg"/>
+                  <img alt="" src="img/review-image-1.jpg"/>
                 </div>
                 <div class="reviews-block__person-data">
-                  <div class="reviews-block__person-name">Stevie Hoang</div>
-                  <div class="reviews-block__person-role">Singer</div>
+                  <div class="reviews-block__person-name">Имя</div>
+                  <div class="reviews-block__person-role">Должность</div>
                 </div>
                 <img alt="" class="reviews-block__quote" src="assets/img/quote.png"/>
               </div>
             </div>
-            <div class="reviews-block__slide swiper-slide">
-              <div class="reviews-block__text">I don’t know what else to say, this is something that you haven’t seen before. Unique design, lightweight, and outstanding support.</div>
+                        <div class="reviews-block__slide swiper-slide">
+              <div class="reviews-block__text">Далеко-далеко за словесными горами в стране, гласных и согласных живут рыбные тексты. Он о, lorem рыбного возвращайся переписали свою, путь решила предупредила продолжил, продолжил однажды! Там ведущими языкового до одна приставка текста.</div>
               <div class="reviews-block__person">
                 <div class="reviews-block__person-image">
-                  <img alt="" src="img/review-image-2.jpg"/>
+                  <img alt="" src="img/review-image-1.jpg"/>
                 </div>
                 <div class="reviews-block__person-data">
-                  <div class="reviews-block__person-name">Stevie Hoang</div>
-                  <div class="reviews-block__person-role">Singer</div>
+                  <div class="reviews-block__person-name">Имя</div>
+                  <div class="reviews-block__person-role">Должность</div>
                 </div>
                 <img alt="" class="reviews-block__quote" src="assets/img/quote.png"/>
               </div>
@@ -202,54 +209,61 @@
     </div>
     <div class="awards-block">
       <div class="container">
-        <div class="heading-smallest heading-smallest heading-smallest_has-offset heading-smallest heading-smallest_size_default">Our winning</div>
+        <div class="heading-smallest heading-smallest heading-smallest_has-offset heading-smallest heading-smallest_size_default">Наши достижения</div>
         <div class="awards-block__body awards-block__body awards-block__body_bordered">
           <div class="awards-block__item">
             <div class="awards-block__year">2019</div>
             <div class="awards-block__list">
-              <div class="awards-block__text">OAS Development Awards
-                Shortlisted - Best West End New-Build
-                <div class="awards-block__text-footer">Central Bank, Scotland</div>
+              <div class="awards-block__text">Далеко-далеко за словесными горами в стране, гласных и согласных живут рыбные тексты. 
+                <div class="awards-block__text-footer">Текст</div>
               </div>
-              <div class="awards-block__text">OAS Development Awards
-                Shortlisted - Best City Development
-                <div class="awards-block__text-footer">Capri Ocean Museum</div>
+              <div class="awards-block__text">Далеко-далеко за словесными горами в стране, гласных и согласных живут рыбные тексты.
+                <div class="awards-block__text-footer">Текст</div>
               </div>
-              <div class="awards-block__text">Building Awards 2019
-                Shortlisted - Small Project of the Year
-                <div class="awards-block__text-footer">Dustin Villa, Spain</div>
+              <div class="awards-block__text">Далеко-далеко за словесными горами в стране, гласных и согласных живут рыбные тексты.
+                <div class="awards-block__text-footer">Текст</div>
               </div>
-              <div class="awards-block__text">OAS Development Awards
-                Shortlisted - Best City Development
-                <div class="awards-block__text-footer">Kristina House, Germny</div>
+              <div class="awards-block__text">Далеко-далеко за словесными горами в стране, гласных и согласных живут рыбные тексты.
+                <div class="awards-block__text-footer">Текст</div>
               </div>
             </div>
           </div>
-          <div class="awards-block__item">
-            <div class="awards-block__year">2017</div>
+                    <div class="awards-block__item">
+            <div class="awards-block__year">2019</div>
             <div class="awards-block__list">
-              <div class="awards-block__text">London Planning Awards
-                Shortlisted - Best Place to Work
-                <div class="awards-block__text-footer">Local Financial Office, Iasi, Romania</div>
+              <div class="awards-block__text">Далеко-далеко за словесными горами в стране, гласных и согласных живут рыбные тексты. 
+                <div class="awards-block__text-footer">Текст</div>
               </div>
-              <div class="awards-block__text">Blueprint Awards
-                Winner – Best Interior Project (Leisure)
-                <div class="awards-block__text-footer">Justin burney Villa, NY</div>
+              <div class="awards-block__text">Далеко-далеко за словесными горами в стране, гласных и согласных живут рыбные тексты.
+                <div class="awards-block__text-footer">Текст</div>
+              </div>
+              <div class="awards-block__text">Далеко-далеко за словесными горами в стране, гласных и согласных живут рыбные тексты.
+                <div class="awards-block__text-footer">Текст</div>
+              </div>
+              <div class="awards-block__text">Далеко-далеко за словесными горами в стране, гласных и согласных живут рыбные тексты.
+                <div class="awards-block__text-footer">Текст</div>
               </div>
             </div>
           </div>
-          <div class="awards-block__item">
-            <div class="awards-block__year">2016</div>
+                    <div class="awards-block__item">
+            <div class="awards-block__year">2019</div>
             <div class="awards-block__list">
-              <div class="awards-block__text">Structural Steel Design Awards
-                Winner
-                <div class="awards-block__text-footer">Art Museum, Poland</div>
+              <div class="awards-block__text">Далеко-далеко за словесными горами в стране, гласных и согласных живут рыбные тексты. 
+                <div class="awards-block__text-footer">Текст</div>
               </div>
-              <div class="awards-block__text">FX Interior Design Awards Shortlisted – Best Leisure
-                <div class="awards-block__text-footer">David Villa, Denmark</div>
+              <div class="awards-block__text">Далеко-далеко за словесными горами в стране, гласных и согласных живут рыбные тексты.
+                <div class="awards-block__text-footer">Текст</div>
+              </div>
+              <div class="awards-block__text">Далеко-далеко за словесными горами в стране, гласных и согласных живут рыбные тексты.
+                <div class="awards-block__text-footer">Текст</div>
+              </div>
+              <div class="awards-block__text">Далеко-далеко за словесными горами в стране, гласных и согласных живут рыбные тексты.
+                <div class="awards-block__text-footer">Текст</div>
               </div>
             </div>
           </div>
+      
+ 
         </div>
       </div>
     </div>
