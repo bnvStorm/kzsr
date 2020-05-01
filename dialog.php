@@ -2,17 +2,17 @@
 <html lang="en">
 <?php include 'head.php';?>
   <main>
-    <div class="main-slide main-slide main-slide_size_medium">
+    <div class="main-slide main-slide-inside main-slide main-slide_size_medium">
       <div class="parallax-image main-slide__image">
         <div class="parallax-image__image" data-rellax-percentage="0.5" data-rellax-speed="-3" style="background-image: url('img/home-slide-4.jpg')"></div>
       </div>
       <div class="faded-block main-slide__container container">
         <div class="main-slide__slide-inner">
-          <div class="main-slide__subtitle-wrapper">
+        <!--   <div class="main-slide__subtitle-wrapper">
             <div class="main-slide__subtitle">Приветствуем!</div>
-          </div>
+          </div> -->
           <div class="main-slide__title-wrapper">
-            <div class="main-slide__title">Вопросы &
+            <div class="main-slide__title">Вопросы
               <br>
               Ответы
             </div>
@@ -207,7 +207,7 @@
         </div>
       </div>
     </div>
-    <div class="awards-block">
+ <!--    <div class="awards-block">
       <div class="container">
         <div class="heading-smallest heading-smallest heading-smallest_has-offset heading-smallest heading-smallest_size_default">Наши достижения</div>
         <div class="awards-block__body awards-block__body awards-block__body_bordered">
@@ -266,7 +266,7 @@
  
         </div>
       </div>
-    </div>
+    </div> -->
     <div class="team-block team-block team-block_separated">
       <div class="container">
         <div class="team-block__body">
@@ -297,109 +297,11 @@
                       </div> -->
                     </div>
                   </div>
-                  <div class="team-block__person-name">Оксана РЕХМАН</div>
+                  <div class="team-block__person-name">Ерболат Кумаров</div>
                   <div class="team-block__person-role">Менеджер по разработке коммерческих предложений</div>
                 </div>
-                <div class="team-block__slide swiper-slide">
-                  <div class="team-block__image-wrapper">
-                    <img alt="" src="img/team-2.jpg"/>
-                    <div class="team-block__hover">
-          <!--             <div class="socials">
-                        <a class="socials__social icofont-twitter" href="#">
-                          <div class="visually-hidden">twitter</div>
-                        </a>
-                        <a class="socials__social icofont-facebook" href="#">
-                          <div class="visually-hidden">facebook</div>
-                        </a>
-                        <a class="socials__social icofont-google-plus" href="#">
-                          <div class="visually-hidden">google plus</div>
-                        </a>
-                      </div> -->
-                    </div>
-                  </div>
-                  <div class="team-block__person-name">Карина МАСТАЕВА</div>
-                  <div class="team-block__person-role">Менеджер по закупкам</div>
-                </div>
-                <div class="team-block__slide swiper-slide">
-                  <div class="team-block__image-wrapper">
-                    <img alt="" src="img/team-3.jpg"/>
-                    <div class="team-block__hover">
-              <!--         <div class="socials">
-                        <a class="socials__social icofont-twitter" href="#">
-                          <div class="visually-hidden">twitter</div>
-                        </a>
-                        <a class="socials__social icofont-facebook" href="#">
-                          <div class="visually-hidden">facebook</div>
-                        </a>
-                        <a class="socials__social icofont-google-plus" href="#">
-                          <div class="visually-hidden">google plus</div>
-                        </a>
-                      </div> -->
-                    </div>
-                  </div>
-                  <div class="team-block__person-name">Дина ГРИЦОВА</div>
-                  <div class="team-block__person-role">Офис-менеджер</div>
-                </div>
-          <!--       <div class="team-block__slide swiper-slide">
-                  <div class="team-block__image-wrapper">
-                    <img alt="" src="img/team-4.jpg"/>
-                    <div class="team-block__hover">
-                      <div class="socials">
-                        <a class="socials__social icofont-twitter" href="#">
-                          <div class="visually-hidden">twitter</div>
-                        </a>
-                        <a class="socials__social icofont-facebook" href="#">
-                          <div class="visually-hidden">facebook</div>
-                        </a>
-                        <a class="socials__social icofont-google-plus" href="#">
-                          <div class="visually-hidden">google plus</div>
-                        </a>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="team-block__person-name">Jenifer Johanson</div>
-                  <div class="team-block__person-role">3D Visualization</div>
-                </div>
-                <div class="team-block__slide swiper-slide">
-                  <div class="team-block__image-wrapper">
-                    <img alt="" src="img/team-2.jpg"/>
-                    <div class="team-block__hover">
-                      <div class="socials">
-                        <a class="socials__social icofont-twitter" href="#">
-                          <div class="visually-hidden">twitter</div>
-                        </a>
-                        <a class="socials__social icofont-facebook" href="#">
-                          <div class="visually-hidden">facebook</div>
-                        </a>
-                        <a class="socials__social icofont-google-plus" href="#">
-                          <div class="visually-hidden">google plus</div>
-                        </a>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="team-block__person-name">Laura Jefferson</div>
-                  <div class="team-block__person-role">CO Founder</div>
-                </div>
-                <div class="team-block__slide swiper-slide">
-                  <div class="team-block__image-wrapper">
-                    <img alt="" src="img/team-3.jpg"/>
-                    <div class="team-block__hover">
-                      <div class="socials">
-                        <a class="socials__social icofont-twitter" href="#">
-                          <div class="visually-hidden">twitter</div>
-                        </a>
-                        <a class="socials__social icofont-facebook" href="#">
-                          <div class="visually-hidden">facebook</div>
-                        </a>
-                        <a class="socials__social icofont-google-plus" href="#">
-                          <div class="visually-hidden">google plus</div>
-                        </a>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="team-block__person-name">Kylian Mbappe</div>
-                  <div class="team-block__person-role">Project Management</div>
-                </div> -->
+            
+           
               </div>
             </div>
           </div>

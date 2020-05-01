@@ -226,50 +226,122 @@
         <div class="swiper-wrapper">
           <div class="projects-block__slide-wrapper swiper-slide" data-filter="building">
             <a class="projects-block__slide" href="#">
-              <img alt="" class="projects-block__image" data-src="assets/img/001.jpg"/>
+              <img alt="" class="projects-block__image" src="assets/img/products/1.jpg"/>
               <span class="projects-block__slide-content">
                 <span class="projects-block__slide-head">
-                  <span class="projects-block__slide-title">Текст</span><span class="projects-block__slide-label">Приписка</span></span><span
-                class="projects-block__slide-text">Описние (превью)</span><span
-                class="projects-block__arrow icon-arrow-right"></span></span>
+                  <span class="projects-block__slide-title">АКБ</span>
+                  <span class="projects-block__slide-label">свинцово гелевые</span>
+                </span>
+                  <span class="projects-block__slide-text">Подробнее</span>
+                  <span class="projects-block__arrow icon-arrow-right"></span></span>
             </a>
           </div>
-          <div class="projects-block__slide-wrapper swiper-slide" data-filter="interior">
+                <div class="projects-block__slide-wrapper swiper-slide" data-filter="building">
             <a class="projects-block__slide" href="#">
-              <img alt="" class="projects-block__image" data-src="assets/img/002.jpg"/>
-              <span class="projects-block__slide-content"><span class="projects-block__slide-head"><span class="projects-block__slide-title">Текст 2</span><span class="projects-block__slide-label">Приписка</span></span><span
-                class="projects-block__slide-text">Описние (превью)</span><span class="projects-block__arrow icon-arrow-right"></span></span>
+              <img alt="" class="projects-block__image" src="assets/img/products/2.jpg"/>
+              <span class="projects-block__slide-content">
+                <span class="projects-block__slide-head">
+                  <span class="projects-block__slide-title">АКБ</span>
+                  <span class="projects-block__slide-label">свинцово кислотные</span>
+                </span>
+                  <span class="projects-block__slide-text">Подробнее</span>
+                  <span class="projects-block__arrow icon-arrow-right"></span></span>
+            </a>
+          </div> 
+           <div class="projects-block__slide-wrapper swiper-slide" data-filter="building">
+            <a class="projects-block__slide" href="#">
+              <img alt="" class="projects-block__image" src="assets/img/products/3.jpg"/>
+              <span class="projects-block__slide-content">
+                <span class="projects-block__slide-head">
+                  <span class="projects-block__slide-title">Картон</span>
+                  <!-- <span class="projects-block__slide-label">свинцово кислотные</span> -->
+                </span>
+                  <span class="projects-block__slide-text">Подробнее</span>
+                  <span class="projects-block__arrow icon-arrow-right"></span></span>
             </a>
           </div>
-          <div class="projects-block__slide-wrapper swiper-slide" data-filter="residence">
+         <div class="projects-block__slide-wrapper swiper-slide" data-filter="building">
             <a class="projects-block__slide" href="#">
-              <img alt="" class="projects-block__image" data-src="assets/img/003.jpg"/>
-              <span class="projects-block__slide-content"><span class="projects-block__slide-head"><span class="projects-block__slide-title">Текст 3</span><span class="projects-block__slide-label">Приписка</span></span><span
-                class="projects-block__arrow icon-arrow-right"></span></span>
+              <img alt="" class="projects-block__image" src="assets/img/products/4.jpg"/>
+              <span class="projects-block__slide-content">
+                <span class="projects-block__slide-head">
+                  <span class="projects-block__slide-title">Макулатура</span>
+                  <!-- <span class="projects-block__slide-label">свинцово кислотные</span> -->
+                </span>
+                  <span class="projects-block__slide-text">Подробнее</span>
+                  <span class="projects-block__arrow icon-arrow-right"></span></span>
+            </a>
+          </div>   
+            <div class="projects-block__slide-wrapper swiper-slide" data-filter="building">
+            <a class="projects-block__slide" href="#">
+              <img alt="" class="projects-block__image" src="assets/img/products/5.jpg"/>
+              <span class="projects-block__slide-content">
+                <span class="projects-block__slide-head">
+                  <span class="projects-block__slide-title">Масло фритюрное</span>
+                  <!-- <span class="projects-block__slide-label">свинцово кислотные</span> -->
+                </span>
+                  <span class="projects-block__slide-text">Подробнее</span>
+                  <span class="projects-block__arrow icon-arrow-right"></span></span>
             </a>
           </div>
-          <div class="projects-block__slide-wrapper swiper-slide" data-filter="residence">
+  <div class="projects-block__slide-wrapper swiper-slide" data-filter="building">
             <a class="projects-block__slide" href="#">
-              <img alt="" class="projects-block__image" data-src="assets/img/004.jpg"/>
-              <span class="projects-block__slide-content"><span class="projects-block__slide-head"><span class="projects-block__slide-title">Текст 4</span><span class="projects-block__slide-label">Приписка</span></span><span
-                class="projects-block__slide-text">Описание (превью)</span><span
-                class="projects-block__arrow icon-arrow-right"></span></span>
+              <img alt="" class="projects-block__image" src="assets/img/products/6.jpg"/>
+              <span class="projects-block__slide-content">
+                <span class="projects-block__slide-head">
+                  <span class="projects-block__slide-title">Отработанное масло</span>
+                  <!-- <span class="projects-block__slide-label">свинцово кислотные</span> -->
+                </span>
+                  <span class="projects-block__slide-text">Подробнее</span>
+                  <span class="projects-block__arrow icon-arrow-right"></span></span>
             </a>
           </div>
-          <!-- <div class="projects-block__slide-wrapper swiper-slide" data-filter="building">
+            <div class="projects-block__slide-wrapper swiper-slide" data-filter="building">
             <a class="projects-block__slide" href="#">
-              <img alt="" class="projects-block__image" data-src="assets/img/project-image-6.jpg"/>
-              <span class="projects-block__slide-content"><span class="projects-block__slide-head"><span class="projects-block__slide-title">Текст 5</span><span class="projects-block__slide-label">Приписка</span></span><span
-                class="projects-block__slide-text">Описание (превью)</span><span
-                class="projects-block__arrow icon-arrow-right"></span></span>
+              <img alt="" class="projects-block__image" src="assets/img/products/7.jpg"/>
+              <span class="projects-block__slide-content">
+                <span class="projects-block__slide-head">
+                  <span class="projects-block__slide-title">ПНД канистры</span>
+                  <!-- <span class="projects-block__slide-label">свинцово кислотные</span> -->
+                </span>
+                  <span class="projects-block__slide-text">Подробнее</span>
+                  <span class="projects-block__arrow icon-arrow-right"></span></span>
             </a>
-          </div> -->
-          <div class="projects-block__slide-wrapper swiper-slide" data-filter="residence">
+          </div>     
+          <div class="projects-block__slide-wrapper swiper-slide" data-filter="building">
             <a class="projects-block__slide" href="#">
-              <img alt="" class="projects-block__image" data-src="assets/img/005.jpg"/>
-              <span class="projects-block__slide-content"><span class="projects-block__slide-head"><span class="projects-block__slide-title">Текст 6</span><span class="projects-block__slide-label">Приписка</span></span><span
-                class="projects-block__slide-text">Описание (превью)</span><span
-                class="projects-block__arrow icon-arrow-right"></span></span>
+              <img alt="" class="projects-block__image" src="assets/img/products/8.jpg"/>
+              <span class="projects-block__slide-content">
+                <span class="projects-block__slide-head">
+                  <span class="projects-block__slide-title">Полиэтиленовая пленка</span>
+                  <!-- <span class="projects-block__slide-label">свинцово кислотные</span> -->
+                </span>
+                  <span class="projects-block__slide-text">Подробнее</span>
+                  <span class="projects-block__arrow icon-arrow-right"></span></span>
+            </a>
+          </div>
+          <div class="projects-block__slide-wrapper swiper-slide" data-filter="building">
+            <a class="projects-block__slide" href="#">
+              <img alt="" class="projects-block__image" src="assets/img/products/9.jpg"/>
+              <span class="projects-block__slide-content">
+                <span class="projects-block__slide-head">
+                  <span class="projects-block__slide-title">ПЭТ тара</span>
+                  <!-- <span class="projects-block__slide-label">свинцово кислотные</span> -->
+                </span>
+                  <span class="projects-block__slide-text">Подробнее</span>
+                  <span class="projects-block__arrow icon-arrow-right"></span></span>
+            </a>
+          </div>
+          <div class="projects-block__slide-wrapper swiper-slide" data-filter="building">
+            <a class="projects-block__slide" href="#">
+              <img alt="" class="projects-block__image" src="assets/img/products/10.jpg"/>
+              <span class="projects-block__slide-content">
+                <span class="projects-block__slide-head">
+                  <span class="projects-block__slide-title">Стрейч пленка</span>
+                  <!-- <span class="projects-block__slide-label">свинцово кислотные</span> -->
+                </span>
+                  <span class="projects-block__slide-text">Подробнее</span>
+                  <span class="projects-block__arrow icon-arrow-right"></span></span>
             </a>
           </div>
         </div>
@@ -282,7 +354,7 @@
           <div class="col-12 col-lg-4">
             <div class="specialization-block__item">
               
-              <img class="specialization-block__image" data-src="assets/img/spec1.png" alt=""><!-- <object class="specialization-block__image js-motion-svg" data="assets/assets/img/icon_building.svg" type="image/svg+xml"></object> -->
+              <img class="specialization-block__image" src="assets/img/spec1.png" alt=""><!-- <object class="specialization-block__image js-motion-svg" data="assets/assets/img/icon_building.svg" type="image/svg+xml"></object> -->
               <div class="specialization-block__item-title">Операции на рынке вторичного сырья</div>
               <!-- <div class="specialization-block__item-text">Переработка отходов ...
               </div> -->
@@ -292,7 +364,7 @@
           <div class="col-12 col-lg-4">
             <div class="specialization-block__item">
               
-              <img class="specialization-block__image" data-src="assets/img/spec2.png" alt=""><!-- <object class="specialization-block__image js-motion-svg" data="assets/assets/img/icon_house.svg" type="image/svg+xml"></object> -->
+              <img class="specialization-block__image" src="assets/img/spec2.png" alt=""><!-- <object class="specialization-block__image js-motion-svg" data="assets/assets/img/icon_house.svg" type="image/svg+xml"></object> -->
               <div class="specialization-block__item-title">Работаем во всех регионах Казахстана</div>
               <!-- <div class="specialization-block__item-text">Переработка отходов ...
               </div>-->
@@ -302,7 +374,7 @@
           <div class="col-12 col-lg-4">
             <div class="specialization-block__item">
               
-              <img class="specialization-block__image" data-src="assets/img/spec3.png" alt=""><!-- <object class="specialization-block__image js-motion-svg" data="assets/assets/img/icon_factory.svg" type="image/svg+xml"></object> -->
+              <img class="specialization-block__image" src="assets/img/spec3.png" alt=""><!-- <object class="specialization-block__image js-motion-svg" data="assets/assets/img/icon_factory.svg" type="image/svg+xml"></object> -->
               <div class="specialization-block__item-title">Собственная сеть логистики</div>
               <!-- <div class="specialization-block__item-text">Переработка отходов....
               </div> -->
@@ -347,7 +419,7 @@
           <div class="articles-block__item">
             <div class="article-item">
               <a class="article-item__image-wrapper" href="#">
-                <img alt="" data-src="assets/img/007.jpg"/>
+                <img alt="" src="assets/img/007.jpg"/>
               </a>
               <a class="article-item__item-title" href="#">Пластмассовая крошка</a>
               <div class="article-item__item-footer">
@@ -359,7 +431,7 @@
           <div class="articles-block__item">
             <div class="article-item">
               <a class="article-item__image-wrapper" href="#">
-                <img alt="" data-src="assets/img/008.jpg"/>
+                <img alt="" src="assets/img/008.jpg"/>
               </a>
               <a class="article-item__item-title" href="#">Пластмассовая крошка</a>
               <div class="article-item__item-footer">
@@ -394,78 +466,78 @@
               <div class="reviews-block__text">«Несколько лет сотрудничаем с компанией «КазВторРесурс». Совместная плодотворная работы привела к росту выпускаемой нами продукции. Отличная логистика компании не допускает срывов в сроках поставки закупленных объемов к нам на предприятие. Рекомендую этих ребят: пунктуальные, обязательные, исполнительные!»</div>
               <div class="reviews-block__person">
                 <div class="reviews-block__person-image">
-                  <img alt="" data-src="../assets/img/search.png"/>
+                  <img alt="" src="../assets/img/search.png"/>
                 </div>
                 <div class="reviews-block__person-data">
                   <div class="reviews-block__person-name">Иван Иванович</div>
                   <div class="reviews-block__person-role">Человек</div>
                 </div>
-                <img alt="" class="reviews-block__quote" data-src="../assets/img/search.png"/>
+                <img alt="" class="reviews-block__quote" src="../assets/img/search.png"/>
               </div>
             </div>
                         <div class="reviews-block__slide swiper-slide">
               <div class="reviews-block__text">«Несколько лет сотрудничаем с компанией «КазВторРесурс». Совместная плодотворная работы привела к росту выпускаемой нами продукции. Отличная логистика компании не допускает срывов в сроках поставки закупленных объемов к нам на предприятие. Рекомендую этих ребят: пунктуальные, обязательные, исполнительные!»</div>
               <div class="reviews-block__person">
                 <div class="reviews-block__person-image">
-                  <img alt="" data-src="../assets/img/search.png"/>
+                  <img alt="" src="../assets/img/search.png"/>
                 </div>
                 <div class="reviews-block__person-data">
                   <div class="reviews-block__person-name">Иван Иванович</div>
                   <div class="reviews-block__person-role">Человек</div>
                 </div>
-                <img alt="" class="reviews-block__quote" data-src="../assets/img/search.png"/>
+                <img alt="" class="reviews-block__quote" src="../assets/img/search.png"/>
               </div>
             </div>
                         <div class="reviews-block__slide swiper-slide">
               <div class="reviews-block__text">«Несколько лет сотрудничаем с компанией «КазВторРесурс». Совместная плодотворная работы привела к росту выпускаемой нами продукции. Отличная логистика компании не допускает срывов в сроках поставки закупленных объемов к нам на предприятие. Рекомендую этих ребят: пунктуальные, обязательные, исполнительные!»</div>
               <div class="reviews-block__person">
                 <div class="reviews-block__person-image">
-                  <img alt="" data-src="../assets/img/search.png"/>
+                  <img alt="" src="../assets/img/search.png"/>
                 </div>
                 <div class="reviews-block__person-data">
                   <div class="reviews-block__person-name">Иван Иванович</div>
                   <div class="reviews-block__person-role">Человек</div>
                 </div>
-                <img alt="" class="reviews-block__quote" data-src="../assets/img/search.png"/>
+                <img alt="" class="reviews-block__quote" src="../assets/img/search.png"/>
               </div>
             </div>
                         <div class="reviews-block__slide swiper-slide">
               <div class="reviews-block__text">«Несколько лет сотрудничаем с компанией «КазВторРесурс». Совместная плодотворная работы привела к росту выпускаемой нами продукции. Отличная логистика компании не допускает срывов в сроках поставки закупленных объемов к нам на предприятие. Рекомендую этих ребят: пунктуальные, обязательные, исполнительные!»</div>
               <div class="reviews-block__person">
                 <div class="reviews-block__person-image">
-                  <img alt="" data-src="../assets/img/search.png"/>
+                  <img alt="" src="../assets/img/search.png"/>
                 </div>
                 <div class="reviews-block__person-data">
                   <div class="reviews-block__person-name">Иван Иванович</div>
                   <div class="reviews-block__person-role">Человек</div>
                 </div>
-                <img alt="" class="reviews-block__quote" data-src="../assets/img/search.png"/>
+                <img alt="" class="reviews-block__quote" src="../assets/img/search.png"/>
               </div>
             </div>
             <!-- <div class="reviews-block__slide swiper-slide">
               <div class="reviews-block__text">I don’t know what else to say, this is something that you haven’t seen before. Unique design, lightweight, and outstanding support.</div>
               <div class="reviews-block__person">
                 <div class="reviews-block__person-image">
-                  <img alt="" data-src="assets/img/review-image-2.jpg"/>
+                  <img alt="" src="assets/img/review-image-2.jpg"/>
                 </div>
                 <div class="reviews-block__person-data">
                   <div class="reviews-block__person-name">Stevie Hoang</div>
                   <div class="reviews-block__person-role">Singer</div>
                 </div>
-                <img alt="" class="reviews-block__quote" data-src="assets/assets/img/quote.png"/>
+                <img alt="" class="reviews-block__quote" src="assets/assets/img/quote.png"/>
               </div>
             </div> -->
             <!-- <div class="reviews-block__slide swiper-slide">
               <div class="reviews-block__text">I don’t know what else to say, this is something that you haven’t seen before. Unique design, lightweight, and outstanding support.</div>
               <div class="reviews-block__person">
                 <div class="reviews-block__person-image">
-                  <img alt="" data-src="assets/img/review-image-2.jpg"/>
+                  <img alt="" src="assets/img/review-image-2.jpg"/>
                 </div>
                 <div class="reviews-block__person-data">
                   <div class="reviews-block__person-name">Stevie Hoang</div>
                   <div class="reviews-block__person-role">Singer</div>
                 </div>
-                <img alt="" class="reviews-block__quote" data-src="assets/assets/img/quote.png"/>
+                <img alt="" class="reviews-block__quote" src="assets/assets/img/quote.png"/>
               </div>
             </div> -->
           </div>
@@ -476,27 +548,27 @@
           <div class="clients__list">
             <div class="clients__item">
               <div class="clients__item-inner">
-                <img alt="" data-src="assets/img/client-1-dark.png"/>
+                <img alt="" src="assets/img/client-1-dark.png"/>
               </div>
             </div>
             <div class="clients__item">
               <div class="clients__item-inner">
-                <img alt="" data-src="assets/img/client-2-dark.png"/>
+                <img alt="" src="assets/img/client-2-dark.png"/>
               </div>
             </div>
             <div class="clients__item">
               <div class="clients__item-inner">
-                <img alt="" data-src="assets/img/client-3-dark.png"/>
+                <img alt="" src="assets/img/client-3-dark.png"/>
               </div>
             </div>
             <div class="clients__item">
               <div class="clients__item-inner">
-                <img alt="" data-src="assets/img/client-4-dark.png"/>
+                <img alt="" src="assets/img/client-4-dark.png"/>
               </div>
             </div>
             <div class="clients__item">
               <div class="clients__item-inner">
-                <img alt="" data-src="assets/img/client-5-dark.png"/>
+                <img alt="" src="assets/img/client-5-dark.png"/>
               </div>
             </div>
           </div>

@@ -258,3 +258,31 @@ padding: 0 35px;
   width: 100%;
 }
   }
+  .projects-block__slide{
+    height: 300px;
+  }
+  .counter-block-mod .counter-block__card{
+    text-align: center;
+  }
+  .counter-block-mod .counter-block__card-title{
+    margin-bottom: 10px;
+  }
+  .counter-block-mod{
+  padding-top: 55px;
+  padding-bottom: 45px;
+  }
+  .main-slide_size_medium .main-slide__title{
+    font-size: 75px;
+  }
+  .main-slide-inside{
+    min-height: auto;
+  }
+    .main-slide-inside .main-slide__container{
+      padding-bottom: 10px;
+  }
+    .main-slide-inside .main-slide__title-wrapper{
+    margin-bottom: 10px;
+  }
+  .team-block__control_prev,.team-block__control_next{
+    display: none;
+  }
