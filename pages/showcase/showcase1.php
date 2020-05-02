@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<?php include 'head.php';?>
+<?php include '../../head.php';?>
 
 <div class="page__inner animsition">
   
@@ -115,7 +115,7 @@
       </div>
     </div>
   </main>
-<?php include 'foot.php';?>
+<?php include '../../foot.php';?>
 </body>
 
 </html>

@@ -181,12 +181,12 @@
               <div class="counter-block__item-text">договоров на реализацию вторичного сырья</div>
             </div>
             <div class="counter-block__item">
-              <div class="counter-block__item-text">Более</div>
+              <div class="counter-block__item-text heading-smallest">Мы работаем с более чем</div>
               <div class="counter-block__item-value js-counter" data-counter-value="20">20</div>
-              <div class="counter-block__item-text">видов продукции для предприятий</div>
+              <div class="counter-block__item-text">видами продукции</div>
             </div>
             <div class="counter-block__item">
-              <div class="counter-block__item-text">Более</div>
+              <div class="counter-block__item-text heading-smallest">Более</div>
               <div class="counter-block__item-value js-counter" data-counter-value="100">100</div>
               <div class="counter-block__item-text">договоров о долгосрочном сотрудничестве </div>
             </div>
@@ -199,7 +199,7 @@
         <div class="container">
           <div class="row">
             <div class="col-12 col-md-4">
-              <div class="projects-block__title heading-smallest">Продукция</div>
+              <div class="projects-block__title heading-smallest  heading-smallest-mod">Продукция</div>
             </div>
             <!-- <div class="col-10 col-md-7">
               <div class="projects-block__filter">
@@ -225,31 +225,31 @@
       <div class="projects-block__slider swiper-container">
         <div class="swiper-wrapper">
           <div class="projects-block__slide-wrapper swiper-slide" data-filter="building">
-            <a class="projects-block__slide" href="#">
+            <a class="projects-block__slide" href="pages/showcase/showcase1.php">
               <img alt="" class="projects-block__image" src="assets/img/products/1.jpg"/>
               <span class="projects-block__slide-content">
                 <span class="projects-block__slide-head">
                   <span class="projects-block__slide-title">АКБ</span>
-                  <span class="projects-block__slide-label">свинцово гелевые</span>
+                  <span class="projects-block__slide-label">свинцово-гелевые</span>
                 </span>
                   <span class="projects-block__slide-text">Подробнее</span>
                   <span class="projects-block__arrow icon-arrow-right"></span></span>
             </a>
           </div>
                 <div class="projects-block__slide-wrapper swiper-slide" data-filter="building">
-            <a class="projects-block__slide" href="#">
+            <a class="projects-block__slide" href="pages/showcase/showcase2.php">
               <img alt="" class="projects-block__image" src="assets/img/products/2.jpg"/>
               <span class="projects-block__slide-content">
                 <span class="projects-block__slide-head">
                   <span class="projects-block__slide-title">АКБ</span>
-                  <span class="projects-block__slide-label">свинцово кислотные</span>
+                  <span class="projects-block__slide-label">свинцово-кислотные</span>
                 </span>
                   <span class="projects-block__slide-text">Подробнее</span>
                   <span class="projects-block__arrow icon-arrow-right"></span></span>
             </a>
           </div> 
            <div class="projects-block__slide-wrapper swiper-slide" data-filter="building">
-            <a class="projects-block__slide" href="#">
+            <a class="projects-block__slide" href="pages/showcase/showcase3.php">
               <img alt="" class="projects-block__image" src="assets/img/products/3.jpg"/>
               <span class="projects-block__slide-content">
                 <span class="projects-block__slide-head">
@@ -261,7 +261,7 @@
             </a>
           </div>
          <div class="projects-block__slide-wrapper swiper-slide" data-filter="building">
-            <a class="projects-block__slide" href="#">
+            <a class="projects-block__slide" href="pages/showcase/showcase4.php">
               <img alt="" class="projects-block__image" src="assets/img/products/4.jpg"/>
               <span class="projects-block__slide-content">
                 <span class="projects-block__slide-head">
@@ -273,7 +273,7 @@
             </a>
           </div>   
             <div class="projects-block__slide-wrapper swiper-slide" data-filter="building">
-            <a class="projects-block__slide" href="#">
+            <a class="projects-block__slide" href="pages/showcase/showcase5.php">
               <img alt="" class="projects-block__image" src="assets/img/products/5.jpg"/>
               <span class="projects-block__slide-content">
                 <span class="projects-block__slide-head">
@@ -285,7 +285,7 @@
             </a>
           </div>
   <div class="projects-block__slide-wrapper swiper-slide" data-filter="building">
-            <a class="projects-block__slide" href="#">
+            <a class="projects-block__slide" href="pages/showcase/showcase6.php">
               <img alt="" class="projects-block__image" src="assets/img/products/6.jpg"/>
               <span class="projects-block__slide-content">
                 <span class="projects-block__slide-head">
@@ -297,11 +297,11 @@
             </a>
           </div>
             <div class="projects-block__slide-wrapper swiper-slide" data-filter="building">
-            <a class="projects-block__slide" href="#">
+            <a class="projects-block__slide" href="pages/showcase/showcase7.php">
               <img alt="" class="projects-block__image" src="assets/img/products/7.jpg"/>
               <span class="projects-block__slide-content">
                 <span class="projects-block__slide-head">
-                  <span class="projects-block__slide-title">ПНД канистры</span>
+                  <span class="projects-block__slide-title">ПНД-канистры</span>
                   <!-- <span class="projects-block__slide-label">свинцово кислотные</span> -->
                 </span>
                   <span class="projects-block__slide-text">Подробнее</span>
@@ -309,7 +309,7 @@
             </a>
           </div>     
           <div class="projects-block__slide-wrapper swiper-slide" data-filter="building">
-            <a class="projects-block__slide" href="#">
+            <a class="projects-block__slide" href="pages/showcase/showcase8.php">
               <img alt="" class="projects-block__image" src="assets/img/products/8.jpg"/>
               <span class="projects-block__slide-content">
                 <span class="projects-block__slide-head">
@@ -321,11 +321,11 @@
             </a>
           </div>
           <div class="projects-block__slide-wrapper swiper-slide" data-filter="building">
-            <a class="projects-block__slide" href="#">
+            <a class="projects-block__slide" href="pages/showcase/showcase9.php">
               <img alt="" class="projects-block__image" src="assets/img/products/9.jpg"/>
               <span class="projects-block__slide-content">
                 <span class="projects-block__slide-head">
-                  <span class="projects-block__slide-title">ПЭТ тара</span>
+                  <span class="projects-block__slide-title">ПЭТ-тара</span>
                   <!-- <span class="projects-block__slide-label">свинцово кислотные</span> -->
                 </span>
                   <span class="projects-block__slide-text">Подробнее</span>
@@ -333,11 +333,11 @@
             </a>
           </div>
           <div class="projects-block__slide-wrapper swiper-slide" data-filter="building">
-            <a class="projects-block__slide" href="#">
+            <a class="projects-block__slide" href="pages/showcase/showcase10.php">
               <img alt="" class="projects-block__image" src="assets/img/products/10.jpg"/>
               <span class="projects-block__slide-content">
                 <span class="projects-block__slide-head">
-                  <span class="projects-block__slide-title">Стрейч пленка</span>
+                  <span class="projects-block__slide-title">Стрейч-пленка</span>
                   <!-- <span class="projects-block__slide-label">свинцово кислотные</span> -->
                 </span>
                   <span class="projects-block__slide-text">Подробнее</span>
@@ -349,13 +349,13 @@
     </div>
     <div class="specialization-block">
       <div class="container">
-        <div class="specialization-block__title heading-smallest">Мы специализируемся на</div>
+       <!--  <div class="specialization-block__title heading-smallest">Мы специализируемся на</div> -->
         <div class="row">
           <div class="col-12 col-lg-4">
             <div class="specialization-block__item">
               
               <img class="specialization-block__image" src="assets/img/spec1.png" alt=""><!-- <object class="specialization-block__image js-motion-svg" data="assets/assets/img/icon_building.svg" type="image/svg+xml"></object> -->
-              <div class="specialization-block__item-title">Операции на рынке вторичного сырья</div>
+              <div class="specialization-block__item-title">Операции на рынке вторичного сырья!</div>
               <!-- <div class="specialization-block__item-text">Переработка отходов ...
               </div> -->
               <!-- <a class="specialization-block__item-link link" href="#">Смотреть</a>  -->
@@ -365,7 +365,7 @@
             <div class="specialization-block__item">
               
               <img class="specialization-block__image" src="assets/img/spec2.png" alt=""><!-- <object class="specialization-block__image js-motion-svg" data="assets/assets/img/icon_house.svg" type="image/svg+xml"></object> -->
-              <div class="specialization-block__item-title">Работаем во всех регионах Казахстана</div>
+              <div class="specialization-block__item-title">Работаем во всех регионах Казахстана!</div>
               <!-- <div class="specialization-block__item-text">Переработка отходов ...
               </div>-->
               <!-- <a class="specialization-block__item-link link" href="#">Смотреть</a>  -->
@@ -375,7 +375,7 @@
             <div class="specialization-block__item">
               
               <img class="specialization-block__image" src="assets/img/spec3.png" alt=""><!-- <object class="specialization-block__image js-motion-svg" data="assets/assets/img/icon_factory.svg" type="image/svg+xml"></object> -->
-              <div class="specialization-block__item-title">Собственная сеть логистики</div>
+              <div class="specialization-block__item-title">Собственная сеть логистики!</div>
               <!-- <div class="specialization-block__item-text">Переработка отходов....
               </div> -->
               <!-- <a class="specialization-block__item-link link" href="#">Смотреть</a> -->
@@ -443,7 +443,8 @@
         </div>
       </div>
     </div>
-    <div class="reviews-block reviews-block reviews-block_template_default">
+    <!-- ОТЗЫВЫ -->
+<!--     <div class="reviews-block reviews-block reviews-block_template_default">
       <div class="reviews-block__main container">
         <div class="row">
           <div class="col-10 col-md-11">
@@ -514,67 +515,10 @@
                 <img alt="" class="reviews-block__quote" src="../assets/img/search.png"/>
               </div>
             </div>
-            <!-- <div class="reviews-block__slide swiper-slide">
-              <div class="reviews-block__text">I don’t know what else to say, this is something that you haven’t seen before. Unique design, lightweight, and outstanding support.</div>
-              <div class="reviews-block__person">
-                <div class="reviews-block__person-image">
-                  <img alt="" src="assets/img/review-image-2.jpg"/>
-                </div>
-                <div class="reviews-block__person-data">
-                  <div class="reviews-block__person-name">Stevie Hoang</div>
-                  <div class="reviews-block__person-role">Singer</div>
-                </div>
-                <img alt="" class="reviews-block__quote" src="assets/assets/img/quote.png"/>
-              </div>
-            </div> -->
-            <!-- <div class="reviews-block__slide swiper-slide">
-              <div class="reviews-block__text">I don’t know what else to say, this is something that you haven’t seen before. Unique design, lightweight, and outstanding support.</div>
-              <div class="reviews-block__person">
-                <div class="reviews-block__person-image">
-                  <img alt="" src="assets/img/review-image-2.jpg"/>
-                </div>
-                <div class="reviews-block__person-data">
-                  <div class="reviews-block__person-name">Stevie Hoang</div>
-                  <div class="reviews-block__person-role">Singer</div>
-                </div>
-                <img alt="" class="reviews-block__quote" src="assets/assets/img/quote.png"/>
-              </div>
-            </div> -->
           </div>
         </div>
       </div>
-      <!-- <div class="container">
-        <div class="clients">
-          <div class="clients__list">
-            <div class="clients__item">
-              <div class="clients__item-inner">
-                <img alt="" src="assets/img/client-1-dark.png"/>
-              </div>
-            </div>
-            <div class="clients__item">
-              <div class="clients__item-inner">
-                <img alt="" src="assets/img/client-2-dark.png"/>
-              </div>
-            </div>
-            <div class="clients__item">
-              <div class="clients__item-inner">
-                <img alt="" src="assets/img/client-3-dark.png"/>
-              </div>
-            </div>
-            <div class="clients__item">
-              <div class="clients__item-inner">
-                <img alt="" src="assets/img/client-4-dark.png"/>
-              </div>
-            </div>
-            <div class="clients__item">
-              <div class="clients__item-inner">
-                <img alt="" src="assets/img/client-5-dark.png"/>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div> -->
-    </div>
+    </div> -->
   
   </main>
 <!--   <div class="b-container">

@@ -13,7 +13,7 @@
 
 
   <!-- PWA -->
-  <link href="assets/favicons/site.webmanifest" rel="manifest">
+  <link href="../../assets/favicons/site.webmanifest" rel="manifest">
   <meta name="mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="application-name" content="КазВторРесурс">
@@ -23,15 +23,15 @@
   <meta name="msapplication-starturl" content="/">
   <meta content="#b4ef8f" name="theme-color">
   <meta content="#da532c" name="msapplication-TileColor">
-  <link color="#5bbad5" href="assets/favicons/safari-pinned-tab.svg" rel="mask-icon">
-  <script src="assets/js/sw.js"></script>
+  <link color="#5bbad5" href="../../assets/favicons/safari-pinned-tab.svg" rel="mask-icon">
+  <script src="../../assets/js/sw.js"></script>
   <!-- PWA -->
 
   <!-- icons -->
-  <link href="assets/favicons/apple-touch-icon.png" rel="apple-touch-icon" sizes="180x180">
-  <link href="assets/favicons/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png">
-  <link href="assets/favicons/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png">
-  <link href="assets/favicons/favicon.ico" rel="shortcut icon">
+  <link href="../../assets/favicons/apple-touch-icon.png" rel="apple-touch-icon" sizes="180x180">
+  <link href="../../assets/favicons/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png">
+  <link href="../../assets/favicons/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png">
+  <link href="../../assets/favicons/favicon.ico" rel="shortcut icon">
   <meta content="favicons/browserconfig.xml" name="msapplication-config">
   <!-- icons -->
 
@@ -81,21 +81,21 @@
 
   <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Teko:300,400" rel="stylesheet">
   <!--CSS-->
-  <link href="assets/css/icofont.min.css" rel="stylesheet">
-  <link href="assets/css/linearicons.min.css" rel="stylesheet">
-  <link href="assets/css/magnific-popup.min.css" rel="stylesheet">
-  <link href="assets/css/animsition.min.css" rel="stylesheet">
-  <link href="assets/css/swiper.min.css" rel="stylesheet">
-  <link href="assets/css/bootstrap.min.css" rel="stylesheet">
+  <link href="../../assets/css/icofont.min.css" rel="stylesheet">
+  <link href="../../assets/css/linearicons.min.css" rel="stylesheet">
+  <link href="../../assets/css/magnific-popup.min.css" rel="stylesheet">
+  <link href="../../assets/css/animsition.min.css" rel="stylesheet">
+  <link href="../../assets/css/swiper.min.css" rel="stylesheet">
+  <link href="../../assets/css/bootstrap.min.css" rel="stylesheet">
   <!--Revolution Style Sheets-->
-  <link href="assets/css/revolution/settings.css" rel="stylesheet">
-  <link href="assets/css/revolution/layers.css" rel="stylesheet">
+  <link href="../../assets/css/revolution/settings.css" rel="stylesheet">
+  <link href="../../assets/css/revolution/layers.css" rel="stylesheet">
   <!--Panorama Add-On Files-->
-  <link href="assets/css/revolution-addons/panorama/revolution.addon.panorama.css" rel="stylesheet">
+  <link href="../../assets/css/revolution-addons/panorama/revolution.addon.panorama.css" rel="stylesheet">
   <!--Theme CSS-->
-  <link href="assets/css/theme.css" rel="stylesheet">
-  <link href="assets/css/responsive.css" rel="stylesheet">
-  <link rel="stylesheet" href="assets/css/site.addons.css">
+  <link href="../../assets/css/theme.css" rel="stylesheet">
+  <link href="../../assets/css/responsive.css" rel="stylesheet">
+  <link rel="stylesheet" href="../../assets/css/site.addons.css">
  
 </head>
 <body class="page">
@@ -114,7 +114,7 @@
         <div class="header__inner">
           
           <div class="logo_cont">
-            <a class="logo header__logo logo_img" href="/"><img src="assets/img/logo1.png" alt=""></a>
+            <a class="logo header__logo logo_img" href="/"><img src="../../assets/img/logo1.png" alt=""></a>
           </div>
           <button class="header__menu-button" type="button">   
             <span class="header__menu-button-inner"></span>

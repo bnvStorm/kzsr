@@ -12,8 +12,7 @@
           <!--   <div class="main-slide__subtitle">Здравствуйте!</div> -->
           </div>
           <div class="main-slide__title-wrapper">
-            <div class="main-slide__title">Мы решаем ваши задачи. 
-            </div>
+            <div class="main-slide__title">Отходы - это ценное сырье!</div>
           </div>
         <!--   <div class="main-slide__text-wrapper">
             <div class="main-slide__text">Always happy, enthusiastic and creative, is something to talk about Arquito's Team</div>
@@ -26,36 +25,34 @@
         <div class="row">
           <div class="col-12 col-xs-12 col-lg-12 col-xl-12">
             <div class="counter-block__card">
-              <div class="counter-block__card-title">Нам
-              </div>
-              <div class="counter-block__card-value js-counter" data-counter-value="25">25</div>
-              <div class="counter-block__card-description">лет
-              </div>
+              <div class="counter-block__card-title">Здесь будет текст.</div>
+              <!-- <div class="counter-block__card-value js-counter" data-counter-value="25">25</div> -->
+              <div class="counter-block__card-description">С белого фона все убрать.</div>
             </div>
           </div>
         </div>
       </div>
     </div>
     <div class="container">
-      <div class="heading-smallest heading-smallest heading-smallest_has-offset heading-smallest heading-smallest_size_default">Мы специализируемся на</div>
-    </div>
+ <!--      <div class="heading-smallest heading-smallest heading-smallest_has-offset heading-smallest heading-smallest_size_default">Мы специализируемся на</div>
+    </div> -->
     <div class="cards">
       <div class="container-fluid">
         <div class="row">
           <div class="cards__item col-12 col-md-6 col-xl-4">
-            <a class="cards__item-inner" href="#" style="background-image: url('img/card-image-1.jpg')">
+            <a class="cards__item-inner" style="background-image: url('img/card-image-1.jpg')">
               <span class="cards__item-content"><span class="cards__item-index">01</span><span class="cards__item-title">Далеко-далеко.</span><span class="cards__item-text">Далеко-далеко за словесными горами в стране, гласных и согласных живут рыбные тексты. Запятых то себя заглавных речью злых коварный напоивший рекламных языкового заманивший ведущими вопроса вдали там повстречался, лучше, дорогу. Вопроса, меня?</span><span
                 class="cards__arrow icon-chevron-right"></span></span>
             </a>
           </div>
            <div class="cards__item col-12 col-md-6 col-xl-4">
-            <a class="cards__item-inner" href="#" style="background-image: url('img/card-image-1.jpg')">
+            <a class="cards__item-inner"  style="background-image: url('img/card-image-1.jpg')">
               <span class="cards__item-content"><span class="cards__item-index">01</span><span class="cards__item-title">Далеко-далеко.</span><span class="cards__item-text">Далеко-далеко за словесными горами в стране, гласных и согласных живут рыбные тексты. Запятых то себя заглавных речью злых коварный напоивший рекламных языкового заманивший ведущими вопроса вдали там повстречался, лучше, дорогу. Вопроса, меня?</span><span
                 class="cards__arrow icon-chevron-right"></span></span>
             </a>
           </div>
            <div class="cards__item col-12 col-md-6 col-xl-4">
-            <a class="cards__item-inner" href="#" style="background-image: url('img/card-image-1.jpg')">
+            <a class="cards__item-inner"  style="background-image: url('img/card-image-1.jpg')">
               <span class="cards__item-content"><span class="cards__item-index">01</span><span class="cards__item-title">Далеко-далеко.</span><span class="cards__item-text">Далеко-далеко за словесными горами в стране, гласных и согласных живут рыбные тексты. Запятых то себя заглавных речью злых коварный напоивший рекламных языкового заманивший ведущими вопроса вдали там повстречался, лучше, дорогу. Вопроса, меня?</span><span
                 class="cards__arrow icon-chevron-right"></span></span>
             </a>
@@ -63,7 +60,7 @@
         </div>
       </div>
     </div>
-    <div class="reviews-block reviews-block reviews-block_template_default">
+<!--     <div class="reviews-block reviews-block reviews-block_template_default">
       <div class="reviews-block__main container">
         <div class="row">
           <div class="col-10 col-md-11">
@@ -100,25 +97,25 @@
           </div>
         </div>
       </div>
-    </div>
+    </div> -->
     <div class="team-block team-block team-block_separated">
       <div class="container">
         <div class="team-block__body">
-          <div class="heading-smallest heading-smallest heading-smallest_has-offset heading-smallest heading-smallest_size_default">Спросите специалиста</div>
+          <div class="heading-smallest heading-smallest heading-smallest_has-offset heading-smallest heading-smallest_size_default">Задайте вопрос директору компании</div>
           <div class="team-block__slider-wrapper">
-            <button class="team-block__control team-block__control_prev icon-chevron-left" type="button">
+  <!--           <button class="team-block__control team-block__control_prev icon-chevron-left" type="button">
               <span class="visually-hidden">prev</span>
             </button>
             <button class="team-block__control team-block__control_next icon-chevron-right" type="button">
               <span class="visually-hidden">next</span>
-            </button>
+            </button> -->
             <div class="team-block__slider swiper-container">
-              <div class="swiper-wrapper">
+              <div class="swiper-wrapper swiper-wrapper-mod">
                 <div class="team-block__slide swiper-slide">
-                  <div class="team-block__image-wrapper">
+<!--                   <div class="team-block__image-wrapper">
                     <img alt="" src="img/team-1.jpg"/>
                     <div class="team-block__hover">
-<!--                       <div class="socials">
+                      <div class="socials">
                         <a class="socials__social icofont-twitter" href="#">
                           <div class="visually-hidden">twitter</div>
                         </a>
@@ -128,19 +125,38 @@
                         <a class="socials__social icofont-google-plus" href="#">
                           <div class="visually-hidden">google plus</div>
                         </a>
-                      </div> -->
+                      </div>
                     </div>
-                  </div>
-                  <div class="team-block__person-name">Ерболат Кумаров</div>
-                  <div class="team-block__person-role">Менеджер по разработке коммерческих предложений</div>
+                  </div> -->
+                  <div class="team-block__person-name">Ерболат КУМАРОВ</div>
+                  <div class="team-block__person-role">Директор</div>
                 </div>
-            
+                          <div class="col-12 col-lg-12">
+            <!-- <div class="heading-smallest heading-smallest heading-smallest_has-offset heading-smallest heading-smallest_size_small">Напишите нам</div> -->
+            <form class="contact-block__form">
+              <div class="row">
+                <div class="col-12 col-sm-6">
+                  <input class="contact-block__input-text" placeholder="Имя" type="text"/>
+                </div>
+                <div class="col-12 col-sm-6">
+                  <input class="contact-block__input-text" placeholder="Компания" type="text"/>
+                </div>
+                <div class="col-12">
+                  <textarea class="contact-block__input-textarea" placeholder="Напишите тут ваше сообщение"></textarea>
+                  <button class="contact-block__submit">Отправить
+                    <span class="contact-block__submit-icon icofont-caret-right"></span>
+                  </button>
+                </div>
+              </div>
+            </form>
+          </div>
+            <div class="team-block__text">Или заполните форму справа, ответ придет быстрее!</div>
            
               </div>
             </div>
           </div>
-          <div class="team-block__text">Остались вопросы?Напишите их нам на почту:
-            <a href="mailto:in@kzsr.kz">in@kzsr.kz</a>
+          <div class="team-block__text">Остались вопросы? Напишите их нам на почту:
+            <a href="mailto:dv@qwmo.net" style="font-weight: bold;">dv@qwmo.net</a>
           </div>
         </div>
       </div>

@@ -19,10 +19,31 @@ main{
   background: url('../../assets/img/bg.jpg');
   background-size: contain;
 }
+  /*display: none;*/
+  .cards__arrow{
+    display: none;
+  }
+  .tp-rightarrow,.tp-leftarrow{
+    display: none;
+  }
+  .tp-kbimg{
+    display: none;
+  }
+  /*display: none;*/
 .counter-block__card-title,.main-slide__slide-inner,.main-slide__title {
 
   font-family: 'EuropeCond', sans-serif;
 
+}
+
+.projects-block .row{
+  justify-content: space-between;
+}
+.projects-block__header{
+  margin-bottom: 20px;
+}
+.main-slide__title{
+  text-align: center;
 }
 .search_input{
     padding: 5px;
@@ -53,12 +74,7 @@ main{
     background-size: contain;
     box-shadow:0px 5px 6px 0px #00000026;
   }
-  .tp-rightarrow,.tp-leftarrow{
-    display: none;
-  }
-  .tp-kbimg{
-    display: none;
-  }
+
   .main-slide{
     background: rgba(75, 75, 75, 0.5);
   }
@@ -73,14 +89,8 @@ main{
     flex: 0 0 10%;
     max-width: 10%;
   }
-  .menu_col{
-    flex: 0 0 10%;
-    max-width: 10%;
-  }
-  .add_col{
-    flex: 0 0 15%;
-    max-width: 15%;
-  }
+
+
   .main-slide__subtitle-wrapper{
     margin-bottom: 40px;
   }
@@ -118,6 +128,49 @@ main{
 .container{
   /*max-width: 860px;*/
 }
+/*ABOUT*/
+.cards__item-content{
+  padding-bottom: 20px;
+}
+.swiper-wrapper-mod{
+  text-align: center;
+  -webkit-flex-direction: column;
+  -moz-flex-direction: column;
+  -ms-flex-direction: column;
+  -o-flex-direction: column;
+  flex-direction: column;
+  justify-content: center;
+  -ms-align-items: center;
+  align-items: center;
+}
+.heading-smallest{
+  color:#000;
+  text-align: center;
+  margin-bottom: 20px;
+}
+.heading-smallest-mod{
+  text-align: left;
+}
+.team-block_separated{
+  margin-top: 20px;
+}
+.team-block__text{
+  margin-top: 20px;
+  text-align: center;
+}
+.contact-block__form{
+  margin-top: 10px;
+  background: #fff;
+  padding: 40px;
+  border-radius: 4px;
+}
+.team-block__body{
+  padding-bottom: 20px;d
+}
+.counter-block__card{
+  margin-bottom: 40px;
+}
+/*ABOUT*/
 /*NEWS*/
 .container__news{
   /*max-width: 860px;*/
@@ -169,16 +222,94 @@ color:#000;
 .heading-news{
   margin-bottom: 20px;
 }
+
+.counter-block__title{
+  margin-bottom: 0;
+}
 .news_min img{
   min-height: 230px;
 }
-
+.swiper-slide,.projects-block__slider{
+  max-height: 300px;
+}
 /*NEWS*/
 /*SHOWCASE*/
 .container__showcase{
   margin-top: 60px;
 }
 /*SHOWCASE*/
+/*FOOTER*/
+.footer-default{
+  padding: 50px;
+}
+.footer-default .row{
+  display: -webkit-flex;
+  display: -moz-flex;
+  display: -ms-flex;
+  display: -o-flex;
+  display: flex;
+-webkit-flex-direction: column;
+-moz-flex-direction: column;
+-ms-flex-direction: column;
+-o-flex-direction: column;
+flex-direction: column;
+}
+.footer-default__text{
+  display: -webkit-flex;
+  display: -moz-flex;
+  display: -ms-flex;
+  display: -o-flex;
+  display: flex;
+  -webkit-flex-direction: column;
+  -moz-flex-direction: column;
+  -ms-flex-direction: column;
+  -o-flex-direction: column;
+  flex-direction: column;
+  text-align: center;
+}
+.footer-default__list{
+  display: -webkit-flex;
+  display: -moz-flex;
+  display: -ms-flex;
+  display: -o-flex;
+  display: flex;
+}
+.footer-default__list a{
+  padding: 10px;
+  margin:0 25px;
+}
+  .add_col,.menu_col{
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    display: -o-flex;
+    display: flex;
+    -webkit-flex-direction: column;
+    -moz-flex-direction: column;
+    -ms-flex-direction: column;
+    -o-flex-direction: column;
+    flex-direction: column;
+
+    flex: 0 0 100%;
+    max-width: 100%;
+    -ms-align-items: center;
+    align-items: center;
+  }
+    .menu_col{
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+  .footer-default__head{
+    text-align: center;
+  }
+  .footer-default__bottom{
+        justify-content: center;
+  }
+  .footer-default__head:after{
+        left: 48%;
+        margin-bottom: 10px;
+  }
+/*FOOTER*/
 /*MEDIA*/
 @media (max-width: 1024px) {
   .news_big{
@@ -279,6 +410,9 @@ padding: 0 35px;
   }
     .main-slide-inside .main-slide__container{
       padding-bottom: 20px;
+  }
+  .main-slide__container{
+    padding-top: 220px;
   }
     .main-slide-inside .main-slide__title-wrapper{
     margin-bottom: 10px;
