@@ -278,11 +278,17 @@ padding: 0 35px;
     min-height: auto;
   }
     .main-slide-inside .main-slide__container{
-      padding-bottom: 10px;
+      padding-bottom: 20px;
   }
     .main-slide-inside .main-slide__title-wrapper{
     margin-bottom: 10px;
   }
   .team-block__control_prev,.team-block__control_next{
     display: none;
+  }
+  .grid-block__title{
+        font-size: 35px;
+  }
+  .project-detail{
+    padding-top: 0px;
   }

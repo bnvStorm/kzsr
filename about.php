@@ -9,7 +9,7 @@
       <div class="faded-block main-slide__container container">
         <div class="main-slide__slide-inner">
           <div class="main-slide__subtitle-wrapper">
-            <div class="main-slide__subtitle">Здравствуйте!</div>
+          <!--   <div class="main-slide__subtitle">Здравствуйте!</div> -->
           </div>
           <div class="main-slide__title-wrapper">
             <div class="main-slide__title">Мы решаем ваши задачи. 
