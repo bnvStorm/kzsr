@@ -9,20 +9,23 @@
         <div class="row">
           <div class="col-12 col-lg-5">
             <div class="heading-smallest heading-smallest heading-smallest_has-offset heading-smallest heading-smallest_size_small">Адрес</div>
-            <div class="contact-block__place">Казахстан
-              <span class="contact-block__place-marker">Караганда</span>
+            <div class="contact-block__place">100019, <br>Республика Казахстан,<br> Карагандинская область, <br>г. Караганда, ул. Механическая, строение 1/1 <br>
+                      <p style="font-size: 25px;margin-bottom: 0; margin-top: 20px;">
+                Телефон: &nbsp;<a href="tel:+77051112233">+7 705 1112233</a>
+              </p>
+              <p style="font-size: 25px;margin-bottom: 0;">
+                Электронная почта: &nbsp;<a href="mailto:infor@arquito.com">in@kzsr.kz</a>
+              </p>
+             <!--  <span class="contact-block__place-marker">Караганда</span> -->
             </div>
-            <div class="contact-block__text">
-              <p>ул. Механическая, 1/1
-        
+           <!--  <div class="contact-block__text">
+              <p>
+                Телефон: <a href="tel:+77051112233">+7 705 1112233</a>
               </p>
               <p>
-                <a href="tel:+77051112233">+7 705 1112233</a>
+                Электронная почта: <a href="mailto:infor@arquito.com">in@kzsr.kz</a>
               </p>
-              <p>
-                <a href="mailto:infor@arquito.com">in@kzsr.kz</a>
-              </p>
-            </div>
+            </div> -->
       <!--       <a class="contact-block__link" href="#">Map Direction
               <span class="contact-block__link-icon icon-chevron-right"></span>
             </a> -->

@@ -7,7 +7,7 @@
   <main>
     <div class="main-slide main-slide-inside main-slide main-slide_size_large">
       <div class="parallax-image main-slide__image">
-        <div class="parallax-image__image" data-rellax-percentage="0.5" data-rellax-speed="-3" style="background-image: url('assets/img/products/1.jpg')"></div>
+        <div class="parallax-image__image" data-rellax-percentage="0.5" data-rellax-speed="-3" style="background-image: url('../../assets/img/products/showcase/1.jpg')"></div>
       </div>
       <div class="main-slide__container container">
         <div class="main-slide__slide-inner">
