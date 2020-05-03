@@ -60,6 +60,12 @@ main{
 .projects-block__header{
   margin-bottom: 20px;
 }
+.projects-block__slide-content{
+  bottom: 175px;
+}
+.projects-block__slide:after{
+      top: 100px;
+}
 .main-slide__title{
   text-align: center;
 }
