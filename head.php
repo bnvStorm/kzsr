@@ -165,14 +165,14 @@
           </div>
         </div>
         <div class="menu-panel__footer">
-<!--           <div class="socials menu-panel__socials">
+          <div class="socials menu-panel__socials">
             <a class="socials__social icofont-instagram" href="#">
               <div class="visually-hidden">instagram</div>
             </a>
             <a class="socials__social icofont-facebook" href="#">
               <div class="visually-hidden">facebook</div>
             </a>
-          </div> -->
+          </div>
           <div class="menu-panel__bottom">
             <div class="menu-panel__copyright">© 2020
               <strong>КазВторРесурс</strong>

@@ -70,7 +70,7 @@
             </li>
           </ul>
         </div> -->
-<!--         <div class="footer-default__column col-12 col-sm-6 col-md-3 social_col">
+        <div class="footer-default__column col-12 col-sm-6 col-md-3 social_col">
           <div class="socials footer-default__socials">
             <a class="socials__social icofont-facebook" href="#">
               <div class="visually-hidden">facebook</div>
@@ -79,7 +79,7 @@
               <div class="visually-hidden">instagram</div>
             </a>
           </div>
-        </div> -->
+        </div>
       </div>
       <div class="footer-default__bottom">
         <div class="footer-default__copyright">© 2020
@@ -138,10 +138,10 @@
 <script src="../../assets/css/popup/poup.js"></script>
 <script src="../../assets/css/popup/popup.css"></script>
 <!-- bitrix chat -->
-<!-- <script>
+<script>
         (function(w,d,u){
                 var s=d.createElement('script');s.async=true;s.src=u+'?'+(Date.now()/60000|0);
                 var h=d.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);
         })(window,document,'https://cdn-ru.bitrix24.kz/b3194113/crm/site_button/loader_6_ulfhx4.js');
-</script> -->
+</script>
 <!-- bitrix chat -->

@@ -53,7 +53,7 @@
                            data-width="none"
                            data-fontsize="['100','90','45','35']"
                            data-x="['left','left','left','left']"
-                           data-y="['top','top','top','top']">Лидер
+                           data-y="['top','top','top','top']">
                       </div>
                     </div>
                     <div class="main-slide__title-wrapper">
@@ -71,7 +71,7 @@
                            data-whitespace="normal"
                            data-width="100%"
                            data-x="['left','left','left','left']"
-                           data-y="['top','top','top','top']"> на рынке 
+                           data-y="['top','top','top','top']">Лидер <br> на рынке 
                         <br>
                         вторичного сырья 
                       </div>
@@ -225,7 +225,7 @@
       <div class="projects-block__slider swiper-container">
         <div class="swiper-wrapper">
           <div class="projects-block__slide-wrapper swiper-slide" data-filter="building">
-            <a class="projects-block__slide" href="pages/showcase/showcase1.php">
+            <a class="projects-block__slide" href="#">
               <img alt="" class="projects-block__image" src="assets/img/products/1.jpg"/>
               <span class="projects-block__slide-content">
                 <span class="projects-block__slide-head">
@@ -237,7 +237,7 @@
             </a>
           </div>
                 <div class="projects-block__slide-wrapper swiper-slide" data-filter="building">
-            <a class="projects-block__slide" href="pages/showcase/showcase2.php">
+            <a class="projects-block__slide" href="#">
               <img alt="" class="projects-block__image" src="assets/img/products/2.jpg"/>
               <span class="projects-block__slide-content">
                 <span class="projects-block__slide-head">
@@ -249,7 +249,7 @@
             </a>
           </div> 
            <div class="projects-block__slide-wrapper swiper-slide" data-filter="building">
-            <a class="projects-block__slide" href="pages/showcase/showcase3.php">
+            <a class="projects-block__slide" href="#">
               <img alt="" class="projects-block__image" src="assets/img/products/3.jpg"/>
               <span class="projects-block__slide-content">
                 <span class="projects-block__slide-head">
@@ -261,7 +261,7 @@
             </a>
           </div>
          <div class="projects-block__slide-wrapper swiper-slide" data-filter="building">
-            <a class="projects-block__slide" href="pages/showcase/showcase4.php">
+            <a class="projects-block__slide" href="#">
               <img alt="" class="projects-block__image" src="assets/img/products/4.jpg"/>
               <span class="projects-block__slide-content">
                 <span class="projects-block__slide-head">
@@ -273,7 +273,7 @@
             </a>
           </div>   
             <div class="projects-block__slide-wrapper swiper-slide" data-filter="building">
-            <a class="projects-block__slide" href="pages/showcase/showcase5.php">
+            <a class="projects-block__slide" href="#">
               <img alt="" class="projects-block__image" src="assets/img/products/5.jpg"/>
               <span class="projects-block__slide-content">
                 <span class="projects-block__slide-head">
@@ -285,7 +285,7 @@
             </a>
           </div>
   <div class="projects-block__slide-wrapper swiper-slide" data-filter="building">
-            <a class="projects-block__slide" href="pages/showcase/showcase6.php">
+            <a class="projects-block__slide" href="#">
               <img alt="" class="projects-block__image" src="assets/img/products/6.jpg"/>
               <span class="projects-block__slide-content">
                 <span class="projects-block__slide-head">
@@ -297,7 +297,7 @@
             </a>
           </div>
             <div class="projects-block__slide-wrapper swiper-slide" data-filter="building">
-            <a class="projects-block__slide" href="pages/showcase/showcase7.php">
+            <a class="projects-block__slide" href="#">
               <img alt="" class="projects-block__image" src="assets/img/products/7.jpg"/>
               <span class="projects-block__slide-content">
                 <span class="projects-block__slide-head">
@@ -309,7 +309,7 @@
             </a>
           </div>     
           <div class="projects-block__slide-wrapper swiper-slide" data-filter="building">
-            <a class="projects-block__slide" href="pages/showcase/showcase8.php">
+            <a class="projects-block__slide" href="#">
               <img alt="" class="projects-block__image" src="assets/img/products/8.jpg"/>
               <span class="projects-block__slide-content">
                 <span class="projects-block__slide-head">
@@ -321,7 +321,7 @@
             </a>
           </div>
           <div class="projects-block__slide-wrapper swiper-slide" data-filter="building">
-            <a class="projects-block__slide" href="pages/showcase/showcase9.php">
+            <a class="projects-block__slide" href="#">
               <img alt="" class="projects-block__image" src="assets/img/products/9.jpg"/>
               <span class="projects-block__slide-content">
                 <span class="projects-block__slide-head">
@@ -333,7 +333,7 @@
             </a>
           </div>
           <div class="projects-block__slide-wrapper swiper-slide" data-filter="building">
-            <a class="projects-block__slide" href="pages/showcase/showcase10.php">
+            <a class="projects-block__slide" href="#">
               <img alt="" class="projects-block__image" src="assets/img/products/10.jpg"/>
               <span class="projects-block__slide-content">
                 <span class="projects-block__slide-head">

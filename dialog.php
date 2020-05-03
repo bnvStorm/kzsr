@@ -9,14 +9,14 @@
       <div class="faded-block main-slide__container container">
         <div class="main-slide__slide-inner" style="text-align: center;">
           <div class="main-slide__title-wrapper">
-            <div class="main-slide__title">ВОПРОСЫ
+            <div class="main-slide__title">ОТВЕТЫ
               <br>
-              ОТВЕТЫ
+              НА ВАШИ ВОПРОСЫ
             </div>
           </div>
-          <div class="main-slide__text-wrapper" style="margin: 0 auto;">
+         <!--  <div class="main-slide__text-wrapper" style="margin: 0 auto;">
             <div class="main-slide__text" >Ответы на самые часто задаваеммые вопросы!</div>
-          </div>
+          </div> -->
         </div>
       </div>
     </div>
