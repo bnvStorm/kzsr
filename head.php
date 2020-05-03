@@ -151,9 +151,9 @@
                     <div class="menu-panel__menu-item">
             <a class="menu-panel__menu-link collapsed" data-toggle="collapse" href="about.php">Мы</a>
           </div>
-          <div class="menu-panel__menu-item">
+    <!--       <div class="menu-panel__menu-item">
             <a class="menu-panel__menu-link collapsed" data-toggle="collapse" href="news-grid.php">Новости</a>
-          </div>
+          </div> -->
           <div class="menu-panel__menu-item">
             <a class="menu-panel__menu-link collapsed collapsed" data-toggle="collapse" href="https://kzsr.kz/showcase.php">Витрина</a>
           </div>

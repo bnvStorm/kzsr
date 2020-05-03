@@ -24,9 +24,9 @@
             <li class="footer-default__list-item">
               <a class="footer-default__list-link" href="about.php">Мы</a>
             </li>
-            <li class="footer-default__list-item">
+<!--             <li class="footer-default__list-item">
               <a class="footer-default__list-link" href="news-grid.php">Новости</a>
-            </li>
+            </li> -->
             <li class="footer-default__list-item">
               <a class="footer-default__list-link" href="showcase.php">Витрина</a>
             </li>
