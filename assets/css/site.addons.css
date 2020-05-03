@@ -138,6 +138,7 @@ main{
 }
 .contact-block{
   padding-top: 200px;
+  padding-bottom: 50px;
 }
 .contact-block__map{
   margin-top: 20px;
@@ -191,9 +192,9 @@ main{
 .main-slide__title{
   line-height: 1;
 }
-.contact-block__place{
+/*.contact-block__place{
   font-size: 30px;
-}
+}*/
 .heading-smallest{
   color:#000;
   text-align: left;
@@ -508,4 +509,23 @@ flex-direction: column;
 }
 .cards__item-inner{
   padding: 10px;
+}
+.contact-block__place{
+  margin-top: 10px;
+    background: #fff;
+    padding: 40px;
+    border-radius: 4px;
+    border-left: 2px solid #F24A00;
+}
+.contact-block__place{
+  font-size: 23px;
+}
+.contact-block__place{
+  font-family: "EuropeCond";
+}
+.contact-block__submit{
+  margin-top: 10px;
+}
+.contact-block__input-textarea{
+  min-height: 90px;
 }

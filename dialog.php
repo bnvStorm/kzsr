@@ -4,7 +4,7 @@
   <main>
     <div class="main-slide main-slide-inside main-slide main-slide_size_medium">
       <div class="parallax-image main-slide__image">
-        <div class="parallax-image__image" data-rellax-percentage="0.5" data-rellax-speed="-3" style="background-image: url('../assets/img/products/showcase/1.jpg')"></div>
+        <div class="parallax-image__image" data-rellax-percentage="0.5" data-rellax-speed="-3" style="background-image: url('../assets/img/dialog.jpg')"></div>
       </div>
       <div class="faded-block main-slide__container container">
         <div class="main-slide__slide-inner" style="text-align: center;">

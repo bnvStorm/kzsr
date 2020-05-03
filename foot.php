@@ -7,7 +7,7 @@
         <div class="footer-default__column col-12 col-sm-6 col-md-3 add_col">
           <div class="footer-default__group-title">Адрес</div>
           <div class="footer-default__text">
-            <p>Наш адрес: Казахстан, г. Караганда, ул. Механическая 1/1 </p>
+            <p>Казахстан, г. Караганда, ул. Механическая 1/1 </p>
           <p>
             Телефон: <a href="mailto:dv@qwmo.net" style="font-weight: bold;">dv@qwmo.net</a>
           </p>

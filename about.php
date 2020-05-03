@@ -4,7 +4,7 @@
   <main>
     <div class="main-slide main-slide-inside main-slide main-slide_size_medium">
       <div class="parallax-image main-slide__image">
-        <div class="parallax-image__image" data-rellax-percentage="0.5" data-rellax-speed="-3" style="background-image: url('img/home-slide-4.jpg')"></div>
+        <div class="parallax-image__image" data-rellax-percentage="0.5" data-rellax-speed="-3" style="background-image: url('../assets/img/about.jpg');background-position-y: 50%;background-position-x: 81%;    background-size: cover;background-repeat: no-repeat;"></div>
       </div>
       <div class="faded-block main-slide__container container">
         <div class="main-slide__slide-inner">
@@ -49,13 +49,13 @@
             </a>
           </div>
            <div class="cards__item col-12 col-md-6 col-xl-4">
-            <a class="cards__item-inner"  style="background-image: url('img/card-image-1.jpg')">
+            <a href="#!" class="cards__item-inner"  style="background-image: url('img/card-image-1.jpg')">
               <span class="cards__item-content"><!-- <span class="cards__item-index">01</span> --><span class="cards__item-title"></span><span class="cards__item-text">Собственные крытые складские и производственные помещения позволяют нам формировать партии вторичного сырья высокого качества. Мы предлагаем потенциальным деловым партнерам гибкую политику сотрудничества и ценообразования. Опыт работы с казахстанскими предприятиями и производствами в других странах бывшего СССР.</span><span
                 class="cards__arrow icon-chevron-right"></span></span>
             </a>
           </div>
            <div class="cards__item col-12 col-md-6 col-xl-4">
-            <a class="cards__item-inner"  style="background-image: url('img/card-image-1.jpg')">
+            <a href="#!" class="cards__item-inner"  style="background-image: url('img/card-image-1.jpg')">
               <span class="cards__item-content"><!-- <span class="cards__item-index">01</span> --><span class="cards__item-title"></span><span class="cards__item-text">Наша компания открыта к диалогу и взаимовыгодному сотрудничеству. Быстро формируем коммерческое предложение и готовы совместно с заказчиком формировать оптимальные цены. Имеем опыт трансграничной торговли, решаем таможенные вопросы, строго следуем графику отгрузки. Открыты к новым контактам и формам сотрудничества.</span><span
                 class="cards__arrow icon-chevron-right"></span></span>
             </a>
@@ -142,7 +142,7 @@
                   <input class="contact-block__input-text" placeholder="Имя" type="text"/>
                 </div>
                 <div class="col-12 col-sm-6">
-                  <input class="contact-block__input-text" placeholder="Компания" type="text"/>
+                  <input class="contact-block__input-text" placeholder="Email" type="text"/>
                 </div>
                 <div class="col-12">
                   <textarea class="contact-block__input-textarea" placeholder="Напишите тут ваше сообщение"></textarea>

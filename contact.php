@@ -1,6 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
 <?php include 'head.php';?>
+<style>
+  .header__menu-button{
+    color: #000;
+  }
+</style>
   <main>
       <div class="contact-block">
       <!-- <div class="contact-block__map map" data-lat="-37.816248" data-lng="144.965981" id="map"></div> -->
@@ -40,7 +45,7 @@
                   <input class="contact-block__input-text" placeholder="Имя" type="text"/>
                 </div>
                 <div class="col-12 col-sm-6">
-                  <input class="contact-block__input-text" placeholder="Компания" type="text"/>
+                  <input class="contact-block__input-text" placeholder="Email" type="text"/>
                 </div>
                 <div class="col-12">
                   <textarea class="contact-block__input-textarea" placeholder="Напишите тут ваше сообщение"></textarea>
