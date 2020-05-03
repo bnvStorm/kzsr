@@ -502,3 +502,10 @@ flex-direction: column;
   .project-detail{
     padding-top: 0px;
   }
+.cards .container-fluid{
+  padding-left: 0;
+  padding-right: 0;
+}
+.cards__item-inner{
+  padding: 10px;
+}

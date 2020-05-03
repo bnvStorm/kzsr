@@ -25,9 +25,12 @@
         <div class="row">
           <div class="col-12 col-xs-12 col-lg-12 col-xl-12">
             <div class="counter-block__card">
-              <div class="counter-block__card-title">Здесь будет текст.</div>
+              <div class="counter-block__card-title">Основа улучшения экологической обстановки в стране – это раздельный сбор отходов и их дальнейшая переработка.
+В развитых странах в переработку отправляется львиная доля отходов. В Казахстане эта сфера экономики только развивается.
+Компания «КазВторРесурс» восьмой год присутствует на рынке Казахстана. За это время нам удалось наладить крепкие деловые связи с сотнями партнеров не только в РК, но и за ее пределами.
+Наши преимущества перед конкурентами – это вторичное сырье высокого качества, большие партии продукции, строгое исполнение условия договора, гибкая ценовая политика, возможность обеспечить отгрузку сырья своими силами и специализированным транспортом.</div>
               <!-- <div class="counter-block__card-value js-counter" data-counter-value="25">25</div> -->
-              <div class="counter-block__card-description">С белого фона все убрать.</div>
+              <!-- <div class="counter-block__card-description">С белого фона все убрать.</div> -->
             </div>
           </div>
         </div>
@@ -40,20 +43,20 @@
       <div class="container-fluid">
         <div class="row">
           <div class="cards__item col-12 col-md-6 col-xl-4">
-            <a class="cards__item-inner" style="background-image: url('img/card-image-1.jpg')">
-              <span class="cards__item-content"><span class="cards__item-index">01</span><span class="cards__item-title">Далеко-далеко.</span><span class="cards__item-text">Далеко-далеко за словесными горами в стране, гласных и согласных живут рыбные тексты. Запятых то себя заглавных речью злых коварный напоивший рекламных языкового заманивший ведущими вопроса вдали там повстречался, лучше, дорогу. Вопроса, меня?</span><span
+            <a href="#!" class="cards__item-inner" style="background-image: url('img/card-image-1.jpg')">
+              <span class="cards__item-content"><!-- <span class="cards__item-index">01</span> --><span class="cards__item-title"></span><span class="cards__item-text">Мы сотрудничаем с крупнейшим предприятием в области сбора, переработки и утилизации отходов – ТОО «Казахстанский оператор по управлению отходами». Являемся его официальным дилером. Именно поэтому наша компания способно обеспечить производственные мощности предприятий, использующих вторичное сырье, достаточными объемами и на регулярной основе.</span><span
                 class="cards__arrow icon-chevron-right"></span></span>
             </a>
           </div>
            <div class="cards__item col-12 col-md-6 col-xl-4">
             <a class="cards__item-inner"  style="background-image: url('img/card-image-1.jpg')">
-              <span class="cards__item-content"><span class="cards__item-index">01</span><span class="cards__item-title">Далеко-далеко.</span><span class="cards__item-text">Далеко-далеко за словесными горами в стране, гласных и согласных живут рыбные тексты. Запятых то себя заглавных речью злых коварный напоивший рекламных языкового заманивший ведущими вопроса вдали там повстречался, лучше, дорогу. Вопроса, меня?</span><span
+              <span class="cards__item-content"><!-- <span class="cards__item-index">01</span> --><span class="cards__item-title"></span><span class="cards__item-text">Собственные крытые складские и производственные помещения позволяют нам формировать партии вторичного сырья высокого качества. Мы предлагаем потенциальным деловым партнерам гибкую политику сотрудничества и ценообразования. Опыт работы с казахстанскими предприятиями и производствами в других странах бывшего СССР.</span><span
                 class="cards__arrow icon-chevron-right"></span></span>
             </a>
           </div>
            <div class="cards__item col-12 col-md-6 col-xl-4">
             <a class="cards__item-inner"  style="background-image: url('img/card-image-1.jpg')">
-              <span class="cards__item-content"><span class="cards__item-index">01</span><span class="cards__item-title">Далеко-далеко.</span><span class="cards__item-text">Далеко-далеко за словесными горами в стране, гласных и согласных живут рыбные тексты. Запятых то себя заглавных речью злых коварный напоивший рекламных языкового заманивший ведущими вопроса вдали там повстречался, лучше, дорогу. Вопроса, меня?</span><span
+              <span class="cards__item-content"><!-- <span class="cards__item-index">01</span> --><span class="cards__item-title"></span><span class="cards__item-text">Наша компания открыта к диалогу и взаимовыгодному сотрудничеству. Быстро формируем коммерческое предложение и готовы совместно с заказчиком формировать оптимальные цены. Имеем опыт трансграничной торговли, решаем таможенные вопросы, строго следуем графику отгрузки. Открыты к новым контактам и формам сотрудничества.</span><span
                 class="cards__arrow icon-chevron-right"></span></span>
             </a>
           </div>
@@ -101,7 +104,7 @@
     <div class="team-block team-block team-block_separated">
       <div class="container">
         <div class="team-block__body">
-          <div class="heading-smallest heading-smallest heading-smallest_has-offset heading-smallest heading-smallest_size_default">Задайте вопрос директору компании</div>
+          <div class="heading-smallest heading-smallest heading-smallest_has-offset heading-smallest heading-smallest_size_default" style="text-align: center;">Задайте вопрос директору компании</div>
           <div class="team-block__slider-wrapper">
   <!--           <button class="team-block__control team-block__control_prev icon-chevron-left" type="button">
               <span class="visually-hidden">prev</span>
