@@ -141,8 +141,8 @@
 <script src="../../assets/js/revolution/extensions/revolution.extension.carousel.min.js"></script>
 <script src="../../assets/js/revolution/extensions/revolution.extension.kenburn.min.js"></script>
 <script src="../../assets/js/revolution/extensions/revolution.extension.layeranimation.min.js"></script>
-<script src="../../assets/js/revolution/extensions/revolution.extension.migration.min.js"></script>
-<script src="../../assets/js/revolution/extensions/revolution.extension.navigation.min.js"></script>
+<!-- <script src="../../assets/js/revolution/extensions/revolution.extension.migration.min.js"></script>
+ --><script src="../../assets/js/revolution/extensions/revolution.extension.navigation.min.js"></script>
 <script src="../../assets/js/revolution/extensions/revolution.extension.parallax.min.js"></script>
 <script src="../../assets/js/revolution/extensions/revolution.extension.slideanims.min.js"></script>
 <script src="../../assets/js/revolution/extensions/revolution.extension.video.min.js"></script>
