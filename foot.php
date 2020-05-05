@@ -93,6 +93,23 @@
     </div>
   </footer>
 </div>
+  <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Teko:300,400" rel="stylesheet">
+  <!--CSS-->
+  <link href="../../assets/css/icofont.min.css" rel="stylesheet">
+  <link href="../../assets/css/linearicons.min.css" rel="stylesheet">
+  <link href="../../assets/css/magnific-popup.min.css" rel="stylesheet">
+  <link href="../../assets/css/animsition.min.css" rel="stylesheet">
+  <link href="../../assets/css/swiper.min.css" rel="stylesheet">
+  <link href="../../assets/css/bootstrap.min.css" rel="stylesheet">
+  <!--Revolution Style Sheets-->
+  <link href="../../assets/css/revolution/settings.css" rel="stylesheet">
+  <link href="../../assets/css/revolution/layers.css" rel="stylesheet">
+  <!--Panorama Add-On Files-->
+  <link href="../../assets/css/revolution-addons/panorama/revolution.addon.panorama.css" rel="stylesheet">
+  <!--Theme CSS-->
+  <link href="../../assets/css/theme.css" rel="stylesheet">
+  <link href="../../assets/css/responsive.css" rel="stylesheet">
+  <link rel="stylesheet" href="../../assets/css/site.addons.css">
 <!--JS-->
 <script src="../../assets/js/polyfill.min.js"></script>
 <script src="../../assets/js/jquery.min.js"></script>
@@ -145,3 +162,30 @@
         })(window,document,'https://cdn-ru.bitrix24.kz/b3194113/crm/site_button/loader_6_ulfhx4.js');
 </script>
 <!-- bitrix chat -->
+ <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-164363587-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-164363587-1');
+    </script>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+
+    <!-- Yandex.Metrika counter -->
+    <script type="text/javascript" >
+     (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+     m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+     (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+     ym(62237095, "init", {
+          clickmap:true,
+          trackLinks:true,
+          accurateTrackBounce:true,
+          webvisor:true
+     });
+    </script>
+    <noscript><div><img src="https://mc.yandex.ru/watch/62237095" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+    <!-- /Yandex.Metrika counter -->
+  
