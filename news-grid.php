@@ -34,7 +34,7 @@
           <div class="articles-grid__item masonry__item news_big">
             <div class="article-item" data-filters="Inspiration">
               <a class="article-item__image-wrapper" href="news-single-post.php">
-                <img alt="" class="lazyload" data-src="assets/img/001.jpg"/>
+                <img alt="" src="assets/img/001.jpg"/>
               </a>
               <div class="news_anounce">
                         <a class="article-item__item-title" href="news-single-post.php">Пример новости</a>
@@ -49,7 +49,7 @@
           <div class="articles-grid__item masonry__item news_min">
             <div class="article-item" data-filters="Inspiration">
               <a class="article-item__image-wrapper" href="news-single-post.php">
-                <img alt="" class="lazyload" data-src="assets/img/001.jpg"/>
+                <img alt="" src="assets/img/001.jpg"/>
               </a>
               <div class="news_anounce">
                         <a class="article-item__item-title" href="news-single-post.php">Пример новости</a>
@@ -64,7 +64,7 @@
                     <div class="articles-grid__item masonry__item news_min">
             <div class="article-item" data-filters="Inspiration">
               <a class="article-item__image-wrapper" href="news-single-post.php">
-                <img alt="" class="lazyload" data-src="assets/img/001.jpg"/>
+                <img alt="" src="assets/img/001.jpg"/>
               </a>
               <div class="news_anounce">
                         <a class="article-item__item-title" href="news-single-post.php">Пример новости</a>
@@ -79,7 +79,7 @@
           <div class="articles-grid__item masonry__item news_min">
             <div class="article-item" data-filters="Inspiration">
               <a class="article-item__image-wrapper" href="news-single-post.php">
-                <img alt="" class="lazyload" data-src="assets/img/001.jpg"/>
+                <img alt="" src="assets/img/001.jpg"/>
               </a>
               <div class="news_anounce">
                         <a class="article-item__item-title" href="news-single-post.php">Пример новости</a>
@@ -94,7 +94,7 @@
           <div class="articles-grid__item masonry__item news_min">
             <div class="article-item" data-filters="Inspiration">
               <a class="article-item__image-wrapper" href="news-single-post.php">
-                <img alt="" class="lazyload" data-src="assets/img/001.jpg"/>
+                <img alt="" src="assets/img/001.jpg"/>
               </a>
               <div class="news_anounce">
                         <a class="article-item__item-title" href="news-single-post.php">Пример новости</a>
@@ -109,7 +109,7 @@
                     <div class="articles-grid__item masonry__item news_big">
             <div class="article-item" data-filters="Inspiration">
               <a class="article-item__image-wrapper" href="news-single-post.php">
-                <img alt="" class="lazyload" data-src="assets/img/001.jpg"/>
+                <img alt="" src="assets/img/001.jpg"/>
               </a>
               <div class="news_anounce">
                         <a class="article-item__item-title" href="news-single-post.php">Пример новости</a>
@@ -124,7 +124,7 @@
                            <!--  <div class="articles-grid__item masonry__item news_r">
             <div class="article-item" data-filters="Inspiration">
               <a class="article-item__image-wrapper" href="news-single-post.php">
-                <img alt="" class="lazyload" data-src="assets/img/001.jpg"/>
+                <img alt="" src="assets/img/001.jpg"/>
               </a>
               <div class="news_anounce">
                         <a class="article-item__item-title" href="news-single-post.php">Пример новости</a>

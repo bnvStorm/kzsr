@@ -110,9 +110,7 @@
   <link href="../../assets/css/theme.css" rel="stylesheet">
   <link href="../../assets/css/responsive.css" rel="stylesheet">
   <link rel="stylesheet" href="../../assets/css/site.addons.css">
-
 <!--JS-->
-<script src="../../assets/js/sw.js"></script>
 <script src="../../assets/js/polyfill.min.js"></script>
 <script src="../../assets/js/jquery.min.js"></script>
 <script src="../../assets/js/jquery.viewport.min.js"></script>

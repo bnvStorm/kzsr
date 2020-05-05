@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -41,13 +40,13 @@
         </div>
         <div class="single-post__images row">
           <div class="col-12">
-            <img alt="" class="single-post__image lazyload" data-src="assets/img/002.jpg"/>
+            <img alt="" class="single-post__image" src="assets/img/002.jpg"/>
           </div>
           <div class="col-6">
-            <img alt="" class="single-post__image lazyload" data-src="assets/img/002.jpg"/>
+            <img alt="" class="single-post__image" src="assets/img/002.jpg"/>
           </div>
           <div class="col-6">
-            <img alt="" class="single-post__image lazyload" data-src="assets/img/002.jpg"/>
+            <img alt="" class="single-post__image" src="assets/img/002.jpg"/>
           </div>
         </div>
         <div class="row">
@@ -87,7 +86,7 @@
           </div>
         </div>
         <div class="person-block single-post__author">
-          <img alt="" class="person-block__image lazyload" data-src="img/avatar-1.jpg"/>
+          <img alt="" class="person-block__image" src="img/avatar-1.jpg"/>
           <div class="person-block__content">
             <div class="person-block__name">Daniel Raclift</div>
             <div class="person-block__text">I’m Daniel, a gentlemen and lover of life. More off this less hello salamander lied porpoise much over tightly circa horse taped so innocuously outside crud
@@ -111,7 +110,7 @@
           <div class="single-post__posts-item">
             <div class="article-item">
               <a class="article-item__image-wrapper" href="#">
-                <img alt="" class="lazyload" data-src="img/journal-image-3.jpg"/>
+                <img alt="" src="img/journal-image-3.jpg"/>
               </a>
               <a class="article-item__item-title" href="#">Wooden Exhibition Event In Romania</a>
               <div class="article-item__item-footer">
@@ -123,7 +122,7 @@
           <div class="single-post__posts-item">
             <div class="article-item">
               <a class="article-item__image-wrapper" href="#">
-                <img alt="" class="lazyload" data-src="img/journal-image-4.jpg"/>
+                <img alt="" src="img/journal-image-4.jpg"/>
               </a>
               <a class="article-item__item-title" href="#">Rennovate Exterior With Garden On Top</a>
               <div class="article-item__item-footer">
@@ -141,7 +140,7 @@
               <div class="comments__title heading-smallest">02 comments</div>
               <div class="comments__list">
                 <div class="comment-card">
-                  <img alt="" class="comment-card__image lazyload" data-src="img/comment-avatar-1.jpg"/>
+                  <img alt="" class="comment-card__image" src="img/comment-avatar-1.jpg"/>
                   <div class="comment-card__content">
                     <div class="comment-card__head">
                       <div class="comment-card__name">Daniel Vandaft</div>
@@ -155,7 +154,7 @@
                   </div>
                 </div>
                 <div class="comment-card">
-                  <img alt="" class="comment-card__image lazyload" data-src="img/comment-avatar-2.jpg"/>
+                  <img alt="" class="comment-card__image" src="img/comment-avatar-2.jpg"/>
                   <div class="comment-card__content">
                     <div class="comment-card__head">
                       <div class="comment-card__name">Daniel Vandaft</div>
