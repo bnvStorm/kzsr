@@ -95,7 +95,7 @@
 </div>
   <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Teko:300,400" rel="stylesheet">
   <!--CSS-->
-  <link rel="stylesheet" href="https://kzsr.kz/assets/css/libs.all.css">
+  <link rel="stylesheet" href="https://kzsr.kz/assets/css/libs.min.css">
  <!--  <link href="../../assets/css/icofont.min.css" rel="stylesheet">
   <link href="../../assets/css/linearicons.min.css" rel="stylesheet">
   <link href="../../assets/css/magnific-popup.min.css" rel="stylesheet">
