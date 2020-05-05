@@ -11,7 +11,7 @@
   <meta name="robots" content="index,follow">
   <!-- SEO -->
 
-
+  <script src="https://kzsr.kz/assets/js/lazy.js"></script>
   <!-- PWA -->
   <link href="../../assets/favicons/site.webmanifest" rel="manifest">
   <meta name="mobile-web-app-capable" content="yes">
@@ -24,7 +24,6 @@
   <meta content="#b4ef8f" name="theme-color">
   <meta content="#da532c" name="msapplication-TileColor">
   <link color="#5bbad5" href="../../assets/favicons/safari-pinned-tab.svg" rel="mask-icon">
-  <script src="../../assets/js/sw.js"></script>
   <!-- PWA -->
 
   <!-- icons -->
