@@ -10,7 +10,20 @@
   <meta name="description" content="Лидер на рынке вторичного сырья в Казахстане.">
   <meta name="robots" content="index,follow">
   <!-- SEO -->
-
+  <script>
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', function () {
+        navigator.serviceWorker.register('https://kzsr.kz/assets/js/sw.js').then(
+          function (registration) {
+            console.log('ServiceWorker registration successful with scope: ', registration.scope);
+          },
+          function (err) {
+          // registration failed :(
+          console.log('ServiceWorker registration failed: ', err);
+        });
+      });
+    }
+  </script>
 
   <!-- PWA -->
   <link href="../../assets/favicons/site.webmanifest" rel="manifest">
