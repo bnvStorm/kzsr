@@ -95,21 +95,19 @@
 </div>
   <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Teko:300,400" rel="stylesheet">
   <!--CSS-->
-  <link href="../../assets/css/icofont.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://kzsr.kz/assets/css/libs.all.css">
+ <!--  <link href="../../assets/css/icofont.min.css" rel="stylesheet">
   <link href="../../assets/css/linearicons.min.css" rel="stylesheet">
   <link href="../../assets/css/magnific-popup.min.css" rel="stylesheet">
   <link href="../../assets/css/animsition.min.css" rel="stylesheet">
   <link href="../../assets/css/swiper.min.css" rel="stylesheet">
   <link href="../../assets/css/bootstrap.min.css" rel="stylesheet">
-  <!--Revolution Style Sheets-->
   <link href="../../assets/css/revolution/settings.css" rel="stylesheet">
   <link href="../../assets/css/revolution/layers.css" rel="stylesheet">
-  <!--Panorama Add-On Files-->
   <link href="../../assets/css/revolution-addons/panorama/revolution.addon.panorama.css" rel="stylesheet">
-  <!--Theme CSS-->
   <link href="../../assets/css/theme.css" rel="stylesheet">
   <link href="../../assets/css/responsive.css" rel="stylesheet">
-  <link rel="stylesheet" href="../../assets/css/site.addons.css">
+  <link rel="stylesheet" href="../../assets/css/site.addons.css"> -->
 <!--JS-->
 <!-- <script src="../../assets/js/polyfill.min.js"></script>
 <script src="../../assets/js/jquery.min.js"></script>
