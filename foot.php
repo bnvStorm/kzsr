@@ -152,8 +152,23 @@
 
 <script src="../../assets/js/theme.js"></script>
 
-<script src="../../assets/css/popup/poup.js"></script>
-<script src="../../assets/css/popup/popup.css"></script>
+<!-- <script src="../../assets/css/popup/poup.js"></script>
+<script src="../../assets/css/popup/popup.css"></script> -->
+
+  <script>
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', function () {
+        navigator.serviceWorker.register('https://kzsr.kz/assets/js/sw.js').then(
+          function (registration) {
+            console.log('ServiceWorker registration successful with scope: ', registration.scope);
+          },
+          function (err) {
+          // registration failed :(
+          console.log('ServiceWorker registration failed: ', err);
+        });
+      });
+    }
+  </script>
 <!-- bitrix chat -->
 <script>
         (function(w,d,u){
