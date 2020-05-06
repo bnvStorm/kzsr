@@ -96,6 +96,13 @@
   <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Teko:300,400" rel="stylesheet">
   <!--CSS-->
   <link rel="stylesheet" href="https://kzsr.kz/assets/css/libs.min.css">
+
+<script src="https://kzsr.kz/assets/js/libs.min.js"></script>
+<script src="https://maps.google.com/maps/api/js?key=AIzaSyCwVuYiM-83l2IdjpT9uC0lg4jBm8-w4j8&amp;amp;ver=1"></script>
+<!-- <script src="../../assets/js/gmap.js"></script>
+<script src="../../assets/js/site.addons.js"></script> важная штука
+<script src="../../assets/js/theme.js"></script>
+ -->
  <!--  <link href="../../assets/css/icofont.min.css" rel="stylesheet">
   <link href="../../assets/css/linearicons.min.css" rel="stylesheet">
   <link href="../../assets/css/magnific-popup.min.css" rel="stylesheet">
@@ -142,20 +149,7 @@
 <script src="../../assets/js/revolution/extensions/revolution.extension.parallax.min.js"></script>
 <script src="../../assets/js/revolution/extensions/revolution.extension.slideanims.min.js"></script>
 <script src="../../assets/js/revolution/extensions/revolution.extension.video.min.js"></script> -->
-<script src="https://kzsr.kz/assets/js/libs.min.js"></script>
-<script src="https://kzsr.kz/assets/js/lazy.js"></script>
-<script>
-  jQuery(document).ready(function($) {
-    $('.lazy').Lazy();
-  })
-</script>
-  <!--Google Maps JS-->
-<script src="https://maps.google.com/maps/api/js?key=AIzaSyCwVuYiM-83l2IdjpT9uC0lg4jBm8-w4j8&amp;amp;ver=1"></script>
-<script src="../../assets/js/gmap.js"></script>
-<script src="../../assets/js/site.addons.js"></script>
-<!--Theme JS-->
 
-<script src="../../assets/js/theme.js"></script>
 
 <!-- <script src="../../assets/css/popup/poup.js"></script>
 <script src="../../assets/css/popup/popup.css"></script> -->
