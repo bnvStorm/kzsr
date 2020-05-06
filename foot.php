@@ -93,7 +93,7 @@
     </div>
   </footer>
 </div>
-  <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Teko:300,400" rel="stylesheet">
+  <link rel=«preload» href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Teko:300,400" rel="stylesheet">
   <!--CSS-->
   <link rel="stylesheet" href="https://kzsr.kz/assets/css/libs.min.css">
  <!--  <link href="../../assets/css/icofont.min.css" rel="stylesheet">

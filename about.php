@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ru" prefix="og: http://ogp.me/ns#">
 <?php include 'head.php';?>
   <main>
     <div class="main-slide main-slide-inside main-slide main-slide_size_medium">
