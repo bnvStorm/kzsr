@@ -15395,7 +15395,7 @@ img {
 }
  
 img[data-src] {
-  opacity: 0;
+  opacity: 1;
 }
 main{
   background: url('../../assets/img/bg.jpg');
