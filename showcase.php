@@ -85,9 +85,9 @@
 <script src="https://kzsr.kz/assets/js/libs.min.js"></script>
 <script src="https://kzsr.kz/assets/js/lazy.js"></script>
 <script>
-  $(function() {
-        $('.lazy').Lazy();
-  });
+  jQuery(document).ready(function($) {
+    $('.lazy').Lazy();
+  })
 </script>
 <script src="https://kzsr.kz/assets/js/gmap.js"></script>
 <script src="https://kzsr.kz/assets/js/site.addons.js"></script>
