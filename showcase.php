@@ -81,25 +81,8 @@
     </div>
   </main>
 </div>
-<!--JS-->
-<script src="assets/js/polyfill.min.js"></script>
-<script src="assets/js/jquery.min.js"></script>
-<script src="assets/js/jquery.viewport.min.js"></script>
-<script src="assets/js/jQuerySimpleCounter.min.js"></script>
-<script src="assets/js/jquery.magnific-popup.min.js"></script>
-<script src="assets/js/isotope.pkgd.min.js"></script>
-<script src="assets/js/animsition.min.js"></script>
-<script src="assets/js/bootstrap.bundle.min.js"></script>
-<script src="assets/js/rellax.min.js"></script>
-<script src="assets/js/swiper.min.js"></script>
-<script src="assets/js/smoothscroll.js"></script>
-<script src="assets/js/svg4everybody.legacy.min.js"></script>
-<script src="assets/js/TweenMax.min.js"></script>
-<script src="assets/js/TimelineLite.min.js"></script>
-<script src="assets/js/typed.min.js"></script>
-<script src="assets/js/vivus.min.js"></script>
-<!--Theme JS-->
-<script src="assets/js/theme.js"></script>
+<link rel="stylesheet" href="https://kzsr.kz/assets/css/libs.min.css">
+<script src="https://kzsr.kz/assets/js/libs.min.js"></script>
 </body>
 
 </html>
