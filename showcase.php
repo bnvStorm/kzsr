@@ -83,6 +83,9 @@
 </div>
 <link rel="stylesheet" href="https://kzsr.kz/assets/css/libs.min.css">
 <script src="https://kzsr.kz/assets/js/libs.min.js"></script>
+<script src="https://kzsr.kz/assets/js/gmap.js"></script>
+<script src="https://kzsr.kz/assets/js/site.addons.js"></script>
+<script src="https://kzsr.kz/assets/js/theme.js"></script>
 </body>
 
 </html>
