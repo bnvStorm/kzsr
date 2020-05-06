@@ -4,16 +4,16 @@
   <main>
     <div class="grid-block">
       <div class="grid-block__image grid-block__image grid-block__image_active" style="background-image:  url('assets/img/products/showcase/1.jpg')"></div>
-      <div class="grid-block__image lazy" style="background-image: url('assets/img/products/showcase/2.jpg')"></div>
-      <div class="grid-block__image lazy" style="background-image: url('assets/img/products/showcase/3.jpg')"></div>
-      <div class="grid-block__image lazy" style="background-image: url('assets/img/products/showcase/4.jpg')"></div>
-      <div class="grid-block__image lazy" style="background-image: url('assets/img/products/showcase/5.jpg')"></div>
-      <div class="grid-block__image lazy" style="background-image: url('assets/img/products/showcase/6.jpg')"></div>
-      <div class="grid-block__image lazy" style="background-image: url('assets/img/products/showcase/7.jpg')"></div>
-      <div class="grid-block__image lazy" style="background-image: url('assets/img/products/showcase/8.jpg')"></div>
-      <div class="grid-block__image lazy" style="background-image: url('assets/img/products/showcase/9.jpg')"></div>
-      <div class="grid-block__image lazy" style="background-image: url('assets/img/products/showcase/10.jpg')"></div>
-    <!--   <div class="grid-block__image lazy" style="background-image: url('assets/img/products/showcase/10.jpg')"></div> -->
+      <div class="grid-block__image" style="background-image: url('assets/img/products/showcase/2.jpg')"></div>
+      <div class="grid-block__image" style="background-image: url('assets/img/products/showcase/3.jpg')"></div>
+      <div class="grid-block__image" style="background-image: url('assets/img/products/showcase/4.jpg')"></div>
+      <div class="grid-block__image" style="background-image: url('assets/img/products/showcase/5.jpg')"></div>
+      <div class="grid-block__image" style="background-image: url('assets/img/products/showcase/6.jpg')"></div>
+      <div class="grid-block__image" style="background-image: url('assets/img/products/showcase/7.jpg')"></div>
+      <div class="grid-block__image" style="background-image: url('assets/img/products/showcase/8.jpg')"></div>
+      <div class="grid-block__image" style="background-image: url('assets/img/products/showcase/9.jpg')"></div>
+      <div class="grid-block__image" style="background-image: url('assets/img/products/showcase/10.jpg')"></div>
+    <!--   <div class="grid-block__image" style="background-image: url('assets/img/products/showcase/10.jpg')"></div> -->
       <div class="grid-block__content container-fluid container__showcase">
         <div class="row">
           <div class="grid-block__column col-12 col-sm-6 col-lg-4 col-xl-3">

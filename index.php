@@ -226,7 +226,7 @@
         <div class="swiper-wrapper">
           <div class="projects-block__slide-wrapper swiper-slide" data-filter="building">
             <a class="projects-block__slide" href="#">
-              <img alt="" class="projects-block__image" data-src="assets/img/products/1.jpg"/>
+              <img alt="" class="projects-block__image lazyload" data-src="assets/img/products/1.jpg"/>
               <span class="projects-block__slide-content">
                 <span class="projects-block__slide-head">
                   <span class="projects-block__slide-title">АКБ</span>
@@ -238,7 +238,7 @@
           </div>
                 <div class="projects-block__slide-wrapper swiper-slide" data-filter="building">
             <a class="projects-block__slide" href="#">
-              <img alt="" class="projects-block__image" data-src="assets/img/products/2.jpg"/>
+              <img alt="" class="projects-block__image lazyload" data-src="assets/img/products/2.jpg"/>
               <span class="projects-block__slide-content">
                 <span class="projects-block__slide-head">
                   <span class="projects-block__slide-title">АКБ</span>
@@ -250,7 +250,7 @@
           </div> 
            <div class="projects-block__slide-wrapper swiper-slide" data-filter="building">
             <a class="projects-block__slide" href="#">
-              <img alt="" class="projects-block__image" data-src="assets/img/products/3.jpg"/>
+              <img alt="" class="projects-block__image lazyload" data-src="assets/img/products/3.jpg"/>
               <span class="projects-block__slide-content">
                 <span class="projects-block__slide-head">
                   <span class="projects-block__slide-title">Картон</span>
@@ -262,7 +262,7 @@
           </div>
          <div class="projects-block__slide-wrapper swiper-slide" data-filter="building">
             <a class="projects-block__slide" href="#">
-              <img alt="" class="projects-block__image" data-src="assets/img/products/4.jpg"/>
+              <img alt="" class="projects-block__image lazyload" data-src="assets/img/products/4.jpg"/>
               <span class="projects-block__slide-content">
                 <span class="projects-block__slide-head">
                   <span class="projects-block__slide-title">Макулатура</span>
@@ -274,7 +274,7 @@
           </div>   
             <div class="projects-block__slide-wrapper swiper-slide" data-filter="building">
             <a class="projects-block__slide" href="#">
-              <img alt="" class="projects-block__image" data-src="assets/img/products/5.jpg"/>
+              <img alt="" class="projects-block__image lazyload" data-src="assets/img/products/5.jpg"/>
               <span class="projects-block__slide-content">
                 <span class="projects-block__slide-head">
                   <span class="projects-block__slide-title">Масло фритюрное</span>
@@ -286,7 +286,7 @@
           </div>
   <div class="projects-block__slide-wrapper swiper-slide" data-filter="building">
             <a class="projects-block__slide" href="#">
-              <img alt="" class="projects-block__image" data-src="assets/img/products/6.jpg"/>
+              <img alt="" class="projects-block__image lazyload" data-src="assets/img/products/6.jpg"/>
               <span class="projects-block__slide-content">
                 <span class="projects-block__slide-head">
                   <span class="projects-block__slide-title">Отработанное масло</span>
@@ -298,7 +298,7 @@
           </div>
             <div class="projects-block__slide-wrapper swiper-slide" data-filter="building">
             <a class="projects-block__slide" href="#">
-              <img alt="" class="projects-block__image" data-src="assets/img/products/7.jpg"/>
+              <img alt="" class="projects-block__image lazyload" data-src="assets/img/products/7.jpg"/>
               <span class="projects-block__slide-content">
                 <span class="projects-block__slide-head">
                   <span class="projects-block__slide-title">ПНД-канистры</span>
@@ -310,7 +310,7 @@
           </div>     
           <div class="projects-block__slide-wrapper swiper-slide" data-filter="building">
             <a class="projects-block__slide" href="#">
-              <img alt="" class="projects-block__image" data-src="assets/img/products/8.jpg"/>
+              <img alt="" class="projects-block__image lazyload" data-src="assets/img/products/8.jpg"/>
               <span class="projects-block__slide-content">
                 <span class="projects-block__slide-head">
                   <span class="projects-block__slide-title">Полиэтиленовая пленка</span>
@@ -322,7 +322,7 @@
           </div>
           <div class="projects-block__slide-wrapper swiper-slide" data-filter="building">
             <a class="projects-block__slide" href="#">
-              <img alt="" class="projects-block__image" data-src="assets/img/products/9.jpg"/>
+              <img alt="" class="projects-block__image lazyload" data-src="assets/img/products/9.jpg"/>
               <span class="projects-block__slide-content">
                 <span class="projects-block__slide-head">
                   <span class="projects-block__slide-title">ПЭТ-тара</span>
@@ -334,7 +334,7 @@
           </div>
           <div class="projects-block__slide-wrapper swiper-slide" data-filter="building">
             <a class="projects-block__slide" href="#">
-              <img alt="" class="projects-block__image" data-src="assets/img/products/10.jpg"/>
+              <img alt="" class="projects-block__image lazyload" data-src="assets/img/products/10.jpg"/>
               <span class="projects-block__slide-content">
                 <span class="projects-block__slide-head">
                   <span class="projects-block__slide-title">Стрейч-пленка</span>
@@ -354,7 +354,7 @@
           <div class="col-12 col-lg-4">
             <div class="specialization-block__item">
               
-              <img class="specialization-block__image" data-src="assets/img/spec1.png" alt=""><!-- <object class="specialization-block__image js-motion-svg" data="assets/assets/img/icon_building.svg" type="image/svg+xml"></object> -->
+              <img class="specialization-block__image lazyload" data-src="assets/img/spec1.png" alt=""><!-- <object class="specialization-block__image lazyload js-motion-svg" data="assets/assets/img/icon_building.svg" type="image/svg+xml"></object> -->
               <div class="specialization-block__item-title">Операции на рынке вторичного сырья!</div>
               <!-- <div class="specialization-block__item-text">Переработка отходов ...
               </div> -->
@@ -364,7 +364,7 @@
           <div class="col-12 col-lg-4">
             <div class="specialization-block__item">
               
-              <img class="specialization-block__image" data-src="assets/img/spec2.png" alt=""><!-- <object class="specialization-block__image js-motion-svg" data="assets/assets/img/icon_house.svg" type="image/svg+xml"></object> -->
+              <img class="specialization-block__image lazyload" data-src="assets/img/spec2.png" alt=""><!-- <object class="specialization-block__image lazyload js-motion-svg" data="assets/assets/img/icon_house.svg" type="image/svg+xml"></object> -->
               <div class="specialization-block__item-title">Работаем во всех регионах Казахстана!</div>
               <!-- <div class="specialization-block__item-text">Переработка отходов ...
               </div>-->
@@ -374,7 +374,7 @@
           <div class="col-12 col-lg-4">
             <div class="specialization-block__item">
               
-              <img class="specialization-block__image" data-src="assets/img/spec3.png" alt=""><!-- <object class="specialization-block__image js-motion-svg" data="assets/assets/img/icon_factory.svg" type="image/svg+xml"></object> -->
+              <img class="specialization-block__image lazyload" data-src="assets/img/spec3.png" alt=""><!-- <object class="specialization-block__image lazyload js-motion-svg" data="assets/assets/img/icon_factory.svg" type="image/svg+xml"></object> -->
               <div class="specialization-block__item-title">Собственная сеть логистики!</div>
               <!-- <div class="specialization-block__item-text">Переработка отходов....
               </div> -->
@@ -419,7 +419,7 @@
           <div class="articles-block__item">
             <div class="article-item">
               <a class="article-item__image-wrapper" href="#">
-                <img alt="" data-src="assets/img/007.jpg"/>
+                <img alt="" class="lazyload" data-src="assets/img/007.jpg"/>
               </a>
               <a class="article-item__item-title" href="#">Пластмассовая крошка</a>
               <div class="article-item__item-footer">
@@ -431,7 +431,7 @@
           <div class="articles-block__item">
             <div class="article-item">
               <a class="article-item__image-wrapper" href="#">
-                <img alt="" data-src="assets/img/008.jpg"/>
+                <img alt="" class="lazyload" data-src="assets/img/008.jpg"/>
               </a>
               <a class="article-item__item-title" href="#">Пластмассовая крошка</a>
               <div class="article-item__item-footer">
