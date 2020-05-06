@@ -81,17 +81,7 @@
     </div>
   </main>
 </div>
-<link rel="stylesheet" href="https://kzsr.kz/assets/css/libs.min.css">
-<script src="https://kzsr.kz/assets/js/libs.min.js"></script>
-<script src="https://kzsr.kz/assets/js/lazy.js"></script>
-<script>
-  jQuery(document).ready(function($) {
-    $('.lazy').Lazy();
-  })
-</script>
-<script src="https://kzsr.kz/assets/js/gmap.js"></script>
-<script src="https://kzsr.kz/assets/js/site.addons.js"></script>
-<script src="https://kzsr.kz/assets/js/theme.js"></script>
+<?php include 'foot.php';?>
 </body>
 
 </html>
