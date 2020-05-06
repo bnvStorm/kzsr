@@ -143,6 +143,12 @@
 <script src="../../assets/js/revolution/extensions/revolution.extension.slideanims.min.js"></script>
 <script src="../../assets/js/revolution/extensions/revolution.extension.video.min.js"></script> -->
 <script src="https://kzsr.kz/assets/js/libs.min.js"></script>
+<script src="https://kzsr.kz/assets/js/lazy.js"></script>
+<script>
+  $(function() {
+        $('.lazy').Lazy();
+    });
+</script>
   <!--Google Maps JS-->
 <script src="https://maps.google.com/maps/api/js?key=AIzaSyCwVuYiM-83l2IdjpT9uC0lg4jBm8-w4j8&amp;amp;ver=1"></script>
 <script src="../../assets/js/gmap.js"></script>
