@@ -24,6 +24,7 @@
                    data-scaleend="100"
                    data-scalestart="110"
                    src="assets/img/1.jpg"/>
+
               <div class="rs-background-video-layer"
                    data-aspectratio="4:3"
                    data-autoplay="true"
@@ -36,7 +37,10 @@
                    data-videoloop="loop"
                    data-videowidth="100%"
                    data-vimeoid="413559817"
-                   data-volume="mute"></div>
+                   data-volume="mute">
+                     
+                   </div>
+
               <div class="main-slide main-slide main-slide_size_large">
                 <div class="main-slide__container container">
                   <div class="main-slide__slide-inner">
@@ -199,7 +203,7 @@
         <div class="container">
           <div class="row">
             <div class="col-12 col-md-4">
-              <div class="projects-block__title heading-smallest  heading-smallest-mod">Продукция</div>
+              <div class="projects-block__title heading-smallest  heading-smallest-mod">Виды принимаемого сырья</div>
             </div>
             <!-- <div class="col-10 col-md-7">
               <div class="projects-block__filter">
@@ -407,13 +411,13 @@
         </div>
       </div>
     </div> -->
-    <div class="articles-block">
+<!--     <div class="articles-block">
       <div class="container">
         <div class="articles-block__head">
           <div class="articles-block__title heading-smallest">Горячие предложения</div>
-          <!-- <div class="articles-block__head-link">
+          <div class="articles-block__head-link">
             <a class="link link_inverted" href="#">Смотреть больше</a>
-          </div> -->
+          </div>
         </div>
         <div class="articles-block__list">
           <div class="articles-block__item">
@@ -442,7 +446,7 @@
           </div>
         </div>
       </div>
-    </div>
+    </div> -->
     <!-- ОТЗЫВЫ -->
 <!--     <div class="reviews-block reviews-block reviews-block_template_default">
       <div class="reviews-block__main container">

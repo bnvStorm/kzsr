@@ -397,6 +397,15 @@ flex-direction: column;
     .footer-default__bottom{
       margin-top: 10px;
     }
+    .rs-background-video-layer{
+  display: none;
+}
+  }
+  .tp-loader,.tp-loader.spinner5,.dot1,.dot2,.bounce1,.bounce2,.bounce3{
+    display: none !important;
+  }
+  .animsition{
+        opacity: unset !important;
   }
   @media(max-width:480px){
     .heading-smallest-mod{
@@ -528,4 +537,7 @@ flex-direction: column;
 }
 .contact-block__input-textarea{
   min-height: 90px;
+}
+.specialization-block__item-title{
+  font-size: 25px;
 }
