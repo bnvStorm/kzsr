@@ -498,7 +498,10 @@ flex-direction: column;
       padding-bottom: 20px;
   }
   .main-slide__container{
-    padding-top: 220px;
+    padding-top: 100px;
+  }
+   .main-slide .main-slide__container{
+    padding-top: 100px;
   }
     .main-slide-inside .main-slide__title-wrapper{
     margin-bottom: 10px;
@@ -587,3 +590,4 @@ flex-direction: column;
 
 }
 }
+ 
