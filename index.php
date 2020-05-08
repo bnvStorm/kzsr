@@ -36,9 +36,17 @@
                    data-videoheight="100%"
                    data-videoloop="loop"
                    data-videowidth="100%"
-                   data-vimeoid="413559817"
+                   data-vimeoid="0"
                    data-volume="mute">
-                     
+                        <div class="fullscreen-bg">
+    <!-- div class="overlay">
+        <h1>Простой пример<br>фонового видео на сайте</h1>
+    </div> -->
+    <video loop="" muted="" autoplay="" poster="assets/img/1.jpg" class="fullscreen-bg__video">
+        <source src="video.mp4" type="video/mp4">
+        <source src="../../video.wmv" type="video/wmv">
+    </video>
+</div>
                    </div>
 
               <div class="main-slide main-slide main-slide_size_large">
@@ -178,6 +186,8 @@
               </div>
             </div>
           </div>
+
+       
           <div class="col-12 col-xs-6 col-lg-5 col-xl-4 offset-lg-1 offset-xl-2">
             <div class="counter-block__title heading-smallest">Каждый месяц наша компания заключает более </div>
             <div class="counter-block__item">
