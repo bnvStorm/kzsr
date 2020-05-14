@@ -9,9 +9,9 @@
           <div class="footer-default__text">
             <p>Казахстан, г. Караганда, ул. Механическая 1/1 </p>
           <p>
-            Телефон: <a href="mailto:dv@qwmo.net" style="font-weight: bold;">dv@qwmo.net</a>
+            Электронная почта: <a href="mailto:dv@qwmo.net" style="font-weight: bold;">dv@qwmo.net</a>
           </p>
-          <p>Электронная почта: <a href="tel:+7 775 265 42 13" style="font-weight: bold;">+7 775 265 42 13</a></p>
+          <p>Телефон: <a href="tel:+7 775 265 42 13" style="font-weight: bold;">+7 775 265 42 13</a></p>
           </div>
 
         </div>
