@@ -49,7 +49,7 @@
 <meta property="twitter:description" content="Лидер на рынке вторичного сырья в Казахстане">
 <meta property="twitter:image" content="">
   <!-- social -->
-   <link rel="stylesheet" href="../../assets/css/site.addons.css"> 
+   <link rel="stylesheet" href="https://kzsr.kz/assets/css/site.addons.css"> 
 </head>
 <body class="page">
 <div style="display: none">

@@ -590,4 +590,6 @@ flex-direction: column;
 
 }
 }
- 
+ .projects-block__slider .swiper-slide{
+  margin: 0 20px;
+ }
