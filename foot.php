@@ -22,19 +22,19 @@
               <a class="footer-default__list-link" href="/">Главная</a>
             </li>
             <li class="footer-default__list-item">
-              <a class="footer-default__list-link" href="about.php">Мы</a>
+              <a class="footer-default__list-link" href="about">Мы</a>
             </li>
 <!--             <li class="footer-default__list-item">
-              <a class="footer-default__list-link" href="news-grid.php">Новости</a>
+              <a class="footer-default__list-link" href="news-grid">Новости</a>
             </li> -->
             <li class="footer-default__list-item">
-              <a class="footer-default__list-link" href="showcase.php">Витрина</a>
+              <a class="footer-default__list-link" href="showcase">Витрина</a>
             </li>
             <li class="footer-default__list-item">
-              <a class="footer-default__list-link" href="dialog.php">Диалог</a>
+              <a class="footer-default__list-link" href="dialog">Диалог</a>
             </li>
             <li class="footer-default__list-item">
-              <a class="footer-default__list-link" href="contact.php">Контакты</a>
+              <a class="footer-default__list-link" href="contact">Контакты</a>
             </li>
           </ul>
         </div>
