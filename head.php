@@ -53,7 +53,7 @@
 <meta name="twitter:url" content="https://kzsr.kz/">
 <meta name="twitter:description" content="Лидер на рынке вторичного сырья в Казахстане">
   <!-- social -->
-   <link rel="stylesheet" href="../../assets/css/site.addons.css"> 
+   <link rel="stylesheet" href="https://kzsr.kz/assets/css/site.addons.css"> 
 </head>
 <body class="page">
 <div style="display: none">
@@ -93,7 +93,7 @@
         </div> -->
         <div class="menu-panel__menu">
           <div class="menu-panel__menu-item">
-            <a class="menu-panel__menu-link menu-panel__menu-link menu-panel__menu-link_active" data-toggle="collapse" href="/">Главная</a>
+            <a class="menu-panel__menu-link menu-panel__menu-link menu-panel__menu-link_active" href="/">Главная</a>
             <!-- <div class="menu-panel__menu-list collapse" id="submenu1">
               <div class="menu-panel__bottom-submenu">
                 <div class="menu-panel__submenu-item">
@@ -106,19 +106,19 @@
             </div> -->
           </div>
                     <div class="menu-panel__menu-item">
-            <a class="menu-panel__menu-link collapsed" data-toggle="collapse" href="about.php">Мы</a>
+            <a class="menu-panel__menu-link collapsed" href="https://kzsr.kz/about.php">Мы</a>
           </div>
     <!--       <div class="menu-panel__menu-item">
             <a class="menu-panel__menu-link collapsed" data-toggle="collapse" href="news-grid.php">Новости</a>
           </div> -->
           <div class="menu-panel__menu-item">
-            <a class="menu-panel__menu-link collapsed collapsed" data-toggle="collapse" href="https://kzsr.kz/showcase.php">Витрина</a>
+            <a class="menu-panel__menu-link collapsed collapsed" href="https://kzsr.kz/showcase.php">Витрина</a>
           </div>
           <div class="menu-panel__menu-item">
-            <a class="menu-panel__menu-link collapsed collapsed" data-toggle="collapse" href="dialog.php">Диалог</a>
+            <a class="menu-panel__menu-link collapsed collapsed" href="https://kzsr.kz/dialog.php">Диалог</a>
           </div>
           <div class="menu-panel__menu-item">
-            <a class="menu-panel__menu-link collapsed collapsed" data-toggle="collapse" href="contact.php">Контакты</a>
+            <a class="menu-panel__menu-link collapsed collapsed" href="https://kzsr.kz/contact.php">Контакты</a>
           </div>
         </div>
         <div class="menu-panel__footer">

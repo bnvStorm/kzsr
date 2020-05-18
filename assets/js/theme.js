@@ -610,11 +610,13 @@
       var sliderElements = _toConsumableArray(document.querySelectorAll('.projects-block__slider .swiper-slide'));
 
       var gallerySlider = new Swiper(sliderElement, {
-        slidesPerView: 'auto',
+        slidesPerView: '3',
         loop:true,
         slidesOffsetBefore: titleElement.getBoundingClientRect().left,
         slidesOffsetAfter: titleElement.getBoundingClientRect().left,
-        spaceBetween: 10
+        setWrapperSize: true,
+        cssMode:true,
+        spaceBetween: 0
       });
       buttonPrevElement.addEventListener('click', function () {
         gallerySlider.slidePrev();
