@@ -36,18 +36,22 @@
   <!-- icons -->
 
   <!-- social -->
-<!-- Open Graph / Facebook -->
-<meta property="og:type" content="website">
-<meta property="og:url" content="https://kzsr.kz/">
 <meta property="og:title" content="КазВторРесурс">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://kzsr.kz/">
+<meta property="og:image" content="https://kzsr.kz/assets/img/kzsr.jpg">
+<meta property="og:site_name" content="КазВторРесурс">
+<!-- <meta property="fb:admins" content="">  -->
 <meta property="og:description" content="Лидер на рынке вторичного сырья в Казахстане">
-<meta property="og:image" content="">
-<!-- Twitter -->
-<meta property="twitter:card" content="summary_large_image">
-<meta property="twitter:url" content="https://kzsr.kz/">
-<meta property="twitter:title" content="КазВторРесурс">
-<meta property="twitter:description" content="Лидер на рынке вторичного сырья в Казахстане">
-<meta property="twitter:image" content="">
+<meta property="og:locale" content="ru_RU">
+
+<meta name="twitter:card" content="summary_large_image">
+<!-- <meta name="twitter:site" content="@Freepik_Vectors">
+<meta name="twitter:creator" content="@Freepik_Vectors"> -->
+<meta name="twitter:title" content="КазВторРесурс">
+<meta name="twitter:image:src" content="https://kzsr.kz/assets/img/kzsr.jpg">
+<meta name="twitter:url" content="https://kzsr.kz/">
+<meta name="twitter:description" content="Лидер на рынке вторичного сырья в Казахстане">
   <!-- social -->
    <link rel="stylesheet" href="../../assets/css/site.addons.css"> 
 </head>
