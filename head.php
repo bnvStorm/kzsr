@@ -106,19 +106,19 @@
             </div> -->
           </div>
                     <div class="menu-panel__menu-item">
-            <a class="menu-panel__menu-link collapsed" href="https://kzsr.kz/about.php">Мы</a>
+            <a class="menu-panel__menu-link collapsed" href="https://kzsr.kz/about">Мы</a>
           </div>
     <!--       <div class="menu-panel__menu-item">
-            <a class="menu-panel__menu-link collapsed" data-toggle="collapse" href="news-grid.php">Новости</a>
+            <a class="menu-panel__menu-link collapsed" data-toggle="collapse" href="news-grid">Новости</a>
           </div> -->
           <div class="menu-panel__menu-item">
-            <a class="menu-panel__menu-link collapsed collapsed" href="https://kzsr.kz/showcase.php">Витрина</a>
+            <a class="menu-panel__menu-link collapsed collapsed" href="https://kzsr.kz/showcase">Витрина</a>
           </div>
           <div class="menu-panel__menu-item">
-            <a class="menu-panel__menu-link collapsed collapsed" href="https://kzsr.kz/dialog.php">Диалог</a>
+            <a class="menu-panel__menu-link collapsed collapsed" href="https://kzsr.kz/dialog">Диалог</a>
           </div>
           <div class="menu-panel__menu-item">
-            <a class="menu-panel__menu-link collapsed collapsed" href="https://kzsr.kz/contact.php">Контакты</a>
+            <a class="menu-panel__menu-link collapsed collapsed" href="https://kzsr.kz/contact">Контакты</a>
           </div>
         </div>
         <div class="menu-panel__footer">

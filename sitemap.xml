@@ -10,12 +10,12 @@
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://kzsr.kz/news-grid.php</loc>
+  <loc>https://kzsr.kz/news-grid</loc>
   <lastmod>2020-04-23T19:44:21+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://kzsr.kz/showcase.php</loc>
+  <loc>https://kzsr.kz/showcase</loc>
   <lastmod>2020-04-23T19:44:21+00:00</lastmod>
   <priority>0.80</priority>
 </url>
