@@ -1,17 +1,8 @@
-<head>
-
   <!-- base -->
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1" name="viewport">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <!-- base -->
-  <!-- SEO -->
-  <title>КазВторРесурс</title>
-  <meta name="description" content="Лидер на рынке вторичного сырья в Казахстане.">
-  <meta name="robots" content="index,follow">
-  <!-- SEO -->
-
-
   <!-- PWA -->
   <link href="../../assets/favicons/site.webmanifest" rel="manifest">
   <meta name="mobile-web-app-capable" content="yes">
