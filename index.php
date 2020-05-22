@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="ru" prefix="og: http://ogp.me/ns#">
 <head>
-    <title>КазВторРесурс</title>
-  <meta name="description" content="Лидер на рынке вторичного сырья в Казахстане.">
+  <title>КазВторРесурс - официальный сайт</title>
+  <meta name="description" content="Лидер на рынке вторичного сырья в Казахстане. Перерабатываем больше десятка опасных отходов. 8 лет на рынке Казахстана">
   <meta name="keywords" content="вторсырье, переработка, вторичное сырье">
   <meta name="robots" content="index,follow">
   <link rel="canonical" href="https://kzsr.kz"/>

@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="ru" prefix="og: http://ogp.me/ns#">
 <head>
-    <title>КазВторРесурс</title>
-  <meta name="description" content="Лидер на рынке вторичного сырья в Казахстане.">
+    <title>Ответы на вопросы - КазВторРесурс</title>
+  <meta name="description" content="На этой странице мы собрали самые популярные вопросы, что нам задают, и дали на них исчерпывающие ответы">
   <meta name="keywords" content="вторсырье, переработка, вторичное сырье">
   <meta name="robots" content="index,follow">
-  <link rel="canonical" href="https://kzsr.kz"/>
+  <link rel="canonical" href="https://empls.biz/dialog"/>
 <?php include 'head.php';?>
   <main>
     <div class="main-slide main-slide-inside main-slide main-slide_size_medium">

@@ -4,8 +4,8 @@
   <title>КазВторРесурс</title>
   <meta name="description" content="Лидер на рынке вторичного сырья в Казахстане.">
   <meta name="keywords" content="вторсырье, переработка, вторичное сырье">
-  <meta name="robots" content="index,follow">
-  <link rel="canonical" href="https://kzsr.kz"/>
+  <meta name="robots" content="noindex,nofollow">
+  <link rel="canonical" href="https://kzsr.kz/new-single-post"/>
 <?php include 'head.php';?>
 
 <body class="page">
