@@ -114,13 +114,13 @@
         </div>
         <div class="menu-panel__footer">
           <div class="socials menu-panel__socials">
-            <a class="socials__social icofont-instagram" href="https://www.instagram.com/kzsr.kz/">
+            <a class="socials__social icofont-instagram" target="_blank" href="https://www.instagram.com/kzsr.kz/">
               <div class="visually-hidden">instagram</div>
             </a>
-            <a class="socials__social icofont-facebook" href="https://www.facebook.com/profile.php?id=100053364966172 ">
+            <a class="socials__social icofont-facebook" target="_blank" href="https://www.facebook.com/profile.php?id=100053364966172 ">
               <div class="visually-hidden">facebook</div>
             </a>
-            <a class="socials__social icofont-odnoklassniki" href="https://ok.ru/profile/566546592767">
+            <a class="socials__social icofont-odnoklassniki" target="_blank" href="https://ok.ru/profile/566546592767">
               <div class="visually-hidden">ok</div>
             </a>
           </div>
