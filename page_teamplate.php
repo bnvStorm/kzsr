@@ -6,7 +6,7 @@
   <meta name="keywords" content="вторсырье, переработка, вторичное сырье">
   <meta name="robots" content="index,follow">
   <link rel="canonical" href="https://kzsr.kz"/>
-     <link rel="stylesheet" href="assets/css/site.addons.css"> 
+     <link rel="stylesheet" href="https://kzsr.kz/assets/css/site.addons.css"> 
 <?php include 'head.php';?>
 <style>
   .logo_img img{
