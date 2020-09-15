@@ -87,8 +87,11 @@ main{
   .logo_img img{
     width: 200px;
   }
+  .header__container{
+    padding-top: 15px !important;
+  }
   .header_is_fixed .header__container{
-    padding-top: 20px;
+    padding-top: 10px !important;
   }
   .header_is_fixed .logo img{
     width: 100px;
@@ -191,6 +194,7 @@ main{
 }
 .main-slide__title{
   line-height: 1;
+  font-size: 50px !important;
 }
 /*.contact-block__place{
   font-size: 30px;

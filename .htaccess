@@ -2,12 +2,24 @@
 RewriteEngine On
 RewriteCond %{SERVER_PORT} !^443$
 RewriteRule .* https://%{SERVER_NAME}%{REQUEST_URI} [R=301,L]
-
+#frontcontroller
 # remove php extensions
 RewriteEngine on
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME}\.php -f
 RewriteRule ^(.*)$ $1.php
+
+RewriteCond %{SCRIPT_FILENAME} !-d
+RewriteCond %{SCRIPT_FILENAME} !-f
+
+# исключаем папки из обрабоки
+RewriteCond %{REQUEST_URI} !^/img/.*$
+RewriteCond %{REQUEST_URI} !^/upload/.*$
+
+# переадресация на фронтконтроллер
+RewriteRule ^(.*)$ ./frontcontroller.php?route=$1 [QSA,L]
+
+
 
 #errors pages
 ErrorDocument 404 /404.html
