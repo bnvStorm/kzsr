@@ -15,8 +15,8 @@ img {
 img[data-src] {
   opacity: 0;
 }
-main{
-  background: url('../../assets/img/bg.jpg');
+main,.grid-block{
+  background: url('../../assets/img/bg.jpg') !important;
   background-size: contain;
 }
   /*display: none;*/
@@ -597,3 +597,19 @@ flex-direction: column;
  .projects-block__slider .swiper-slide{
   margin: 0 20px;
  }
+
+   @media (min-width: 1200px){
+   .grid-block__column{
+    -ms-flex: 0 0 20% !important;
+    flex: 0 0 20% !important;
+    max-width: 20% !important;
+  }
+}
+.grid-block__item{
+  background: #f24a00 !important;
+    border-color: #f24a00 !important;
+}
+.grid-block__title{
+  font-size: 23px !important;
+  line-height: 1 !important;
+}

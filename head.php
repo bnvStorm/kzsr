@@ -44,7 +44,7 @@
 <meta name="twitter:url" content="https://kzsr.kz/">
 <meta name="twitter:description" content="Лидер на рынке вторичного сырья в Казахстане">
   <!-- social -->
-   <link rel="stylesheet" href="https://kzsr.kz/assets/css/site.addons.css"> 
+<link rel="stylesheet" href="assets/css/site.addons.css"> 
 </head>
 <body class="page">
 <div style="display: none">

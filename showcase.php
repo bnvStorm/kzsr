@@ -25,9 +25,9 @@
 				while($row = $result->fetch_assoc()) {
 					$urlimg = $row['urlimg'];
 
-					echo "
-					<div class='grid-block__image grid-block__image grid-block__image_active' style='background-image:url($urlimg)'></div>
-					";
+					// echo "
+					// <div class='grid-block__image grid-block__image grid-block__image_active' style='background-image:url($urlimg)'></div>
+					// ";
 				}
 			}  
 			$conn->close();
