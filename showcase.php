@@ -57,7 +57,7 @@
 
 							echo "
 							<div class='grid-block__column col-12 col-sm-6 col-lg-4 col-xl-3' >
-							<a class='grid-block__item grid-block__item_active' style='background-image:url($urlimg);background-position: center center;background-repeat: no-repeat;background-size: contain;' href='$url'>
+							<a class='grid-block__item grid-block__item_active' style='background-image:url($urlimg);background-position: center center;background-repeat: no-repeat;background-size: cover;' href='$url'>
 							<span class='grid-block__title'>$h1</span></span>
 							</a>
 							</div>
