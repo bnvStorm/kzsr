@@ -72,11 +72,14 @@
         </div> -->
         <div class="footer-default__column col-12 col-sm-6 col-md-3 social_col">
           <div class="socials footer-default__socials">
-            <a class="socials__social icofont-facebook" href="#">
+            <a class="socials__social icofont-facebook" href="https://www.facebook.com/profile.php?id=100053364966172" target="_blank">
               <div class="visually-hidden">facebook</div>
             </a>
-            <a class="socials__social icofont-instagram" href="#">
+            <a class="socials__social icofont-instagram" href="https://www.instagram.com/kzsr.kz/" target="_blank">
               <div class="visually-hidden">instagram</div>
+            </a>            
+            <a class="socials__social icofont-odnoklassniki" href="https://ok.ru/profile/566546592767" target="_blank">
+              <div class="visually-hidden">OK</div>
             </a>
           </div>
         </div>
