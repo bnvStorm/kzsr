@@ -201,6 +201,7 @@ main,.grid-block{
   flex-direction: row;
   background: #fff;
   padding: 20px;
+  flex-wrap:nowrap;
 }
 .project-detail__head-items .box .right{
   height: 400px;
