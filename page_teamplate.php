@@ -26,8 +26,8 @@
     <div class="project-detail">
       <div class="container">
         <div class="project-detail__head-items">
-          <div class="row">
-            <div class="col-12 col-lg-4">
+          <div class="row box">
+            <div class="left">
               <div class="project-detail__head-item">
                 <strong>Гост:</strong>
                <?php echo $gost; ?>
@@ -35,42 +35,18 @@
               <div class="project-detail__head-item">
                 <strong>Цена:</strong>
                 <?php echo $price; ?>
-              </div>
+              </div>              <div class="project-detail__head-item">
+                  <strong>Все:</strong>
+                X <?php echo $ves; ?>              </div>
             </div>
-            <div class="col-12 col-lg-4">
-              <div class="project-detail__head-item">
-                <strong>Все:</strong>
-                X <?php echo $ves; ?>
-              </div>
+            <div class="right">
+              <img src="<?php echo $urlimg; ?>" alt="">
             </div>
           </div>
         </div>
         <div class="project-detail__title">Описание</div>
         <div class="project-detail__text"><? echo $content;?>
         </div>
-        <div class="simple-slider">
-          <button class="simple-slider__control simple-slider__control_prev icon-chevron-left" type="button">
-            <span class="visually-hidden">prev</span>
-          </button>
-          <button class="simple-slider__control simple-slider__control_next icon-chevron-right" type="button">
-            <span class="visually-hidden">next</span>
-          </button>
-          <div class="simple-slider__slider swiper-container">
-            <div class="swiper-wrapper">
-              <div class="simple-slider__slide swiper-slide">
-                <img alt="" src="img/project-detail-slide-1.jpg"/>
-              </div>
-              <div class="simple-slider__slide swiper-slide">
-                <img alt="" src="img/project-detail-slide-2.jpg"/>
-              </div>
-              <div class="simple-slider__slide swiper-slide">
-                <img alt="" src="img/project-detail-slide-3.jpg"/>
-              </div>
-            </div>
-            <div class="swiper-pagination"></div>
-          </div>
-        </div>
-        <a class="project-detail__footer-link project-detail__footer-link_inverted" href="#">Лозунг,слоган,ссылка</a>
       </div>
     </div>
   </main>

@@ -194,7 +194,13 @@ main,.grid-block{
 }
 .main-slide__title{
   line-height: 1;
-  font-size: 50px !important;
+  font-size: 30px !important;
+}
+.box{
+  display: flex;
+  flex-direction: row;
+  background: #fff;
+  padding: 20px;
 }
 /*.contact-block__place{
   font-size: 30px;
