@@ -204,9 +204,10 @@ main,.grid-block{
 }
 .project-detail__head-items .box .right{
   height: 400px;
-  max-width: 260px;
+  max-width: 100%;
   width: 100%;
 }
+
 /*.contact-block__place{
   font-size: 30px;
 }*/
