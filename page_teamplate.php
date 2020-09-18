@@ -29,17 +29,17 @@
           <div class="row box">
             <div class="left">
               <div class="project-detail__head-item">
-                <strong>Гост:</strong>
+                <strong>Гост:</strong><br>
                <?php echo $gost; ?>
               </div>
               <div class="project-detail__head-item">
-                <strong>Цена:</strong>
+                <strong>Цена:</strong><br>
                 <?php echo $price; ?>
               </div>              <div class="project-detail__head-item">
-                  <strong>Вес:</strong>
+                  <strong>Вес:</strong><br>
                 <?php echo $ves; ?>              </div> 
                 <div class="project-detail__head-item">
-                  <strong>Описание:</strong>
+                  <strong>Описание:</strong><br>
                 <?php echo $content; ?>              </div>
             </div>
             <div class="right" style="background: url('<?php echo $urlimg; ?>');background-size: contain;    background-position-x: center;">
