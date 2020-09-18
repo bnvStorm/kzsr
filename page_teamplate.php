@@ -35,9 +35,7 @@
               <div class="project-detail__head-item">
                 <strong>Цена:</strong><br>
                 <?php echo $price; ?> за 1 <?php echo $ves; ?> 
-              </div>              <div class="project-detail__head-item">
-                  <strong>Вес:</strong><br>
-                             </div> 
+              </div>  
                 <div class="project-detail__head-item">
                   <strong>Описание:</strong><br>
                 <?php echo $content; ?>              </div>
