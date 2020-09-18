@@ -202,9 +202,9 @@ main,.grid-block{
   background: #fff;
   padding: 20px;
   flex-wrap:nowrap !important;
-      margin: 0 auto;
-      max-width: 580px;
-      margin: 0 auto !important;
+  margin: 0 auto;
+  max-width: 580px;
+  margin: 0 auto !important;
 }
 .project-detail__head-item strong {
     color: #000;
@@ -219,6 +219,7 @@ main,.grid-block{
 .right{
       background-size: cover !important;
     background-repeat: no-repeat !important;
+    margin-left: 10px;
 }
 
 /*.contact-block__place{
