@@ -643,3 +643,8 @@ flex-direction: column;
   background: rgb(0 161 228 / 0.5);
   border-radius: 4px;
 }
+@media(max-width: 640px){
+  .box{
+    flex-direction: column;
+  }
+}
