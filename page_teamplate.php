@@ -36,16 +36,16 @@
                 <strong>Цена:</strong>
                 <?php echo $price; ?>
               </div>              <div class="project-detail__head-item">
-                  <strong>Все:</strong>
-                X <?php echo $ves; ?>              </div>
+                  <strong>Вес:</strong>
+                X <?php echo $ves; ?>              </div> 
+                <div class="project-detail__head-item">
+                  <strong>Описание:</strong>
+                X <?php echo $content; ?>              </div>
             </div>
-            <div class="right">
-              <img src="<?php echo $urlimg; ?>" alt="">
+            <div class="right" style="background: <?php echo $urlimg; ?>;background-size: contain;">
+           <!--    <img src="<?php echo $urlimg; ?>" alt=""> -->
             </div>
           </div>
-        </div>
-        <div class="project-detail__title">Описание</div>
-        <div class="project-detail__text"><? echo $content;?>
         </div>
       </div>
     </div>

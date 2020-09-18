@@ -202,6 +202,11 @@ main,.grid-block{
   background: #fff;
   padding: 20px;
 }
+.project-detail__head-items .box .right{
+  height: 400px;
+  max-width: 260px;
+  width: 100%;
+}
 /*.contact-block__place{
   font-size: 30px;
 }*/
