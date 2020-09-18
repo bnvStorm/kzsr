@@ -202,11 +202,22 @@ main,.grid-block{
   background: #fff;
   padding: 20px;
   flex-wrap:nowrap;
+      margin: 0 auto;
+      max-width: 580px;
+}
+.project-detail__head-item strong {
+    color: #000;
+    font-size: 26px;
+    font-weight: 500;
 }
 .project-detail__head-items .box .right{
   height: 400px;
   max-width: 100%;
   width: 100%;
+}
+.right{
+      background-size: cover !important;
+    background-repeat: no-repeat !important;
 }
 
 /*.contact-block__place{

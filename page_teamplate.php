@@ -40,7 +40,7 @@
                 X <?php echo $ves; ?>              </div> 
                 <div class="project-detail__head-item">
                   <strong>Описание:</strong>
-                X <?php echo $content; ?>              </div>
+                <?php echo $content; ?>              </div>
             </div>
             <div class="right" style="background: url('<?php echo $urlimg; ?>');background-size: contain;">
            <!--    <img src="<?php echo $urlimg; ?>" alt=""> -->
