@@ -204,7 +204,7 @@ main,.grid-block{
   flex-wrap:nowrap !important;
       margin: 0 auto;
       max-width: 580px;
-      margin: 0 auto;
+      margin: 0 auto !important;
 }
 .project-detail__head-item strong {
     color: #000;
