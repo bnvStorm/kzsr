@@ -37,7 +37,7 @@
                 <?php echo $price; ?>
               </div>              <div class="project-detail__head-item">
                   <strong>Вес:</strong>
-                X <?php echo $ves; ?>              </div> 
+                <?php echo $ves; ?>              </div> 
                 <div class="project-detail__head-item">
                   <strong>Описание:</strong>
                 <?php echo $content; ?>              </div>
