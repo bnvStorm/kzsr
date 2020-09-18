@@ -42,7 +42,7 @@
                   <strong>Описание:</strong>
                 <?php echo $content; ?>              </div>
             </div>
-            <div class="right" style="background: url('<?php echo $urlimg; ?>');background-size: contain;">
+            <div class="right" style="background: url('<?php echo $urlimg; ?>');background-size: contain;    background-position-x: center;">
            <!--    <img src="<?php echo $urlimg; ?>" alt=""> -->
             </div>
           </div>
