@@ -201,9 +201,10 @@ main,.grid-block{
   flex-direction: row;
   background: #fff;
   padding: 20px;
-  flex-wrap:nowrap;
+  flex-wrap:nowrap !important;
       margin: 0 auto;
       max-width: 580px;
+      margin: 0 auto;
 }
 .project-detail__head-item strong {
     color: #000;
