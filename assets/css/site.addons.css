@@ -203,7 +203,7 @@ main,.grid-block{
   padding: 20px;
   flex-wrap:nowrap !important;
   margin: 0 auto;
-  max-width: 580px;
+  max-width: 100%;
   margin: 0 auto !important;
 }
 .project-detail__head-item strong {
@@ -217,7 +217,7 @@ main,.grid-block{
   width: 100%;
 }
 .right{
-      background-size: cover !important;
+/*      background-size: cover !important;*/
     background-repeat: no-repeat !important;
     margin-left: 10px;
 }
