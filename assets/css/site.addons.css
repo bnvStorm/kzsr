@@ -396,7 +396,16 @@ max-width: 100%;*/
   .grid-block__title{
     z-index: 1;
   }
-  .grid-block__item:hover .grid-block__item:before {
+ .grid-block__item:before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: transparent;
+  }
+   .grid-block__item:before:hover {
     content: "";
     position: absolute;
     top: 0;
