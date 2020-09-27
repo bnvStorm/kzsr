@@ -420,7 +420,9 @@ flex-direction: column;
   width: 100%;
 }
 }
-.parallax-image__image:before{
+  .grid-block__title{
+    z-index: 1;}
+.grid-block__item:hover .parallax-image__image:before{
   content: '';
     width: 100%;
     height: 100%;
