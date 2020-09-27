@@ -393,6 +393,15 @@ flex-direction: column;
         margin-bottom: 10px;
   }
 /*FOOTER*/
+.grid-block__item:before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: #f24a0069;
+}
 /*MEDIA*/
 @media (max-width: 1024px) {
   .news_big{
@@ -540,6 +549,7 @@ flex-direction: column;
     display: none;
   }
   .grid-block__title{
+    z-index: 1;
         font-size: 35px;
   }
   .project-detail{
