@@ -76,11 +76,11 @@
                     </div>
                     <div class="main-slide__title-wrapper">
                       <div class="main-slide__title tp-caption"
-                           data-fontsize="['100','90','35','25']"
+                           data-fontsize="['110','90','35','25']"
                            data-frames='[{"delay":"+290","split":"chars","splitdelay":0.03,"speed":1000,"split_direction":"middletoedge","frame":"0","from":"x:50px;opacity:0;fb:10px;","to":"o:1;fb:0;","ease":"Power4.easeOut"},{"delay":"wait","speed":500,"frame":"999","to":"opacity:0;fb:0;","ease":"Power4.easeOut"}]'
                            data-height="none"
                            data-hoffset="['0','0','0','0']"
-                           data-lineheight="['135','105','90','42']"
+                           data-lineheight="['95','85','90','42']"
                            data-responsive="off"
                            data-responsive_offset="off"
                            data-textAlign="left"
@@ -89,9 +89,7 @@
                            data-whitespace="normal"
                            data-width="100%"
                            data-x="['left','left','left','left']"
-                           data-y="['top','top','top','top']">Лидер <br> на рынке
-                        <br>
-                        вторичного сырья
+                           data-y="['top','top','top','top']">Лидер на рынке <br> вторичного сырья
                       </div>
                       <div class="main-slide__label-wrapper">
                         <!-- <div class="main-slide__label tp-caption"
@@ -341,7 +339,7 @@
             </a>
           </div>
           <div class="projects-block__slide-wrapper swiper-slide" data-filter="building">
-            <a class="projects-block__slide" href="#">
+            <a class="projects-block__slide" hrefлид="#">
               <img alt="" class="projects-block__image lazyload" data-src="assets/img/products/pet_tara.jpg"/>
               <span class="projects-block__slide-content">
                 <span class="projects-block__slide-head">

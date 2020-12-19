@@ -44,7 +44,7 @@
 <meta name="twitter:url" content="https://kzsr.kz/">
 <meta name="twitter:description" content="Лидер на рынке вторичного сырья в Казахстане">
   <!-- social -->
-   <link rel="stylesheet" href="https://kzsr.kz/assets/css/site.addons.css"> 
+   <link rel="stylesheet" href="assets/css/site.addons.css"> 
 </head>
 <body class="page">
 <div style="display: none">
@@ -60,11 +60,11 @@
     <div class="header__container">
       <div class="header__wrapper container-fluid">
         <div class="header__inner">
-          
+
           <div class="logo_cont">
             <a class="logo header__logo logo_img" href="/"><img src="../../assets/img/logo1.png" alt=""></a>
           </div>
-          <button class="header__menu-button" type="button">   
+          <button class="header__menu-button" type="button">
             <span class="header__menu-button-inner"></span>
             Меню
           </button>
@@ -138,8 +138,8 @@
     </div>
   </header>
   <body>
-    
-<?php 
+
+<?php
 require 'config.php';
 if ($dev_mode) {
   echo '<a target="_blank" href="/dev.php?func=save_to_file&page_id='.$id.'" class="btn btn--md btn--dark"><span>Сохранить в файл</span></a>';

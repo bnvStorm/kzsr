@@ -31,7 +31,7 @@
     }
     /*display: none;*/
     .counter-block__card-title,.main-slide__slide-inner,.main-slide__title {
-      font-family: 'EuropeCond', sans-serif;
+      font-family: 'EuropeCond', sans-serif !important;
     }
     .specialization-block{
       padding-bottom: 60px;
@@ -194,7 +194,7 @@ max-width: 100%;*/
 }
 .main-slide__title{
   line-height: 1;
-  font-size: 30px !important;
+  font-size: 50px !important;
 }
 .box{
   display: flex;
@@ -638,7 +638,7 @@ max-width: 100%;*/
     visibility: unset !important;
     height: 100vh !important;
     position: relative !important;
-    -webkit-transform: scaleX(1.5); 
+    -webkit-transform: scaleX(1.5);
     -moz-transform: scaleX(1.72);
 
   }
