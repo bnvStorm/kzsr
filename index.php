@@ -89,9 +89,9 @@
                            data-whitespace="normal"
                            data-width="100%"
                            data-x="['left','left','left','left']"
-                           data-y="['top','top','top','top']">Лидер <br> на рынке 
+                           data-y="['top','top','top','top']">Лидер <br> на рынке
                         <br>
-                        вторичного сырья 
+                        вторичного сырья
                       </div>
                       <div class="main-slide__label-wrapper">
                         <!-- <div class="main-slide__label tp-caption"
@@ -166,7 +166,7 @@
               </a>
                <a class="main-slider__social-link icofont-behance" href="#">
                 <div class="visually-hidden">vk</div>
-              </a> 
+              </a>
             </div> -->
             <!-- <div class="main-slider__locales">
               <a class="main-slider__locale link link link_active" href="#">En</a>
@@ -188,12 +188,12 @@
               </div>
               <div class="counter-block__card-value js-counter" data-counter-value="8">8</div>
               <div class="counter-block__card-description">Лет
-              
+
               </div>
             </div>
           </div>
 
-       
+
           <div class="col-12 col-xs-6 col-lg-5 col-xl-4 offset-lg-1 offset-xl-2">
             <div class="counter-block__title heading-smallest">Каждый месяц наша компания заключает более </div>
             <div class="counter-block__item">
@@ -246,7 +246,7 @@
         <div class="swiper-wrapper">
           <div class="projects-block__slide-wrapper swiper-slide" data-filter="building">
             <a class="projects-block__slide" href="#">
-              <img alt="" class="projects-block__image lazyload" data-src="assets/img/products/1.jpg"/>
+              <img alt="" class="projects-block__image lazyload" data-src="assets/img/products/akum1.jpg"/>
               <span class="projects-block__slide-content">
                 <span class="projects-block__slide-head">
                   <span class="projects-block__slide-title">АКБ</span>
@@ -258,7 +258,7 @@
           </div>
                 <div class="projects-block__slide-wrapper swiper-slide" data-filter="building">
             <a class="projects-block__slide" href="#">
-              <img alt="" class="projects-block__image lazyload" data-src="assets/img/products/2.jpg"/>
+              <img alt="" class="projects-block__image lazyload" data-src="assets/img/products/akum2.jpg"/>
               <span class="projects-block__slide-content">
                 <span class="projects-block__slide-head">
                   <span class="projects-block__slide-title">АКБ</span>
@@ -267,10 +267,10 @@
                   <span class="projects-block__slide-text">Подробнее</span>
                   <span class="projects-block__arrow icon-arrow-right"></span></span>
             </a>
-          </div> 
+          </div>
            <div class="projects-block__slide-wrapper swiper-slide" data-filter="building">
             <a class="projects-block__slide" href="#">
-              <img alt="" class="projects-block__image lazyload" data-src="assets/img/products/3.jpg"/>
+              <img alt="" class="projects-block__image lazyload" data-src="assets/img/products/karton.jpg"/>
               <span class="projects-block__slide-content">
                 <span class="projects-block__slide-head">
                   <span class="projects-block__slide-title">Картон</span>
@@ -282,7 +282,7 @@
           </div>
          <div class="projects-block__slide-wrapper swiper-slide" data-filter="building">
             <a class="projects-block__slide" href="#">
-              <img alt="" class="projects-block__image lazyload" data-src="assets/img/products/4.jpg"/>
+              <img alt="" class="projects-block__image lazyload" data-src="assets/img/products/makulatura.jpg"/>
               <span class="projects-block__slide-content">
                 <span class="projects-block__slide-head">
                   <span class="projects-block__slide-title">Макулатура</span>
@@ -291,7 +291,7 @@
                   <span class="projects-block__slide-text">Подробнее</span>
                   <span class="projects-block__arrow icon-arrow-right"></span></span>
             </a>
-          </div>   
+          </div>
             <div class="projects-block__slide-wrapper swiper-slide" data-filter="building">
             <a class="projects-block__slide" href="#">
               <img alt="" class="projects-block__image lazyload" data-src="assets/img/products/5.jpg"/>
@@ -318,7 +318,7 @@
           </div>
             <div class="projects-block__slide-wrapper swiper-slide" data-filter="building">
             <a class="projects-block__slide" href="#">
-              <img alt="" class="projects-block__image lazyload" data-src="assets/img/products/7.jpg"/>
+              <img alt="" class="projects-block__image lazyload" data-src="assets/img/products/kanistry_sin.jpg"/>
               <span class="projects-block__slide-content">
                 <span class="projects-block__slide-head">
                   <span class="projects-block__slide-title">ПНД-канистры</span>
@@ -327,7 +327,7 @@
                   <span class="projects-block__slide-text">Подробнее</span>
                   <span class="projects-block__arrow icon-arrow-right"></span></span>
             </a>
-          </div>     
+          </div>
           <div class="projects-block__slide-wrapper swiper-slide" data-filter="building">
             <a class="projects-block__slide" href="#">
               <img alt="" class="projects-block__image lazyload" data-src="assets/img/products/8.jpg"/>
@@ -342,7 +342,7 @@
           </div>
           <div class="projects-block__slide-wrapper swiper-slide" data-filter="building">
             <a class="projects-block__slide" href="#">
-              <img alt="" class="projects-block__image lazyload" data-src="assets/img/products/9.jpg"/>
+              <img alt="" class="projects-block__image lazyload" data-src="assets/img/products/pet_tara.jpg"/>
               <span class="projects-block__slide-content">
                 <span class="projects-block__slide-head">
                   <span class="projects-block__slide-title">ПЭТ-тара</span>
@@ -354,7 +354,7 @@
           </div>
           <div class="projects-block__slide-wrapper swiper-slide" data-filter="building">
             <a class="projects-block__slide" href="#">
-              <img alt="" class="projects-block__image lazyload" data-src="assets/img/products/10.jpg"/>
+              <img alt="" class="projects-block__image lazyload" data-src="assets/img/products/strech.jpg"/>
               <span class="projects-block__slide-content">
                 <span class="projects-block__slide-head">
                   <span class="projects-block__slide-title">Стрейч-пленка</span>
@@ -373,7 +373,7 @@
         <div class="row">
           <div class="col-12 col-lg-4">
             <div class="specialization-block__item">
-              
+
               <img class="specialization-block__image lazyload" data-src="assets/img/spec1.png" alt=""><!-- <object class="specialization-block__image lazyload js-motion-svg" data="assets/assets/img/icon_building.svg" type="image/svg+xml"></object> -->
               <div class="specialization-block__item-title">Операции на рынке вторичного сырья!</div>
               <!-- <div class="specialization-block__item-text">Переработка отходов ...
@@ -383,7 +383,7 @@
           </div>
           <div class="col-12 col-lg-4">
             <div class="specialization-block__item">
-              
+
               <img class="specialization-block__image lazyload" data-src="assets/img/spec2.png" alt=""><!-- <object class="specialization-block__image lazyload js-motion-svg" data="assets/assets/img/icon_house.svg" type="image/svg+xml"></object> -->
               <div class="specialization-block__item-title">Работаем во всех регионах Казахстана!</div>
               <!-- <div class="specialization-block__item-text">Переработка отходов ...
@@ -393,7 +393,7 @@
           </div>
           <div class="col-12 col-lg-4">
             <div class="specialization-block__item">
-              
+
               <img class="specialization-block__image lazyload" data-src="assets/img/spec3.png" alt=""><!-- <object class="specialization-block__image lazyload js-motion-svg" data="assets/assets/img/icon_factory.svg" type="image/svg+xml"></object> -->
               <div class="specialization-block__item-title">Собственная сеть логистики!</div>
               <!-- <div class="specialization-block__item-text">Переработка отходов....
@@ -539,7 +539,7 @@
         </div>
       </div>
     </div> -->
-  
+
   </main>
 <!--   <div class="b-container">
     Sample Text
